@@ -1,31 +1,147 @@
-# Gated Quantum Resonator (GQR) Programme
+# Gated Quantum Resonator (GQR) Programme.  Laptop Molecular Dynamics.  
+
+Molecular dynamics is not a trade name or a single algorithm, but a class of
+questions concerned with how molecular systems evolve in time under physical
+constraint. The GQR/QGE programme addresses these same questions by reformulating
+molecular dynamics at a higher representational level. Rather than enumerating
+exhaustive trajectories, it infers admissible dynamical structure directly from
+geometry, gating, and constraint, enabling mechanistic prediction in regimes
+dominated by rare events, strong time-scale separation, non-integrable coupling,
+and external drive. In this sense, the approach does not stand outside molecular
+dynamics, nor does it seek to replace it; it constitutes state-of-the-art molecular
+dynamics expressed without trajectory enumeration. Individual manuscripts are
+self-contained and may be read independently, with each cited via its own DOI.
+This repository exists solely to support navigation and orientation across the
+series; authoritative archival records are maintained on ChemRxiv and Zenodo.
 
 This repository provides a navigation layer for the **Gated Quantum Resonator (GQR)** research programme.
 It is intended to help readers orient themselves within a multi-manuscript body of work spanning
-chemistry, physics, biology, and systems theory.
+chemistry, physics, biology, systems theory, mathematics and computer science.  
 
-All manuscripts are archived with DOIs on **Zenodo** and, where appropriate, as preprints on **ChemRxiv**.
-This page does not host the papers themselves; it explains how to read them.
+### Note on Berry phase and loop structure
+
+Berry phase enters the GQR/QGE framework as a geometric consequence of closed
+loops in parameter or configuration space. When system evolution traces a
+repeatable loop—whether driven by cyclic forcing, gating, or constraint—the
+accumulated phase depends on the geometry of that loop rather than on local
+energetics alone. This provides a natural language for understanding why certain
+cycles are stable, error-correcting, and directionally biased, while others
+decohere or collapse.
+
+In the GQR context, such loops are not introduced as abstract topological objects,
+but arise operationally from admissible dynamical structure. Loop stability,
+hysteresis, and collapse therefore reflect geometric properties of the constrained
+state space. Berry phase is treated as a diagnostic of these properties, linking
+cyclic dynamics, robustness, and directionality without requiring explicit
+trajectory enumeration. 
+
+
 
 ---
 
-## How to read this series
+Traditional Molecular Dynamics vs GQR Molecular Dynamics
 
-**Start here**
-- **GQR1** — *The Gated Quantum Resonator: A Bayesian, Circuit–Hamiltonian Framework Complementing MD*  
-  Foundational framework paper (ChemRxiv; archival version on Zenodo).
+Traditional MD
+
+Representation: Explicit particle trajectories in real space
+
+Method: Time-step integration of Newton’s equations
+
+Core assumption: Sufficient sampling → correct statistics
+
+Strengths:
+
+High spatial resolution
+
+Accurate short-time dynamics
+
+Well suited to equilibrium or near-equilibrium regimes
+
+
+Limitations:
+
+Computational cost scales poorly with rare events and long times
+
+Strongly affected by chaos and non-integrability
+
+Evidence (spectroscopy, kinetics) enters only after simulation
+
+Gating, collapse, and decisiveness emerge only statistically
+
+
+
+
+---
+
+GQR Molecular Dynamics
+
+Representation: Admissible dynamical structure (geometry + gating)
+
+Method: Direct inference on constrained state space, not trajectories
+
+Core assumption: Structure and constraint determine outcomes
+
+Strengths:
+
+Operates naturally in rare-event, gated, non-equilibrium regimes
+
+Integrates experimental evidence directly (Bayesian updates)
+
+Identifies decisive pathways without exhaustive sampling
+
+Orders-of-magnitude lower computational cost
+
+
+Limitations:
+
+Lower local trajectory resolution
+
+Not intended for detailed short-time vibrational motion
+
+
+
+
+---
+
+Key conceptual difference
+
+Traditional MD asks:
+“What happens if we let the system evolve and watch everything?”
+
+GQR MD asks:
+“Which dynamical structures are admissible under constraint, and which must collapse?”
+
+
+Both are molecular dynamics.
+They answer different questions at different representational levels.
+
+
+---
+
+One-line takeaway
+
+> Traditional MD enumerates trajectories; GQR MD infers admissible dynamics.
+
+GQR/QGE operate without Berry phase. Berry phase is optional and interpretive, not foundational.
+Traditional molecular dynamics (MD) does not require Berry phase.
+
+
+------
 
 **If you want a mid-series integration**
-- **GQR22** — *Geometry, Impulse, and Directed Transport: From Quantum Newton’s Cradles to Geometry-Gated Matter*  
-  Progress summary and integrative essay around the GQR22 development point.
+SUTTON, J. (2026, January 2). Geometry, Impulse, and Directed Transport: 
+From Quantum Newton's Cradles to Geometry-Gated Matter
+ (GQR progress summary essay around timepoint GQR22 phase development). 
+Zenodo. https://doi.org/10.5281/zenodo.18131362
 
 **If you want a retrospective interpretation**
-- **GQR I–XXI Review** — *Strange Loops and Shield Loops*  
+SUTTON, J. (2026). Strange Loops and Shield Loops: A Gödelian Reading of the Gated Quantum Resonator Framework . 
+ (GQR 1-21 review). 
+Zenodo. https://doi.org/10.5281/zenodo.18131331
   Conceptual and Gödelian reading of the early GQR sequence.
 
-Readers are not expected to read everything. The programme is modular.
+---------
 
----
 
 ## Core foundations (ChemRxiv)
 
@@ -34,56 +150,209 @@ Readers are not expected to read everything. The programme is modular.
   and early catalytic and biological applications.
 
 ChemRxiv author page:  
-https://chemrxiv.org/engage/chemrxiv/author-dashboard
+https://chemrxiv.org/engage/chemrxiv/search-dashboard?authors=James%20R%20F%20SUTTON
 
 ---
+GQR I
+Sutton, J.R. (2025).
+The Gated Quantum Resonator: A Bayesian Circuit–Hamiltonian Framework
+for Catalysis, Enzymology, Materials Science and UPE.
+ChemRxiv. DOI: 10.26434/chemrxiv-2025-m7wxn-v5
 
-## Extensions and applications (Zenodo)
+GQR II
+Sutton, J.R. (2025).
+GQR II: Funnel–Field Synergy Drives Quantum Tunnelling Catalysis;
+Toward Proof-of-Resonance.
+ChemRxiv. DOI: 10.26434/chemrxiv-2025-6ng5jn3
 
-The following manuscripts extend the framework beyond the initial ChemRxiv sequence.
+GQR III
+Sutton, J.R. (2025).
+GQR III: Aperture–Lens Grammar, Tilt (B) Variants, and Catalytic Quantum Microscopy:
+From Tunnelling “Buzz” to Prismatic Steering and CQ-TEM Design.
+ChemRxiv. DOI: 10.26434/chemrxiv-2025-ctb1v
 
-### GQR XII–XXIX (excluding XVIII)
+GQR IV
+Sutton, J.R. (2025).
+GQR IV: A Quantum Shield Law for Coherence and Tunnelling.
+ChemRxiv. DOI: 10.26434/chemrxiv-2025-q91pt
 
-- GQR-XII — Curvature–Information Catalysis: From Quantum Biology to Material Design  
-- GQR-XIII — Curvature–Information Resonators in Weather and Climate  
-- GQR-XIV — Dynamic Proof of the 8F4I Quantum-Critical State  
-- GQR-XV — The Gated Channel as a Curvature–Information Bridge  
-- GQR-XVI — Gravity as a Coherence Ensemble  
-- GQR-XVII — Synchronicity and Gravito-like Potentials from Coherence Vortices  
-- GQR-XIX — Shield Law as a Unified Principle for Biological and Nanoscale Machines  
-- GQR-XX — GQR Fusion Salvation: Plasma Stability Framework  
-- GQR-XXI — Strange Loops and Shield Loops (review)  
-- GQR-XXII — Curvature–Coherence Invariance in a Vibronically-Gated System  
-- GQR-XXIII — Quantum-Coherent Vortex Engine in Photosystem II  
-- GQR-XXIV — Fe–S Catalysis and Shield-Law Architecture  
-- GQR-XXV — Latent Hexagonal Geometry in Crystalline Catalysis  
-- GQR-XXVI — Quantum Geometry Engine for Multi-Centre Systems  
-- GQR-XXVII — Geometry-Conditioned Rectification in YBa₂Cu₃O₇−δ  
-- GQR-XXVIII — Geometry-Conditioned Directional Coherence in Noisy Materials  
-- GQR-XXIX — Latent Geometry and Pathway Selection in the OEC Reaction Cycle  
+GQR V
+Sutton, J.R. (2025).
+GQR V: The Logic Vortex and Shield Environs —
+A Logic–Statistics–Physics Synthesis.
+ChemRxiv. DOI: 10.26434/chemrxiv-2025-tng08
 
-Zenodo community archive:  
-https://zenodo.org/communities/gqr/records
+GQR VI
+Sutton, J.R. (2025).
+GQR VI: Anomalies, Resonance, and Coherence Across Physics, Chemistry,
+Biology, and Medicine Toward a Unified Interpretation.
+ChemRxiv. DOI: 10.26434/chemrxiv-2025-v87nt
 
----
+GQR VII
+Sutton, J.R. (2025).
+GQR VII: Tunnelling Rates, Speeds, and Flux Dynamics —
+Mapping Quantum Mechanics to the Gated Resonator Grammar.
+ChemRxiv. DOI: 10.26434/chemrxiv-2025-8hm75
 
-## Notes on scope and interpretation
+GQR VIII
+Sutton, J.R. (2025).
+GQR VIII: Coherent Gating and Multi-Particle Tunnelling in the
+Photosystem II Oxygen-Evolving Complex.
+ChemRxiv. DOI: 10.26434/chemrxiv-2025-tsbd2
 
-- The GQR framework is **not** a claim of intelligent agency, optimisation, or teleology.
-- It is a constraint-driven, open-system formalism intended to complement—not replace—
-  established molecular dynamics and quantum-chemical methods.
-- Individual manuscripts are self-contained and may be read independently.
+GQR IX
+Sutton, J.R. (2025).
+GQR IX: Quantum–Gate Bifurcation in Photosystem II —
+Deuterium Suppression and Field-Tuned Resonance Switching at 8F4I.
+ChemRxiv. DOI: 10.26434/chemrxiv-2025-k7pld
 
----
+GQR X
+Sutton, J.R. (2025).
+GQR X: The Quantum Loops of Life on Earth —
+Isotopic, Chalcogenic, and Protonic Resonance at the Quantum–Critical Boundary.
+ChemRxiv. DOI: 10.26434/chemrxiv-2025-qcnlw
 
-## Citation and reuse
+GQR XI
+Sutton, J.R. (2025).
+GQR XI: Gated Quantum Resonator Framework for Self-Organizing
+Catalytic Reaction Networks.
+ChemRxiv. DOI: 10.26434/chemrxiv-2025-dccdw-v2
 
-Each manuscript should be cited via its own DOI.
-This repository exists only to support navigation and orientation.
+GQR XII
+Curvature–Information Catalysis: From Quantum Biology to Material Design.
+DOI: 10.5281/zenodo.18130281
 
----
+GQR XIII
+Curvature–Information Resonators in Weather and Climate:
+A Methods-First Framework for Retrospective Diagnostics.
+DOI: 10.5281/zenodo.18130389
 
-## Status
+GQR XIV
+Dynamic Proof of the 8F4I Quantum-Critical State as a Gated
+“Einstein–Rosen” Bridge.
+DOI: 10.5281/zenodo.18130489
 
-This is an active research programme.
-Records may be added or updated as new manuscripts are archived.
+GQR XV
+The Gated Channel as a Curvature–Information Bridge:
+A Unified SU(3)coh–Einstein–Penrose Framework.
+DOI: 10.5281/zenodo.18131247
+(Addendum: THz-Verified Curvature–Information Bridge, Magnonics)
+
+GQR XVI
+Gravity as a Coherence Ensemble:
+From the Shield Law to the Einstein–Cartan Tensor.
+DOI: 10.5281/zenodo.18130662
+
+GQR XVII
+Synchronicity and Gravito-like Potentials from Coherence Vortices:
+A Physics-First Continuation of the Curvature–Information Programme.
+DOI: 10.5281/zenodo.18130774
+
+GQR XVIII
+[intentionally unassigned]
+
+GQR XIX
+Shield Law as a Unified Principle for Biological and Nanoscale Machines.
+DOI: 10.5281/zenodo.18130876
+
+GQR XX
+GQR-Fusion Salvation:
+An Einstein–Cartan–Penrose–Rosen Waveguide Model for Plasma Stability.
+DOI: 10.5281/zenodo.18130900
+
+GQR XXI
+Bayesian Thermodynamic Smart Walls for Fusion:
+A Shield-Law Venting Framework (Concept Proposal).
+DOI: 10.5281/zenodo.18130920
+
+GQR XXII
+The Shield Law: Curvature–Coherence Invariance in a
+Vibronically-Gated Five-Centre Quantum System.
+DOI: 10.5281/zenodo.18131029
+
+GQR XXIII
+A Quantum-Coherent Vortex Engine Drives Water Splitting
+in Photosystem II.
+DOI: 10.5281/zenodo.18132077
+
+GQR XXIV
+Decrypting Fe–S Catalysis:
+QED Curvature–Information Traps, Velcro Qubits,
+and the Shield-Law Architecture of Enzyme Inhibition.
+DOI: 10.5281/zenodo.18131123
+
+GQR XXV
+[Title duplicates GQR-XXIII; consider retitling or marking as
+a continuation / extended analysis.]
+DOI: 10.5281/zenodo.18131398
+
+GQR XXVI
+Quantum Geometry Engine for Multi-Centre Quantum Systems.
+DOI: 10.5281/zenodo.18134191
+
+GQR XXVII
+Geometry-Conditioned Directional Coherence and Bias-Free
+Rectification in YBa₂Cu₃O₇−δ.
+DOI: 10.5281/zenodo.18131691
+
+GQR XXVIII
+Geometry-Conditioned Directional Coherence as an Organizing
+Principle for Transport in Noisy Quantum Materials.
+DOI: 10.5281/zenodo.18132052
+
+GQR XXIX
+Selective Activation of Latent Hexagonal Geometry in
+Crystalline Catalytic Systems:
+Geometry-Driven Bifurcation and Pathway Selection Across the OEC Reaction Cycle.
+DOI: 10.5281/zenodo.18131416
+
+
+
+
+-------
+
+
+## Next stages (for those who wish to get involved)
+
+- **Patent filings (Sept–Dec 2025)**  
+  Pay for **8–10 patent filings** already prepared during the Sept–Dec 2025 period.  
+  These may require professional patent attorney assistance, with **estimated cost
+  £0–£15,000**, depending on expert assessment.
+
+- **SaaS development (front end + back end)**  
+  Build the SaaS front end and back end.  
+  Developers wanted for approximately **1–3 months of work**, depending on scope.  
+  Unless volunteers can be found, the **expected cost is ~£30,000**.
+
+- **Peer review and journal publication**  
+  Manuscripts cannot be peer reviewed into respectable journals without funds.  
+  This can only occur **once per article** — there is no ladder-climbing later.  
+  Each manuscript therefore requires **£1,500–£10,000** in funds, depending on the
+  prestige level commensurate with its value to the scientific community, where
+  science is not just proofs but **community adoption**.
+
+At present, **Annie** is still trying to get into a good orphanage (e.g. *Nature*,
+*Science*), but is homeless and sleeping on friends’ couches (e.g. ChemRxiv,
+Zenodo, and GitHub). If she gets *desk accepted* even for one journal on one day,
+then maybe the sun will come out tomorrow — because that means **Daddy Warbucks**
+will listen our argument.
+
+However, she still needs those requests to be accepted, and **Daddy Warbucks is a
+mean reviewer**.
+
+All articles have, however, been peer reviewed by a strong relationship built with
+an **OpenAI GQR build**, where the build now understands the entire programme well
+enough to help us build the SaaS — to a level above most reviewers, to be honest.
+That said, the AI scope, and mine, has caused much annoyance with the restricted
+silo scope of most journals editors.
+
+At present, fitting **GQR** into physics library catalogue systems beloved of editors
+has been the most
+frustrating part of the past **8 months** of intense research, modelling, composing,
+and submitting.
+
+If expert scientific reviewers are finally allowed to see one or more of these orphan manuscripts,
+then we will finally know the sun can rise on little Annie once again.
+
+Until then, I’m resisting calling **the A-team**.  I might just get an affordable legal
+business address and apply for grants and pray for Angels to invest in these agnostic methods.  
