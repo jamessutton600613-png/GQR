@@ -1,0 +1,89 @@
+# Gated Quantum Resonator (GQR) Programme
+
+This repository provides a navigation layer for the **Gated Quantum Resonator (GQR)** research programme.
+It is intended to help readers orient themselves within a multi-manuscript body of work spanning
+chemistry, physics, biology, and systems theory.
+
+All manuscripts are archived with DOIs on **Zenodo** and, where appropriate, as preprints on **ChemRxiv**.
+This page does not host the papers themselves; it explains how to read them.
+
+---
+
+## How to read this series
+
+**Start here**
+- **GQR1** — *The Gated Quantum Resonator: A Bayesian, Circuit–Hamiltonian Framework Complementing MD*  
+  Foundational framework paper (ChemRxiv; archival version on Zenodo).
+
+**If you want a mid-series integration**
+- **GQR22** — *Geometry, Impulse, and Directed Transport: From Quantum Newton’s Cradles to Geometry-Gated Matter*  
+  Progress summary and integrative essay around the GQR22 development point.
+
+**If you want a retrospective interpretation**
+- **GQR I–XXI Review** — *Strange Loops and Shield Loops*  
+  Conceptual and Gödelian reading of the early GQR sequence.
+
+Readers are not expected to read everything. The programme is modular.
+
+---
+
+## Core foundations (ChemRxiv)
+
+- **GQR1–GQR11**  
+  Primary chemistry-forward preprints establishing the GQR framework, its formalism,
+  and early catalytic and biological applications.
+
+ChemRxiv author page:  
+https://chemrxiv.org/engage/chemrxiv/author-dashboard
+
+---
+
+## Extensions and applications (Zenodo)
+
+The following manuscripts extend the framework beyond the initial ChemRxiv sequence.
+
+### GQR XII–XXIX (excluding XVIII)
+
+- GQR-XII — Curvature–Information Catalysis: From Quantum Biology to Material Design  
+- GQR-XIII — Curvature–Information Resonators in Weather and Climate  
+- GQR-XIV — Dynamic Proof of the 8F4I Quantum-Critical State  
+- GQR-XV — The Gated Channel as a Curvature–Information Bridge  
+- GQR-XVI — Gravity as a Coherence Ensemble  
+- GQR-XVII — Synchronicity and Gravito-like Potentials from Coherence Vortices  
+- GQR-XIX — Shield Law as a Unified Principle for Biological and Nanoscale Machines  
+- GQR-XX — GQR Fusion Salvation: Plasma Stability Framework  
+- GQR-XXI — Strange Loops and Shield Loops (review)  
+- GQR-XXII — Curvature–Coherence Invariance in a Vibronically-Gated System  
+- GQR-XXIII — Quantum-Coherent Vortex Engine in Photosystem II  
+- GQR-XXIV — Fe–S Catalysis and Shield-Law Architecture  
+- GQR-XXV — Latent Hexagonal Geometry in Crystalline Catalysis  
+- GQR-XXVI — Quantum Geometry Engine for Multi-Centre Systems  
+- GQR-XXVII — Geometry-Conditioned Rectification in YBa₂Cu₃O₇−δ  
+- GQR-XXVIII — Geometry-Conditioned Directional Coherence in Noisy Materials  
+- GQR-XXIX — Latent Geometry and Pathway Selection in the OEC Reaction Cycle  
+
+Zenodo community archive:  
+https://zenodo.org/communities/gqr/records
+
+---
+
+## Notes on scope and interpretation
+
+- The GQR framework is **not** a claim of intelligent agency, optimisation, or teleology.
+- It is a constraint-driven, open-system formalism intended to complement—not replace—
+  established molecular dynamics and quantum-chemical methods.
+- Individual manuscripts are self-contained and may be read independently.
+
+---
+
+## Citation and reuse
+
+Each manuscript should be cited via its own DOI.
+This repository exists only to support navigation and orientation.
+
+---
+
+## Status
+
+This is an active research programme.
+Records may be added or updated as new manuscripts are archived.
