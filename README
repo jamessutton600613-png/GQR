@@ -17,113 +17,114 @@ series; authoritative archival records are maintained on ChemRxiv and Zenodo.
 This repository provides a navigation layer for the **Gated Quantum Resonator (GQR)** research programme.
 It is intended to help readers orient themselves within a multi-manuscript body of work spanning
 chemistry, physics, biology, systems theory, mathematics and computer science.  
+## Molecular Dynamics and Its Modern Extensions
 
-### Note on Berry phase and loop structure
+Students typically encounter molecular dynamics through several related but
+distinct methodological families. These differ in representation, scope, and
+computational cost.
 
-Berry phase enters the GQR/QGE framework as a geometric consequence of closed
-loops in parameter or configuration space. When system evolution traces a
-repeatable loop—whether driven by cyclic forcing, gating, or constraint—the
-accumulated phase depends on the geometry of that loop rather than on local
-energetics alone. This provides a natural language for understanding why certain
-cycles are stable, error-correcting, and directionally biased, while others
-decohere or collapse.
+### Classical Molecular Dynamics (MD)
 
-In the GQR context, such loops are not introduced as abstract topological objects,
-but arise operationally from admissible dynamical structure. Loop stability,
-hysteresis, and collapse therefore reflect geometric properties of the constrained
-state space. Berry phase is treated as a diagnostic of these properties, linking
-cyclic dynamics, robustness, and directionality without requiring explicit
-trajectory enumeration. 
+**Representation**  
+Explicit particle trajectories evolving on empirical or semi-empirical force
+fields.
 
+**Method**  
+Time-step integration of Newton’s equations for nuclei.
 
+**What it is good for**
+- Large systems
+- Long simulations near equilibrium
+- Structural sampling and diffusion
 
----
-
-Traditional Molecular Dynamics vs GQR Molecular Dynamics
-
-Traditional MD
-
-Representation: Explicit particle trajectories in real space
-
-Method: Time-step integration of Newton’s equations
-
-Core assumption: Sufficient sampling → correct statistics
-
-Strengths:
-
-High spatial resolution
-
-Accurate short-time dynamics
-
-Well suited to equilibrium or near-equilibrium regimes
-
-
-Limitations:
-
-Computational cost scales poorly with rare events and long times
-
-Strongly affected by chaos and non-integrability
-
-Evidence (spectroscopy, kinetics) enters only after simulation
-
-Gating, collapse, and decisiveness emerge only statistically
-
-
+**Limitations**
+- No explicit electronic structure
+- Rare events and activated processes are difficult to capture
 
 
 ---
 
-GQR Molecular Dynamics
+### Quantum Mechanics / Molecular Mechanics (QM/MM)
 
-Representation: Admissible dynamical structure (geometry + gating)
+**Representation**  
+Classical trajectories with selected regions treated quantum mechanically.
 
-Method: Direct inference on constrained state space, not trajectories
+**Method**  
+Hybrid embedding of quantum chemistry (often DFT) inside classical MD.
 
-Core assumption: Structure and constraint determine outcomes
+**What it is good for**
+- Enzyme active sites
+- Chemical reactions in complex environments
+- Bridging chemistry and biology
 
-Strengths:
-
-Operates naturally in rare-event, gated, non-equilibrium regimes
-
-Integrates experimental evidence directly (Bayesian updates)
-
-Identifies decisive pathways without exhaustive sampling
-
-Orders-of-magnitude lower computational cost
-
-
-Limitations:
-
-Lower local trajectory resolution
-
-Not intended for detailed short-time vibrational motion
-
-
+**Limitations**
+- High computational cost
+- Still trajectory-based
+- Sensitive to partitioning and parametrisation
 
 
 ---
 
-Key conceptual difference
+### Ab Initio Molecular Dynamics (AIMD / DFT-MD)
 
-Traditional MD asks:
-“What happens if we let the system evolve and watch everything?”
+**Representation**  
+Classical nuclear trajectories evolving on electronic structure surfaces.
 
-GQR MD asks:
-“Which dynamical structures are admissible under constraint, and which must collapse?”
+**Method**  
+On-the-fly electronic structure calculations (typically DFT).
 
+**What it is good for**
+- Small systems
+- Short timescales
+- Detailed electronic effects
 
-Both are molecular dynamics.
-They answer different questions at different representational levels.
+**Limitations**
+- Extremely limited time and length scales
+- Poor access to rare or gated events
 
 
 ---
 
-One-line takeaway
+## Geometry-Gated Molecular Dynamics (GQR / QGE)
 
-> Traditional MD enumerates trajectories; GQR MD infers admissible dynamics.
+**Representation**  
+Admissible dynamical structure defined by geometry, gating, and constraint.
 
-GQR/QGE operate without Berry phase. Berry phase is optional and interpretive, not foundational.
-Traditional molecular dynamics (MD) does not require Berry phase.
+**Method**  
+Direct inference on constrained state space, without enumerating trajectories.
+
+**What it is good for**
+- Rare-event and gated dynamics
+- Strong time-scale separation
+- Non-equilibrium and driven systems
+- Mechanistic discrimination using experimental evidence
+
+**Limitations**
+- Lower local trajectory resolution
+- Not intended to replace detailed short-time simulations
+
+
+---
+
+### Conceptual distinction
+
+Trajectory-based methods ask:  
+*“How does the system evolve if we integrate its equations of motion?”*
+
+Geometry-gated methods ask:  
+*“Which dynamical structures are admissible under constraint, and which must
+collapse?”*
+
+Both are forms of molecular dynamics, but they operate at different
+representational levels and are suited to different classes of problems.
+
+---
+
+### One-line takeaway (for students)
+
+> **Classical MD, QM/MM, and AIMD simulate trajectories; 
+
+<<<GQR/QGE infers dynamics from geometry and constraint.**
 
 
 ------
