@@ -42,7 +42,8 @@ The GQR framework:
 
 ## Archival record
 
-- ChemRxiv: https://chemrxiv.org  
-- Zenodo: https://zenodo.org
+- ChemRxiv: https://chemrxiv.org/engage/chemrxiv/search-dashboard?authors=James%20R%20F%20SUTTON
+- Zenodo: https://zenodo.org/communities/gqr/records
 
+  
 For citation and long-term reference, please use the DOI-linked records.
