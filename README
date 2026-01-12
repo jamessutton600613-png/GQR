@@ -1,6 +1,22 @@
 # Gated Quantum Resonator (GQR) Programme.  Laptop Molecular Dynamics.  
 （中文说明）本页面为 Gated Quantum Resonator（GQR）研究计划的导航入口，用于引导读者了解一系列独立但相关的研究论文与其科学背景。
 
+“We explicitly do not invoke long-range quantum coherence, macroscopic superposition, or sustained entanglement
+in biological systems. Our framework is fully compatible with standard decoherence theory, including the timescale
+estimates of Tegmark, and concerns only ultrafast,
+geometry-gated quantum transitions whose outcomes are fixed prior to environmental decoherence.”
+i have to say this as sadly the well was poisoned on quantum biology for many people by misunderstanding of Tegmark, even by reputeable APS editors.
+ 
+
+繁體中文・中性學術版（建議使用）
+我們明確不採用生物系統中的長程量子相干、宏觀疊加或持續糾纏。
+我們的框架完全相容於標準退相干理論，包括 Tegmark 所提出的退相干時間尺度估計，並且僅涉及超快速、由幾何結構門控的量子躍遷，其結果在環境退相干發生之前即已確定。
+
+
+
+
+
+
 SUTTON, J. (2026). Measurement as Gating: A Geometry-First Review of the Double-Slit and Quantum Eraser Experiments. (GQR30)
 English/Mandarin. Zenodo. https://doi.org/10.5281/zenodo.18203136
 测量作为门控：
