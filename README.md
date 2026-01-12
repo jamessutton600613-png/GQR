@@ -48,113 +48,105 @@ The GQR framework:
   
 For citation and long-term reference, please use the DOI-linked records.
 
-
-
 ## Addendum: Field Convergence and Context (Living List)
 
-### Why this section exists
+### Purpose of this section
 
-The Gated Quantum Resonator (GQR) programme spans multiple domains
-(quantum physics, photonics, materials science, chemistry, and biology)
-and advances a **geometry-first, constraint-driven view of physical dynamics**.
+The Gated Quantum Resonator (GQR) programme advances a **geometry-first,
+constraint-driven perspective on physical dynamics** across quantum physics,
+photonics, materials science, chemistry, and biology.
 
-While individual GQR manuscripts contain focused reference lists appropriate
-to their immediate scope, such article-level references do **not capture broader
-field movements** that are relevant to GQR but may not yet be directly cited,
-formally unified, or explicitly framed in compatible language by their original authors.
+Individual journal articles necessarily operate within **tight, localised
+scopes** and employ narrowly focused reference lists. Research programmes,
+by contrast, mature through **contextual accumulation**: the comparison of
+independently obtained results that reveal consistent structural patterns
+across domains.
 
-This section exists to record **independent, contemporaneous developments**
-that converge on core GQR intuitions, even where those works:
-
+This section exists to document such **independent convergence**, even where
+the original works:
 - do not reference GQR,
 - are framed conservatively or instrumentally,
-- or fall outside the immediate scope of any single manuscript.
+- or fall outside the scope of any single manuscript.
 
-This is **context**, not authority-stacking.
-
----
-
-### Why this list is separate from manuscript references
-
-Journal articles require **tight, localised citation discipline**.
-Research programmes require **longitudinal awareness of field shifts**.
-
-Many results relevant to GQR are editorially orthogonal to any single paper,
-yet programmatically central when viewed together.
-Capturing such convergence inline within articles is often inappropriate or impractical.
-
-This addendum therefore functions as:
-
-- a **programme-level memory**,
-- a **navigation aid for editors and reviewers**, and
-- a record of **where the field is quietly moving**, regardless of terminology.
+The aim is **programme-level synthesis**, not substitution for article-level
+demonstration.
 
 ---
 
-### Status of the list (important)
+### On contextual accumulation
 
-This list is **intentionally short**.
-
-It is newly introduced (2025) and will grow **incrementally and conservatively**.
-Entries are added only where a work demonstrates clear, independent alignment with
-GQR-relevant concepts, such as:
+Entries listed here are not presented as isolated proofs. They function as
+**contextual support**, indicating where multiple, conservative lines of
+research independently converge on ideas central to GQR, including:
 
 - geometry- or boundary-condition-dominated dynamics,
 - outcome selection without reliance on long-lived coherence,
-- self-configuration or constraint-driven optimisation,
+- self-configuration and constraint-driven optimisation,
 - non-kinetic or non-trajectory-first mechanisms.
 
-Inclusion here **does not imply endorsement, reinterpretation, or claimed equivalence**
-with GQR. It indicates **conceptual relevance**, not identity.
+Such accumulation is the standard mechanism by which broader physical
+frameworks emerge and stabilise over time.
 
 ---
 
-### Independent field movements relevant to GQR (non-exhaustive)
+### Structure of the list
 
-- **Self-configuring, geometry-driven optical transformations**  
-  Rocha *et al.* demonstrate that complex multi-plane optical transformations
-  can be physically learned and stabilised *in situ*, without offline inverse
-  Hamiltonian design, via hardware-embedded optimisation.  
-  *Relevance to GQR:* supports geometry-first, boundary-condition-driven outcome
-  selection in real, noisy systems without reliance on long-lived coherence.  
-  **Reference:**  
-  José C. A. Rocha *et al.*, *Self-configuring high-speed multi-plane light conversion*,
-  **Nature Communications** (2025).  
-  DOI: https://doi.org/10.1038/s41467-025-66798-2
+- Entries are listed **chronologically by publication year**.
+- The list is **living**; numbering may change as earlier or intervening
+  works are added.
+- Inclusion indicates **conceptual relevance**, not endorsement,
+  reinterpretation, or claimed equivalence with GQR.
 
-- **Cryogenic self-healing via internal field minimisation**  
-  Ding *et al.* report autonomous structural and optical self-healing in an organic
-  crystal down to liquid-nitrogen temperatures, driven by dipolar and energy-landscape
-  effects rather than thermal diffusion.  
-  *Relevance to GQR:* undermines kinetics-first assumptions and supports
-  non-Arrhenius, constraint-dominated pathways consistent with geometry-gated
-  transition selection.  
-  **Reference:**  
-  Chengde Ding *et al.*, *Cryogenically self-healing organic crystals*,
-  **Nature Materials** (2025).  
-  DOI: https://doi.org/10.1038/s41563-025-02411-7
+---
 
-- **Constraint-selected multidimensional nonlinear wave structures**  
-  Dieli *et al.* report the first experimental observation of lump solitons,
-  long-predicted multidimensional solutions of integrable nonlinear equations,
-  stabilised by global constraints rather than trajectory tracking.  
-  *Relevance to GQR:* illustrates how geometry and integrability can pre-select
-  allowed outcomes in complex systems, independent of microscopic noise.  
-  **Reference:**  
-  Ludovica Dieli *et al.*, *Observation of lump solitons*,
-  **Physical Review Letters** (2025).  
-  DOI: https://doi.org/10.1103/ggbs-y21w
+### Independent field movements relevant to GQR (chronological)
+
+1. **Constraint-selected multidimensional nonlinear wave structures (2025)**  
+   Dieli *et al.* report the first experimental observation of lump solitons,
+   long-predicted multidimensional solutions of integrable nonlinear equations,
+   stabilised by global constraints rather than trajectory tracking.  
+   *Relevance to GQR:* demonstrates how geometry and integrability conditions
+   can pre-select stable outcomes in complex systems, independent of microscopic
+   noise or detailed trajectory control.  
+   **Reference:**  
+   Ludovica Dieli *et al.*, *Observation of lump solitons*,  
+   **Physical Review Letters** (2025).  
+   DOI: https://doi.org/10.1103/ggbs-y21w
+
+2. **Self-configuring, geometry-driven optical transformations (2025)**  
+   Rocha *et al.* demonstrate that complex multi-plane optical transformations
+   can be physically learned and stabilised *in situ*, without offline inverse
+   Hamiltonian design, via hardware-embedded optimisation.  
+   *Relevance to GQR:* supports geometry-first, boundary-condition-driven outcome
+   selection in real, noisy systems, and illustrates physical self-configuration
+   without reliance on long-lived coherence.  
+   **Reference:**  
+   José C. A. Rocha *et al.*, *Self-configuring high-speed multi-plane light conversion*,  
+   **Nature Communications** (2025).  
+   DOI: https://doi.org/10.1038/s41467-025-66798-2
+
+3. **Cryogenic self-healing via internal field and energy-landscape minimisation (2025)**  
+   Ding *et al.* report autonomous structural and optical self-healing in an
+   organic crystal down to liquid-nitrogen temperatures, driven by dipolar and
+   energy-landscape effects rather than thermal diffusion.  
+   *Relevance to GQR:* undermines kinetics-first assumptions and supports
+   constraint-dominated, non-Arrhenius pathways consistent with geometry-gated
+   transition selection.  
+   **Reference:**  
+   Chengde Ding *et al.*, *Cryogenically self-healing organic crystals*,  
+   **Nature Materials** (2025).  
+   DOI: https://doi.org/10.1038/s41563-025-02411-7
 
 ---
 
 ### How to read this section
 
-This list should be read as:
-
+This section should be read as:
 - **programme context**, not a claim of priority;
-- **evidence of convergence**, not proof by accumulation;
-- a **living map**, not a closed bibliography.
+- **accumulated support**, not a single decisive argument;
+- a **living map of convergence**, not a closed bibliography.
 
-Readers interested only in a specific manuscript should rely on that manuscript’s
-references. Readers interested in the broader intellectual positioning of GQR
-may find this section useful.
+Readers concerned only with the validation of a specific result should rely
+on the references within the relevant manuscript. Readers interested in the
+broader intellectual positioning of the GQR programme may find this section
+useful.
