@@ -33,6 +33,10 @@ The GQR framework:
 - Is fully compatible with standard decoherence theory
 - Concerns ultrafast, geometry-gated quantum transitions whose outcomes are
   fixed prior to environmental decoherence
+- In some applications, the effective Hamiltonian dimensionality is **unusual or extended**
+  as a consequence of geometric constraint, coupling, or coarse-grained representation.
+  This does not imply new quantum postulates, but reflects a modelling choice appropriate
+  to geometry-gated and multi-centre systems.
 
 ---
 
