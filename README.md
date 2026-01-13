@@ -10,20 +10,17 @@ Several components of the GQR framework originated from work that did not confor
 
 This programme therefore proceeds on the assumption that scientific validity and journal scope are distinct questions, and treats open evaluation as a feature rather than a compromise.
 
+### A note for interdisciplinary readers
 
-## Scope and Compatibility
+Readers familiar with debates around “quantum biology” may reasonably wonder whether this work invokes controversial claims about long-range coherence, macroscopic superposition, or nonstandard physics. It does not.
 
-> **All physical claims remain within standard quantum chemistry; the framework introduces no new observables, operators, or postulates.**
+All physical assumptions in the GQR framework remain within standard quantum chemistry and open quantum systems theory. The framework introduces no new physical postulates, observables, or departures from established quantum mechanics. It does not rely on sustained coherence in warm biological environments, nor on quantum effects persisting beyond accepted decoherence timescales.
 
-The GQR framework:
+Instead, GQR concerns **ultrafast, local, geometry-gated quantum transitions** whose outcomes are fixed on timescales shorter than environmental decoherence. In this sense, quantum effects enter as transient selection mechanisms rather than as long-lived states.
 
-- Does **not** invoke long-range quantum coherence, macroscopic superposition, or sustained entanglement in biological systems  
-- Is **fully compatible** with standard decoherence theory  
-- Concerns **ultrafast, geometry-gated quantum transitions** whose outcomes are fixed prior to environmental decoherence  
-- In some applications, employs **effective Hamiltonians of higher or unusual dimensionality**, arising from geometric constraint, multi-centre coupling, or coarse-grained representations  
+Where higher-dimensional or unconventional Hamiltonian representations appear, these reflect modelling choices arising from geometric constraint, multi-centre coupling, or coarse-grained subspace projection, all of which are standard practices in quantum chemistry and condensed-matter modelling.
 
-These Hamiltonians reflect a **modelling and representation choice**, not new quantum postulates or modifications of quantum mechanics, and are standard practice when reducing or embedding geometry-conditioned subspaces.
-
+Readers may therefore interpret the framework as a geometry-first reorganisation of familiar quantum principles, rather than as a proposal of exotic or speculative physics.
 ---
 
 ## Encouraging Results (Provisional)
