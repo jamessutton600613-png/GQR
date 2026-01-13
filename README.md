@@ -21,6 +21,7 @@ Instead, GQR concerns **ultrafast, local, geometry-gated quantum transitions** w
 Where higher-dimensional or unconventional Hamiltonian representations appear, these reflect modelling choices arising from geometric constraint, multi-centre coupling, or coarse-grained subspace projection, all of which are standard practices in quantum chemistry and condensed-matter modelling.
 
 Readers may therefore interpret the framework as a geometry-first reorganisation of familiar quantum principles, rather than as a proposal of exotic or speculative physics.
+
 ---
 
 ## Encouraging Results (Provisional)
