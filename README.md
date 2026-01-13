@@ -83,6 +83,19 @@ This section documents **independent convergence**, even where the original work
 Inclusion indicates **conceptual relevance**, not endorsement, reinterpretation, or claimed equivalence with GQR. Entries are listed chronologically and the list is living.
 
 ---
+**Chiral fermionic transport gated by quantum geometry (2026)**  
+
+Dixit *et al.* report a chiral fermionic valve in which directional electronic transport arises from quantum-geometric properties of the electronic structure rather than from magnetic fields, dissipation, or classical asymmetry. The device exploits Berry curvature and band-geometry effects to achieve non-reciprocal conduction in a solid-state system.
+
+**Relevance to GQR:**  
+This work demonstrates that **quantum geometry can gate and bias fermionic transport outcomes** without invoking long-lived coherence or nonstandard quantum effects. The emergence of directionality from geometric structure alone closely parallels the GQR principle that geometry and constraint can pre-select admissible dynamical pathways and outcomes, here realised in a condensed-matter setting.
+
+**Reference:**  
+A. Dixit, P. K. Sivakumar, K. Manna, C. Felser, S. S. P. Parkin,  
+*A chiral fermionic valve driven by quantum geometry*,  
+*Nature* (2026).  
+DOI: https://doi.org/10.1038/s41586-024-07860-8
+
 
 ## Independent Field Movements Relevant to GQR (Chronological)
 
