@@ -86,7 +86,7 @@ Inclusion indicates **conceptual relevance**, not endorsement, reinterpretation,
 
 ## Independent Field Movements Relevant to GQR (Chronological)
 
-### Constraint-selected multidimensional nonlinear wave structures (2025)
+### Constraint-selected multidimensional nonlinear wave structures (2026)
 
 Dieli *et al.* report the first experimental observation of **lump solitons**—long-predicted multidimensional solutions of integrable nonlinear equations—stabilised by global constraints rather than trajectory tracking.
 
@@ -95,12 +95,12 @@ Demonstrates how geometry and integrability conditions can pre-select stable out
 
 **Reference:**  
 L. Dieli *et al.*, *Observation of lump solitons*,  
-*Physical Review Letters* (2025).  
+*Physical Review Letters* (2026).  
 DOI: https://doi.org/10.1103/ggbs-y21w
 
 ---
 
-### Self-configuring, geometry-driven optical transformations (2025)
+### Self-configuring, geometry-driven optical transformations (2026)
 
 Rocha *et al.* demonstrate that complex multi-plane optical transformations can be physically learned and stabilised *in situ*, without offline inverse Hamiltonian design, via hardware-embedded optimisation.
 
@@ -109,12 +109,12 @@ Supports geometry-first, boundary-condition-driven outcome selection in real, no
 
 **Reference:**  
 J. C. A. Rocha *et al.*, *Self-configuring high-speed multi-plane light conversion*,  
-*Nature Communications* (2025).  
+*Nature Communications* (2026).  
 DOI: https://doi.org/10.1038/s41467-025-66798-2
 
 ---
 
-### Cryogenic self-healing via internal field and energy-landscape minimisation (2025)
+### Cryogenic self-healing via internal field and energy-landscape minimisation (2026)
 
 Ding *et al.* report autonomous structural and optical self-healing in an organic crystal down to liquid-nitrogen temperatures, driven by dipolar and energy-landscape effects rather than thermal diffusion.
 
@@ -123,7 +123,7 @@ Undermines kinetics-first assumptions and supports constraint-dominated, non-Arr
 
 **Reference:**  
 C. Ding *et al.*, *Cryogenically self-healing organic crystals*,  
-*Nature Materials* (2025).  
+*Nature Materials* (2026).  
 DOI: https://doi.org/10.1038/s41563-025-02411-7
 
 ---
