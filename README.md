@@ -165,6 +165,27 @@ frameworks emerge and stabilise over time.
    **Nature Materials** (2025).  
    DOI: https://doi.org/10.1038/s41563-025-02411-7
 
+4.  **Geometry- and constraint-conditioned electronic phases in moiré systems (2025)**
+
+Kumar, Lewandowski & Changlani analyse the origin and stability of generalized Wigner crystallinity in triangular moiré superlattices, showing how interaction geometry and frustration govern emergent phases, including partially “pinball”-like electron configurations.
+
+**Relevance to GQR:**  
+This work demonstrates that *geometric and coupling structure alone* can delimit accessible dynamical outcomes in strongly correlated quantum systems, with phase behaviour conditioned by constraint rather than fine-tuned trajectories. This conceptual emphasis on *geometry-gated emergent behaviour* parallels the selection logic in GQR.
+A. Kumar, C. Lewandowski & H. J. Changlani, *Origin and stability of generalized Wigner crystallinity in triangular moiré systems*, *npj Quantum Materials* **10**, 95 (2025).  
+DOI: https://doi.org/10.1038/s41535-025-00792-1
+
+5. **Constraint-selected self-assembly of mutually repelling particles under confinement (2025)**  
+
+de Lima *et al.* study systems of mutually repelling particles confined within two-dimensional geometries and show that, despite purely repulsive interactions, the particles self-organise into stable clusters, shells, and frustrated microstructures. The observed ordering arises from the competition between interaction strength, geometric confinement, and fluctuations, leading to reproducible, geometry-dependent patterns.
+
+**Relevance to GQR:**  
+This work demonstrates that **geometric confinement and global constraints can pre-select stable configurations** in complex systems without detailed trajectory control. The emergence of ordered motifs under repulsion-plus-confinement parallels the GQR principle that constrained configuration spaces can bias accessible dynamical outcomes, independent of microscopic noise or fine-tuning.
+**Reference:**  
+P. D. S. de Lima *et al.*, *Self-assembled clusters of mutually repelling particles in confinement*,  
+*Physical Review E* (2025).  
+DOI: 10.1103/1wcz-hhw6  
+arXiv: 2506.19772
+
 ---
 
 ### How to read this section
