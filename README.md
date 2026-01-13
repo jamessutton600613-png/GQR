@@ -181,5 +181,5 @@ Demonstrates that geometric confinement and global constraints can pre-select st
 **Reference:**  
 P. D. S. de Lima *et al.*, *Self-assembled clusters of mutually repelling particles in confinement*,  
 *Physical Review E* (2025).  
-DOI: 10.1103/1wcz-hhw6  
+DOI: https://doi.org/10.1103/1wcz-hhw6  
 arXiv: 2506.19772
