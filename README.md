@@ -7,6 +7,30 @@ It reformulates molecular dynamics by inferring **admissible dynamical structure
 from geometry, gating, and constraint, rather than enumerating exhaustive
 particle trajectories.
 
+## Encouraging Results (Provisional)
+
+Encouraging results have been obtained from applying the GQR framework to
+high-resolution crystal structures across several well-characterised
+systems, including:
+
+- The oxygen-evolving complex (OEC) of photosystem II  
+- Enzymes containing Fe–S clusters  
+- YBCO (YBa₂Cu₃O₇₋ₓ) superconducting materials  
+
+In each case, the analysis focuses on experimentally resolved geometries and
+their role in constraining quantum-allowed transitions during bond formation,
+electron transfer, or coupled multi-centre dynamics.
+
+These results are derived from established structural data and standard
+quantum-chemical formalisms, with GQR providing a geometry-conditioned
+representation of the accessible transition space. No assumptions of
+long-range coherence, macroscopic superposition, or sustained entanglement are
+required.
+
+The reported findings should be regarded as **provisional** and are currently
+undergoing peer review. Further validation, independent replication, and
+critical assessment will determine their scope and limitations.
+
 This repository serves solely as a **navigation and orientation hub**
 for a multi-manuscript research programme.
 Authoritative, citable records are maintained on ChemRxiv and Zenodo.
