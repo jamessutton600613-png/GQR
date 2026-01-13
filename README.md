@@ -28,15 +28,19 @@ Readers are **not expected to read everything**.
 ## Scope and compatibility
 
 The GQR framework:
-- Does **not** invoke long-range quantum coherence, macroscopic superposition,
-  or sustained entanglement in biological systems
+
+“All physical claims remain within standard quantum chemistry; the framework introduces no new observables, operators, or postulates.”
+
+
+- Does **not** invoke long-range quantum coherence, macroscopic superposition, nor sustained entanglement in biological systems
+
 - Is fully compatible with standard decoherence theory
+
 - Concerns ultrafast, geometry-gated quantum transitions whose outcomes are
   fixed prior to environmental decoherence
-- In some applications, the effective Hamiltonian dimensionality is **unusual or extended**
-  as a consequence of geometric constraint, coupling, or coarse-grained representation.
-  This does not imply new quantum postulates, but reflects a modelling choice appropriate
-  to geometry-gated and multi-centre systems.
+
+- In some applications, employs effective Hamiltonians of higher or unusual dimensionality, arising from geometric constraint, multi-centre coupling, or coarse-grained representations.
+This reflects a modelling and representation choice, not new quantum postulates or modifications of quantum mechanics, and is standard practice when reducing or embedding geometry-conditioned subspaces.
 
 ---
 
