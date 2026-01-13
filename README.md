@@ -85,6 +85,18 @@ This section documents **independent convergence**, even where the original work
 
 Inclusion indicates **conceptual relevance**, not endorsement, reinterpretation, or claimed equivalence with GQR. Entries are listed chronologically and the list is living.
 
+
+### Entanglement as a transient accelerator of outcome selection in quantum dynamics (2025)
+
+Zhao, Zhou & Childs demonstrate that quantum entanglement can *accelerate* quantum simulation algorithms, contrary to the long-standing view that entanglement is primarily an obstacle. By deriving tighter error bounds for product-formula simulations and introducing adaptive protocols that exploit entanglement entropy, they show that highly entangled states can improve algorithmic performance on quantum hardware without requiring long-lived or protected coherence.
+
+**Relevance to GQR:**  
+This work independently supports the GQR/QGE position that entanglement need not be treated as a fragile resource that must persist to be operationally relevant. Instead, entanglement can function as a **transient structural feature** that shapes admissible dynamical pathways and fixes outcomes *before* decoherence dominates. In this sense, entanglement appears as a consequence of constrained geometry and coupling topology rather than as a sustained state requiring protection—closely paralleling the GQR interpretation of apparent entanglement in systems such as the oxygen-evolving complex.
+
+**Reference:**  
+Q. Zhao, Y. Zhou, A. M. Childs, *Entanglement accelerates quantum simulation*, *Nature Physics* **21**, 1338–1345 (2025).  
+DOI: https://doi.org/10.1038/s41567-025-02945-2
+
 ---
 **Chiral fermionic transport gated by quantum geometry (2026)**  
 
