@@ -1,10 +1,15 @@
-# ### Context
+### Quantum Resonators in Biology
 
-The GQR programme is motivated in part by the observation that certain classes of geometry-gated and ultrafast dynamical mechanisms were slow to consolidate into mainstream modelling and drug-discovery practice. This was not due to coordinated suppression, but to structural factors: influential decoherence arguments encouraged overly narrow interpretations of biologically relevant quantum effects, while institutional and industrial incentives favoured approaches that scaled immediately within established pipelines. As a result, reaction-path control and geometry-first transition mechanisms remained fragmented across disciplines. In hindsight, this likely delayed their systematic exploitation by approximately 10–20 years.
+#### Structural delay in drug-discovery abstraction
+
+The GQR programme is motivated in part by the observation that certain classes of geometry-gated and ultrafast dynamical mechanisms were slow to consolidate into mainstream modelling and drug-discovery practice. This was not due to coordinated suppression, but to structural factors: influential decoherence arguments encouraged narrow interpretations of biologically relevant quantum effects, while institutional and industrial incentives favoured approaches that scaled immediately within established pipelines. As a result, reaction-path control and geometry-first transition mechanisms remained fragmented across disciplines. In hindsight, this likely delayed their systematic exploitation by approximately 10–20 years.
 
 ### Context
 
-Several components of the GQR framework originated from work that did not conform to the scope expectations of conventional specialist physics journals. In all cases, the work was immediately deemed as outside journal remit rather than incorrect in substance. This experience reflects a broader structural limitation of siloed publication models when evaluating geometry-first, cross-disciplinary approaches, and motivates the use of open, scope-flexible review venues for the present programme.
+Several components of the GQR framework originated from work that did not conform to the scope expectations of conventional specialist physics journals. In multiple cases, submissions were assessed as outside journal remit rather than incorrect in substance. This experience reflects a broader structural limitation of siloed publication models when evaluating geometry-first, cross-disciplinary approaches, and motivates the use of open, scope-flexible review venues for the present programme.
+
+This programme therefore proceeds on the assumption that scientific validity and journal scope are distinct questions, and treats open evaluation as a feature rather than a compromise.
+
 
 ## Scope and Compatibility
 
