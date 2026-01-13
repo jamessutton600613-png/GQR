@@ -8,7 +8,7 @@ Two new manuscripts within the GQR / Quantum Geometry Engine (QGE) programme hav
 
 In addition, the standalone physics manuscript occupying the honorary **GQR18** slot,
 
-- *Transient Directed Transport in a Minimal Time-Gated Quantum System*,
+- *Transient Directed Transport in a Minimal Time-Gated Quantum System*, was also submitted to a Physics journal for peer review,
 
 is included here as a related contribution. This work is not formally part of the GQR series and represents a self-contained physics study that informed later geometry-first developments. It is referenced for conceptual continuity only and is intended to be evaluated independently, without reliance on the broader GQR programme. A dedicated physics repository is planned for such standalone works.
 
