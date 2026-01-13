@@ -98,7 +98,8 @@ Q. Zhao, Y. Zhou, A. M. Childs, *Entanglement accelerates quantum simulation*, *
 DOI: https://doi.org/10.1038/s41567-025-02945-2
 
 ---
-###Chiral fermionic transport gated by quantum geometry (2026)###
+
+### Chiral fermionic transport gated by quantum geometry (2026) ###
 
 Dixit *et al.* report a chiral fermionic valve in which directional electronic transport arises from quantum-geometric properties of the electronic structure rather than from magnetic fields, dissipation, or classical asymmetry. The device exploits Berry curvature and band-geometry effects to achieve non-reciprocal conduction in a solid-state system.
 
