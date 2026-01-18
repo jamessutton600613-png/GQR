@@ -1,7 +1,39 @@
 ## News / Updates
 
+
+
 **2026-01-18**  
-Post-publication context and convergent literature (living note)
+
+two highly relevant articles this week:
+
+## GQR News — Topological Leaky Transport as Geometry-Gated Readout (Jan 2026)
+
+**Recent experimental work in 1 (published 12 January 2026)** reports an on-chip *topological leaky-wave antenna* based on valley photonic crystals, demonstrating that **topologically protected transport and controlled radiation leakage can coexist within a single geometry-defined structure** [1].
+
+Rather than treating radiation as an undesirable loss, the authors intentionally exploit **conical leakage from topological edge states** to achieve wide-angle beam scanning, frequency-division multiplexing, and bidirectional on-chip ↔ free-space coupling at terahertz frequencies. Crucially, emission directionality and robustness are governed primarily by **lattice geometry and boundary topology**, rather than fine-tuned material parameters or active electronic control.
+
+This result is directly relevant to the **Gated Quantum Resonator (GQR)** programme, particularly:
+
+- **GQR-XIV** — *Dynamic Proof of Geometry-Gated Transport*:  
+  The reported device provides a photonic analogue of **geometry-gated transport**, where information flow is constrained by curvature and boundary conditions prior to energetic optimisation.
+
+- **GQR-XV / GQR-XVI** — *Leakage as Readout, Not Loss*:  
+  The use of structured topological leakage as a functional output channel aligns with the GQR view that **dissipation and emission can act as deterministic readout surfaces** rather than failure modes.
+
+- **GQR-XXVII** — *Directional and Bidirectional Interfaces*:  
+  The demonstrated time-reversal-symmetric bidirectional coupling (simultaneous transmission and reception without reconfiguration) supports the GQR position that **robust interfaces between protected internal dynamics and classical environments do not require long-lived macroscopic coherence**.
+
+Overall, this work constitutes an **experimental photonic validation by analogy** of key GQR principles: geometry-first control, gated release of protected dynamics, and the reinterpretation of leakage as structured signal rather than noise.
+
+---
+
+### Reference
+[1] W. Wang, Y. J. Tan, P. Szriftgiser, G. Ducournau, R. Singh,  
+*On-chip topological leaky-wave antenna for full-space terahertz wireless connectivity*,  
+**Nature Photonics** (2026).
+
+
+## Secondly....the wormhole bridge side of GQR:
 
 Since initial deposition, several independent works have appeared that clarify the
 interpretation of Einstein–Rosen (ER) bridges as effective, non-classical structures
@@ -17,7 +49,9 @@ energy-condition violations are required.
 These developments are conceptually compatible with the Gated Quantum Resonator
 (GQR) framework, in which non-thermal transport arises only under resonance-gated
 curvature conditions, and effective “bridge-like” behaviour appears in coherence
-space rather than as a spacetime shortcut.  See SUTTON, J. (2026). GQR–XIV: Dynamic Proof of the 8F4I Quantum-Critical State as a Gated "Einstein–Rosen" Bridge. Zenodo. https://doi.org/10.5281/zenodo.18130489
+space rather than as a spacetime shortcut.  See SUTTON, J. (2026). GQR–XIV: Dynamic 
+Proof of the 8F4I Quantum-Critical State as a Gated "Einstein–Rosen" Bridge. Zenodo. 
+https://doi.org/10.5281/zenodo.18130489
 
 ***Relevant external reference:***
 • E. Gaztañaga et al., “A new understanding of Einstein–Rosen bridges”,
