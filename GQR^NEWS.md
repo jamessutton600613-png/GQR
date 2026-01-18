@@ -1,5 +1,35 @@
 ## News / Updates
 
+**2026-01-18**  
+Post-publication context and convergent literature (living note)
+
+Since initial deposition, several independent works have appeared that clarify the
+interpretation of Einstein–Rosen (ER) bridges as effective, non-classical structures
+that do not correspond to traversable spacetime wormholes.
+
+In particular, Gaztañaga et al. (Class. Quantum Grav. 43 (2026) 015023) provide a
+reformulation of ER bridges as mathematical and geometric identifications in
+Hilbert space, associated with discrete symmetries, superselection sectors, and
+unitarity restoration in quantum field theory in curved spacetime. In this
+framework, connectivity does not imply transport, and no exotic matter or
+energy-condition violations are required.
+
+These developments are conceptually compatible with the Gated Quantum Resonator
+(GQR) framework, in which non-thermal transport arises only under resonance-gated
+curvature conditions, and effective “bridge-like” behaviour appears in coherence
+space rather than as a spacetime shortcut.  See SUTTON, J. (2026). GQR–XIV: Dynamic Proof of the 8F4I Quantum-Critical State as a Gated "Einstein–Rosen" Bridge. Zenodo. https://doi.org/10.5281/zenodo.18130489
+
+***Relevant external reference:***
+• E. Gaztañaga et al., “A new understanding of Einstein–Rosen bridges”,
+  Classical and Quantum Gravity 43 (2026) 015023.
+  https://doi.org/10.1088/1361-6382/ae3044
+
+This description field is maintained as a living contextual note documenting
+convergent developments across disciplines. It does not modify the original
+manuscript and makes no claims of derivation or priority.
+
+
+
 **2026-01-13**  
 Two new manuscripts within the GQR / Quantum Geometry Engine (QGE) programme have been submitted for peer review:
 
