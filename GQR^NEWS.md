@@ -19,8 +19,6 @@ This work represents a **mechanistic bridge between early biochemical intuition 
 DOI: https://doi.org/10.5281/zenodo.18300110  
 The paper introduces rotary, pivoting, and tethered geometries as a means of simplifying complex delocalised electronic behaviour, using Fourier-resolved wave amplification and geometry-gated tunnelling pathways.
 
-The manuscript perhaps belongs better with the **jamessutton600613-png/GQR github community** and focuses on **geometry-first quantum mechanisms**, distinct from immunological or clinical analyses.  The reader may be interested to see how the GQR line is thus ontologically linked to Germinal Center Biological reasoning.  It is included here for that reason.  
-
 ## 📜 Why These Historical Drafts Are Being Released
 
 These manuscripts are released in their historical form because they capture the **biological and biochemical reasoning layer that preceded formal physics (including Hamiltonians...), mathematical, and computer-science abstraction** within the wider programme.
