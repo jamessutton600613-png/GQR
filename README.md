@@ -25,7 +25,6 @@ Where higher-dimensional or unconventional Hamiltonian representations appear, t
 Readers may therefore interpret the framework as a geometry-first reorganisation of familiar quantum principles, rather than as a proposal of exotic or speculative physics.
 
 ---
-
 ## Encouraging Results (Provisional)
 
 Encouraging results have been obtained from applying the GQR framework to **high-resolution crystal structures** across several well-characterised systems, including:
@@ -33,13 +32,13 @@ Encouraging results have been obtained from applying the GQR framework to **high
 - The oxygen-evolving complex (OEC) of photosystem II  
 - Enzymes containing Fe–S clusters  
 - YBCO (YBa₂Cu₃O₇₋ₓ) superconducting materials  
+- Dirac quantum fluids (e.g. graphene), where ordering-governed accessibility enables modelling of extreme transport anomalies  
 
-In each case, analysis focuses on **experimentally resolved geometries** and their role in constraining *quantum-allowed transitions* during bond formation, electron transfer, or coupled multi-centre dynamics.
+In each case, analysis focuses on **experimentally resolved geometries** (or, in the case of Dirac fluids, experimentally characterised connectivity and mode structure) and their role in constraining *quantum-allowed transitions* during bond formation, electron transfer, or coupled multi-centre dynamics.
 
-These results are derived from **established structural data** and **standard quantum-chemical formalisms**, with GQR providing a **geometry-conditioned representation** of the accessible transition space. No assumptions of long-lived coherence or nonstandard quantum effects are required.
+These results are derived from **established structural data and experimental characterisation** together with **standard quantum-chemical or transport formalisms**, with GQR providing a **geometry- or ordering-conditioned representation** of the accessible transition space. No assumptions of long-lived coherence or nonstandard quantum effects are required.
 
 The reported findings should be regarded as **provisional** and are currently undergoing **peer review**. Further validation, independent replication, and critical assessment will determine their scope and limitations.
-
 ---
 
 ## Repository Purpose
