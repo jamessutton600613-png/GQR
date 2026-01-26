@@ -1,5 +1,74 @@
 ## News / Updates
 
+## Programme Update: Index Creation, Field-Convergence Reorganisation, and AOI-Driven QGE Advance
+
+The **GQR / QGE programme** has undergone a structural consolidation to reflect the maturation, internal consistency, and cross-domain convergence of the framework.
+
+### Programme Index Established
+
+A canonical **Programme Index** has been created and is now linked directly from the repository front page (`README.md`). This index provides a dependency-ordered map of the full programme, explicitly distinguishing **CORE**, **FORK**, and **INCIDENTAL** contributions, and recording conceptual and methodological precursors where required.
+
+The Programme Index is intended to serve as the authoritative entry point for readers, reviewers, and collaborators navigating the now multi-domain scope of the GQR/QGE effort.
+
+### Field-Convergence Section Created
+
+Material relating to **cross-domain convergence and unification** has been reorganised into a dedicated *Field Convergence* section. This separates mature, invariant-governed results from broader contextual synthesis and historical motivation, reflecting the programme’s transition from exploratory unification toward predictive, invariant-controlled structure.
+
+### Deduplication and Chronological Correction
+
+-  
+**GQR-23 — *A Quantum-Coherent Vortex Engine Drives Water Splitting in Photosystem II*** and  
+**GQR-25 — *A Quantum-Coherent Vortex Engine Drives Water Splitting in Photosystem II***  
+were identified as **duplicate records of the same PSII/OEC manuscript (identical file and content)**.  
+→ **GQR-23** is retained as the canonical entry; the duplicate **GQR-25** record has been removed.
+
+-  
+**GQR-18 — *Transient Directed Transport in a Minimal Time-Gated Quantum System*** has been reassigned to the **GQR-25 slot** to restore conceptual and chronological consistency within the core sequence.
+
+These changes affect programme ordering and index clarity only; no scientific content has been altered.
+
+### AOI as a Programme-Level Advance via Graphene-Gated QGE (GQR-36 → GQR-37–39)
+
+The introduction of the **Accessibility–Ordering Invariant (AOI)** in
+
+- **GQR-36 — *Time-Ordered Accessibility as a Constraint on Transport – Why Averaging Fails When Connectivity Is Transient***  
+  *(CORE; Accessibility Ordering Invariant (AOI), Quantum Geometry Engine)*
+
+provides the invariant foundation for a tightly coupled sequence of **graphene-instantiated Quantum Geometry Engine (QGE)** studies.
+
+**GQR-37, GQR-38, and GQR-39 are all implemented within a graphene-gated QGE**, explicitly motivated by the combination of the AOI formalism introduced in GQR-36 and recent experimental reports of extreme (∼200×) Wiedemann–Franz violation in ultraclean Dirac fluids. Graphene is used throughout as the cleanest experimental realisation of ordering-sensitive transport, not as the source of the effect.
+
+Within this block, Dirac physics functions as a diagnostic basis: it makes accessibility ordering visible, but does not generate the phenomenon.
+
+The sequence proceeds as follows:
+
+-  
+**GQR-37 — *Invariant-Governed Quantum Geometry Engines: Ordering, Transport Decoupling, and the Limits of Zero-Dimensional Dynamics***  
+*(CORE; AOI; Quantum Geometry Engine; graphene-instantiated)*  
+Establishes invariant-enforced bounds and ordering-governed transport decoupling within a graphene-tuned zero-dimensional QGE, demonstrating that accessibility ordering alone is sufficient to suppress charge transport while preserving heat flow.
+
+-  
+**GQR-38 — *Invariant-Governed Mode Ordering and Extreme Wiedemann–Franz Violation in Dirac Quantum Fluids***  
+*(FORK; AOI; Quantum Geometry Engine; graphene / Dirac focus)*  
+Demonstrates that experimentally observed extreme Wiedemann–Franz violation in graphene arises from ordering-governed accessibility, without requiring explicit Dirac dynamics, Berry curvature, hydrodynamic closure, or material-specific scattering assumptions.
+
+-  
+**GQR-39 — *Ordering-Governed Transport Control Beyond Dirac Fluids***  
+*(FORK; AOI; Quantum Geometry Engine; generalisation)*  
+Generalises the graphene-instantiated AOI–QGE framework to non-Dirac materials and engineered systems, establishing ordering—not dispersion—as the controlling principle for transport decoupling.
+
+### Programme Arc and Scope
+
+Taken together, these works define a clear and continuous programme arc:
+
+**geometry-gated enzymatic catalysis (GQR)**  
+→ **multi-atom and zero-dimensional quantum geometry engines (QGE)**  
+→ **graphene-instantiated ordering diagnostics (Dirac fluids)**  
+→ **material-independent, ordering-governed transport control**
+
+This progression demonstrates that the GQR/QGE framework is no longer domain-bound but **invariant-driven**—capable of governing transport, ordering, and coherence across biological, chemical, and condensed-matter systems.
+
+
 
 **2026-01-19**  
 
