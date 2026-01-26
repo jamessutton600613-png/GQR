@@ -1,7 +1,5 @@
 ### Quantum Resonators in Biology
-
-[Programme Index](Programme%20Index%20%E2%80%94%20GQR/Index.md)
-
+[Programme Index](Programme Index – GQR/Index.md)
 
 #### Structural delay in drug-discovery abstraction
 
