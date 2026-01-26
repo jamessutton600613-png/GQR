@@ -41,18 +41,18 @@ For **CORE** papers, a *Direct Precursor* is listed where a single prior read is
 | GQR-XIV | Dynamic Proof of the 8F4I Quantum-Critical State as a Gated “Einstein–Rosen” Bridge | CORE | Shield Law | GQR-XII | 10.5281/zenodo.18130489 |
 | GQR-XV | The Gated Channel as a Curvature–Information Bridge: A Unified SU(3)coh–Einstein–Penrose Framework | CORE | Curvature–Information | GQR-XIV | 10.5281/zenodo.18131247 |
 | GQR-XVI | Gravity as a Coherence Ensemble: From the Shield Law to the Einstein–Cartan Tensor | CORE | Shield Law | GQR-XV | 10.5281/zenodo.18130662 |
-| GQR-XVIII | Transient Directed Transport in a Minimal Time-Gated Quantum System | CORE | Time-Gated Transport | GQR-XII | 10.5281/zenodo.17987503 |
+| GQR-XVIII | 
 | GQR-XIX | GQR Shield Law as a Unified Principle for Biological and Nanoscale Machines | CORE | Shield Law | GQR-XI;XII| 10.5281/zenodo.18130876 |
 | GQR-XX | GQR-Fusion Salvation: An Einstein–Cartan–Penrose–Rosen Waveguide Model for Plasma Stability | FORK | Shield Law, QGE | GQR-XV | 10.5281/zenodo.18130900 |
 | GQR-XXI | Bayesian Thermodynamic Smart Walls for Fusion: A Shield-Law Venting Framework | FORK | Shield Law | — | 10.5281/zenodo.18130920 |
 | GQR-22 | The Shield Law: Curvature–Coherence Invariance in a Vibronically-Gated Five-Centre Quantum System | CORE | Shield Law, QGE | GQR-IV, X | 10.5281/zenodo.18236074 |
 | GQR-23 | A Quantum-Coherent Vortex Engine Drives Water Splitting in Photosystem II | CORE | Shield Law | — | 10.5281/zenodo.18132077 |
 | GQR-24 | GQR–STO-3G Decrypts Fe–S Catalysis: QED Curvature–Information Traps, Velcro Qubits, and the Shield-Law Architecture of Enzyme Inhibition | FORK | Shield Law | — | 10.5281/zenodo.18131123 |
-| GQR-25 | A Quantum-Coherent Vortex Engine Drives Water Splitting in Photosystem II | CORE | Shield Law, QGE | — | 10.5281/zenodo.18131398 |
-| GQR-26 | Quantum Geometry Engine for Multi-Centre Quantum Systems | CORE | Quantum Geometry Engine | GQR-36 | 10.5281/zenodo.18134191 |
+| GQR-25 | Transient Directed Transport in a Minimal Time-Gated Quantum System | CORE | Time-Gated Transport | GQR-XII | 10.5281/zenodo.17987503 |
+| GQR-26 | Quantum Geometry Engine for Multi-Centre Quantum Systems | CORE | Quantum Geometry Engine | GQR-25 | 10.5281/zenodo.18134191 |
 | GQR-27 | Geometry-Conditioned Directional Coherence and Bias-Free Rectification in YBa₂Cu₃O₇−δ | FORK | Directional Coherence, QGE | — | 10.5281/zenodo.18131691 |
 | GQR-28 | Geometry-Conditioned Directional Coherence as an Organizing Principle for Transport in Noisy Quantum Materials | FORK | Directional Coherence, QGE | — | 10.5281/zenodo.18132052 |
-| GQR-29 | Selective Activation of Latent Hexagonal Geometry in Crystalline Catalytic Systems | CORE | Geometry-Gated Transport | — | 10.5281/zenodo.18131416 |
+| GQR-29 | Selective Activation of Latent Hexagonal Geometry in Crystalline Catalytic Systems | CORE | Geometry-Gated Transport | GQR-25,26 | 10.5281/zenodo.18131416 |
 | GQR-30 | Measurement as Gating: A Geometry-First Review of the Double-Slit and Quantum Eraser Experiments | CORE | Geometry-Gated Measurement | GQR-IV | 10.5281/zenodo.18203136 |
 | GQR-31 | Geometry-Gated Catalysis Beyond Arrhenius–Marcus | CORE | Geometry-Gated Transport | GQR-XII | 10.5281/zenodo.18134719 |
 | GQR-32 | Capacity-Limited Governance and Instability in Adaptive Dynamical Systems | CORE | Accessibility Constraints | — | 10.5281/zenodo.18109667 |
