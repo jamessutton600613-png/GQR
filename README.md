@@ -1,5 +1,9 @@
 ### Quantum Resonators in Biology
 
+[Programme Index](https://github.com/jamessutton600613-png/GQR/blob/main/Programme%20Index-GQR/Index.md)
+
+
+
 #### Structural delay in drug-discovery abstraction
 
 The GQR programme is motivated in part by the observation that certain classes of geometry-gated and ultrafast dynamical mechanisms were slow to consolidate into mainstream modelling and drug-discovery practice. This was not due to coordinated suppression, but to structural factors: influential decoherence arguments encouraged narrow interpretations of biologically relevant quantum effects, while institutional and industrial incentives favoured approaches that scaled immediately within established pipelines. As a result, reaction-path control and geometry-first transition mechanisms remained fragmented across disciplines. In hindsight, this likely delayed their systematic exploitation by approximately 10–20 years.
