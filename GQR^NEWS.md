@@ -1,5 +1,9 @@
 ## News / Updates
 
+
+
+**2026-01-26**  
+
 ## Programme Update: Index Creation, Field-Convergence Reorganisation, and AOI-Driven QGE Advance
 
 The **GQR / QGE programme** has undergone a structural consolidation to reflect the maturation, internal consistency, and cross-domain convergence of the framework.
@@ -67,6 +71,10 @@ Taken together, these works define a clear and continuous programme arc:
 → **material-independent, ordering-governed transport control**
 
 This progression demonstrates that the GQR/QGE framework is no longer domain-bound but **invariant-driven**—capable of governing transport, ordering, and coherence across biological, chemical, and condensed-matter systems.
+
+
+
+
 
 
 
