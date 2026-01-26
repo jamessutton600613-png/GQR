@@ -72,7 +72,23 @@ Taken together, these works define a clear and continuous programme arc:
 
 This progression demonstrates that the GQR/QGE framework is no longer domain-bound but **invariant-driven**—capable of governing transport, ordering, and coherence across biological, chemical, and condensed-matter systems.
 
+### Status of Experimental Verification and Programme Methodology
 
+The results reported in **GQR-37, GQR-38, and GQR-39** presently await direct experimental verification. This status is, however, fully consistent with the methodological pattern of the wider **GQR/QGE programme**.
+
+To date, the GQR framework has not relied on bespoke experimental validation, but instead on a convergent body of evidence comprising:
+(i) cross-domain field convergence,
+(ii) consistency with and explanatory unification of existing experimental literature,
+(iii) the absence of competing frameworks capable of resolving the same anomaly set,
+(iv) internally consistent mathematical formalism,
+(v) **the discovery of multiple invariant principles and standalone physics results (e.g. GQR-25, GQR-36)**, and
+(vi) in-program constructive outputs whose behaviour suggests physical realism while remaining falsifiable.
+
+Within this methodology, confidence accrues not from isolated prediction, but from the repeated ability of the framework to resolve long-standing anomalies across unrelated domains.
+
+The present AOI–QGE results follow this same pattern. In particular, **Dirac fluids—previously resistant to tractable modelling of extreme Wiedemann–Franz violations—become systematically modellable** once transport is treated as an ordering-governed accessibility problem rather than a dispersion-governed one. Notably, this resolution does **not** require the deployment of explicit Dirac mathematical physics, hydrodynamic closure, or material-specific scattering models.
+
+This is a deliberate and enabling feature of the framework: by remaining **geometry-first, invariant-governed, and lightweight**, the Quantum Geometry Engine retains speed, flexibility, and cross-domain applicability, while producing concrete, experimentally testable predictions that now await targeted verification.
 
 
 
