@@ -48,7 +48,7 @@ For **CORE** papers, a *Direct Precursor* is listed where a single prior read is
 | GQR-22 | The Shield Law: Curvature–Coherence Invariance in a Vibronically-Gated Five-Centre Quantum System | CORE | Shield Law, QGE | GQR-IV, X | 10.5281/zenodo.18236074 |
 | GQR-23 | A Quantum-Coherent Vortex Engine Drives Water Splitting in Photosystem II | CORE | Shield Law | — | 10.5281/zenodo.18132077 |
 | GQR-24 | GQR–STO-3G Decrypts Fe–S Catalysis: QED Curvature–Information Traps, Velcro Qubits, and the Shield-Law Architecture of Enzyme Inhibition | FORK | Shield Law | — | 10.5281/zenodo.18131123 |
-| GQR-25 | Transient Directed Transport in a Minimal Time-Gated Quantum System | CORE | Time-Gated Transport | GQR-XII | 10.5281/zenodo.17987503 |
+| GQR-25 | Transient Directed Transport in a Minimal Time-Gated Quantum System | CORE | Time-Gated Transport |  | 10.5281/zenodo.17987503 |
 | GQR-26 | Quantum Geometry Engine for Multi-Centre Quantum Systems | CORE | Quantum Geometry Engine | GQR-25 | 10.5281/zenodo.18134191 |
 | GQR-27 | Geometry-Conditioned Directional Coherence and Bias-Free Rectification in YBa₂Cu₃O₇−δ | FORK | Directional Coherence, QGE | — | 10.5281/zenodo.18131691 |
 | GQR-28 | Geometry-Conditioned Directional Coherence as an Organizing Principle for Transport in Noisy Quantum Materials | FORK | Directional Coherence, QGE | — | 10.5281/zenodo.18132052 |
@@ -62,8 +62,8 @@ For **CORE** papers, a *Direct Precursor* is listed where a single prior read is
 | GQR-35 | Pruning Dynamics and the Regeneration of Admissible Paths | CORE | Admissible Paths | GQR-XIX | 10.5281/zenodo.18215529 |
 | GQR-36 | Time-Ordered Accessibility as a Constraint on Transport – Why Averaging Fails When Connectivity Is Transient | CORE | Accessibility Ordering Invariant (AOI), QGE | GQR-XVIII | 10.5281/zenodo.18307968 |
 | GQR-37 | Invariant-Governed Quantum Geometry Engines: Ordering, Transport Decoupling, and the Limits of Zero-Dimensional Dynamics | CORE | AOI; Quantum Geometry Engine | GQR-36 | 10.5281/zenodo.18344156 |
-| GQR-38 | Invariant-Governed Mode Ordering and Extreme Wiedemann–Franz Violation in Dirac Quantum Fluids | FORK | AOI | GQR-37 | 10.5281/zenodo.18371230 |
-| GQR-39 | Ordering-Governed Transport Control Beyond Dirac Fluids | FORK | QGE, AOI | GQR-38 | 10.5281/zenodo.18371389 |v
+| GQR-38 | Invariant-Governed Mode Ordering and Extreme Wiedemann–Franz Violation in Dirac Quantum Fluids | FORK | QGE,AOI | GQR-37 | 10.5281/zenodo.18371230 |
+| GQR-39 | Ordering-Governed Transport Control Beyond Dirac Fluids | FORK | QGE, AOI | GQR-38 | 10.5281/zenodo.18371389 |
 
 
 
