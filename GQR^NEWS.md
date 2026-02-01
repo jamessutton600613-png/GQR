@@ -1,5 +1,21 @@
 ## News / Updates
 
+**2026+02-1**
+field convergence note: 
+Recent experiments have demonstrated protocol-dependent control of
+topological order parameters in moiré materials using time-dependent
+optical driving \cite{HuberNature2026}.
+Such results indicate that temporal ordering can act as an effective
+control variable alongside geometry and interactions.
+The AOI--QGE framework identifies a minimal, invariant-level mechanism
+by which such ordering dependence can arise independently of the
+microscopic implementation.
+
+Coincides with the publishing on Zenodo of the latest two additions to the GQR programme
+**GQR40 SUTTON, J. (2026). Ordered Accessibility Invariants and Non-Commutative Aggregation (PaperX). Zenodo. https://doi.org/10.5281/zenodo.18392880**
+**GQR41 SUTTON, J. (2026). (Paper C): Accessibility–Ordering Invariants and Geometry-Controlled Cumulative Transport in Dirac Fluids. 
+Zenodo. https://doi.org/10.5281/zenodo.18429604**
+
 
 
 **2026-01-26**  
