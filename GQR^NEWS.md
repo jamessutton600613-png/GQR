@@ -1,5 +1,16 @@
 ## News / Updates
 
+**3 Feb 2026**
+## News
+
+**Experimental convergence on ordering-governed transport.**  
+A January 2026 *Nature* study reports robust Aharonov–Bohm interference in even-denominator fractional quantum Hall states in bilayer graphene, revealing transport behaviour that depends on the **history and ordering of control protocols**, not solely on instantaneous parameters. The observed flux periodicities, effective interfering charges, and statistical phase responses vary depending on whether the system is driven at constant filling or along controlled deviations that introduce bulk quasiparticles, indicating cumulative, history-dependent effects beyond static geometry or equilibrium transport coefficients.
+
+These findings closely align with the **Accessibility–Ordering Invariant (AOI)** and **Quantum Geometry Engine (QGE)** framework developed within the GQR programme, which predicts that **non-commuting accessibility updates** can generate directional asymmetry and physical memory without invoking new forces, modified electrodynamics, or long-lived quantum state storage. The experiments provide independent evidence that *temporal ordering itself* can act as a first-class control variable in quantum transport.
+
+see converging fields page
+
+
 **2026+02-1**
 field convergence note: 
 Recent experiments have demonstrated protocol-dependent control of
