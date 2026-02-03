@@ -16,6 +16,7 @@ Inclusion indicates **conceptual relevance**, not endorsement, reinterpretation,
 ## Nature supporting evidence for Paper C/GQR41 
 
 https://www.earth.com/news/atom-thin-carbon-loop-exposes-quantum-recall-of-past-states-pr25/ 
+
 https://www.nature.com/articles/s41586-025-09891-2 
 
 Recent Fabry–Pérot interferometry experiments in bilayer graphene demonstrate that quantum transport and interference in fractional quantum Hall systems are **protocol-dependent**. Measured flux periodicities, dominant interfering quasiparticle charges, and statistical phase contributions depend on how magnetic field, density, and gating are sequenced over time, rather than being determined solely by instantaneous parameters or topological classification. By tuning trajectories in magnetic-field–density space, the experiments reveal cumulative effects associated with the controlled introduction of bulk quasiparticles, producing history-dependent interference patterns that persist even when short-time fluctuations obscure individual phase slips.
