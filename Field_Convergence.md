@@ -12,6 +12,18 @@ This section documents **independent convergence**, even where the original work
 Inclusion indicates **conceptual relevance**, not endorsement, reinterpretation, or claimed equivalence with GQR. Entries are listed chronologically and the list is living.
 
 
+
+## Nature supporting evidence for Paper C/GQR41 
+
+https://www.earth.com/news/atom-thin-carbon-loop-exposes-quantum-recall-of-past-states-pr25/ 
+https://www.nature.com/articles/s41586-025-09891-2 
+
+Recent Fabry–Pérot interferometry experiments in bilayer graphene demonstrate that quantum transport and interference in fractional quantum Hall systems are **protocol-dependent**. Measured flux periodicities, dominant interfering quasiparticle charges, and statistical phase contributions depend on how magnetic field, density, and gating are sequenced over time, rather than being determined solely by instantaneous parameters or topological classification. By tuning trajectories in magnetic-field–density space, the experiments reveal cumulative effects associated with the controlled introduction of bulk quasiparticles, producing history-dependent interference patterns that persist even when short-time fluctuations obscure individual phase slips.
+
+Within the **AOI–QGE** perspective, these observations are naturally interpreted as consequences of **ordered accessibility**. Geometry, boundaries, and gating define which transport pathways are available, while the *temporal ordering* of those accessibility windows determines which pathways accumulate influence over time. In this view, conventional transport laws and familiar interference periodicities correspond to regimes in which accessibility updates effectively commute (ordering suppressed), whereas deviations signal the emergence of an **ordering-sensitive memory channel**.
+
+Importantly, AOI–QGE does not replace established topological, quasiparticle, or hydrodynamic descriptions. Instead, it provides a **structural overlay** compatible with standard quantum mechanics and electrodynamics, while exposing phenomena that are invisible to time-averaged or purely static analyses. The Nature results therefore represent a clear point of **field convergence**: condensed-matter experiment, topological quantum matter, and geometry-first transport theory independently indicating that **temporal ordering is a physically operative degree of freedom**. In short, geometry sets capacity, while ordering writes history.
+
 ### Entanglement as a transient accelerator of outcome selection in quantum dynamics (2025)
 
 Zhao, Zhou & Childs demonstrate that quantum entanglement can *accelerate* quantum simulation algorithms, contrary to the long-standing view that entanglement is primarily an obstacle. By deriving tighter error bounds for product-formula simulations and introducing adaptive protocols that exploit entanglement entropy, they show that highly entangled states can improve algorithmic performance on quantum hardware without requiring long-lived or protected coherence.
