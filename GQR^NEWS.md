@@ -1,6 +1,30 @@
 ## News / Updates
 
 **3 Feb 2026**
+
+## More news.  
+
+### Relation between Physical Neural Networks and the GQR / QGE programme
+
+| Aspect | Physical Neural Networks (PNNs) | GQR / QGE with AOI |
+|------|--------------------------------|-------------------|
+| Historical origin | Predate GQR/QGE by decades (neuromorphic systems, memristors, reservoir computing) | Developed later as a geometry-first, ordering-based framework |
+| Primary goal | Perform learning or inference using physical dynamics | Identify *when and why* physical systems exhibit memory and directional computation |
+| Core computational resource | Continuous physical states (voltages, currents, phases, spins) | **Ordering-sensitive accessibility** (non-commuting updates) |
+| Representation of memory | Stored in physical states or effective weights | **Process memory** encoded in irreversible ordering effects |
+| Dependence on training | Often requires training, tuning, or optimisation | No training required; behaviour emerges from protocol and geometry |
+| Role of geometry | Usually secondary or device-specific | **Primary control variable** (sets capacity and admissible paths) |
+| Role of temporal ordering | Implicit, rarely formalised | **Explicit and central** (AB vs BA protocols, AOI ≠ 0) |
+| Mathematical unifier | Largely phenomenological, system-dependent | **Accessibility–Ordering Invariant (AOI)** as a falsifiable diagnostic |
+| Robustness to noise / decoherence | Varies by platform | High: memory survives noise because it is not state-based |
+| Typical demonstrations | Task performance (classification, prediction) | Directional asymmetry, ratcheting, history-dependent transport |
+| Scope | Specific devices or architectures | **Domain-agnostic** (condensed matter, mesoscopic systems, biomolecular transport) |
+| Conceptual contribution | Shows that physical systems *can* compute | Explains *why* physical systems can remember and compute at all |
+
+**Interpretive summary:**  
+Physical neural networks demonstrate *instances* of computation and memory in matter.  
+The GQR / QGE programme identifies a **minimal structural principle**—ordering-sensitive accessibility—that underlies many such behaviours across disparate physical systems.
+
 ## News
 
 **Experimental convergence on ordering-governed transport.**  
