@@ -13,7 +13,6 @@ Inclusion indicates **conceptual relevance**, not endorsement, reinterpretation,
 **6 Feb 2026** 
 ### Converging developments in ordering, identity, and collective transport (post-submission context)
 
-### Converging developments in ordering, identity, and collective transport (post-submission context)
 
 Recent work on **nonlocality arising from particle indistinguishability** has shown that identical fermions and bosons can exhibit experimentally detectable nonlocal correlations without engineered interactions or entanglement, purely as a consequence of symmetry and identity constraints (Błasiak & Markiewicz, *npj Quantum Information*, 2025).  
 👉 https://www.nature.com/articles/s41534-025-01086-x  
