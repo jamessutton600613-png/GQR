@@ -1,0 +1,23 @@
+Programme,ID,Title,Significance,Core_Terms,Direct_Precursor,DOI,Repository,First_Public_Date,Latest_Version,Pages,Views,Downloads,Notes
+GQR,preGQR1,"6D Rotary Engines",INCIDENTAL,"Conceptual precursor",,10.5281/zenodo.18300110,Zenodo,2025-06,v1,,,
+GQR,preGQR2,"Quantum-Classical Tumbling Locomotion",INCIDENTAL,"Conceptual precursor",,10.5281/zenodo.18299933,Zenodo,2025-06,v1,,,
+GQR,GQR-I,"Bayesian Circuit Hamiltonians",CORE,"Geometry-Gated Transport",preGQR2,10.26434/chemrxiv-2025-m7wxn-v4,ChemRxiv,2025-09-17,v6,,223,62,"Foundational"
+GQR,GQR-II,"Funnel–Field Synergy",CORE,"Geometry-Gated Transport",GQR-I,10.26434/chemrxiv-2025-6ng5j,ChemRxiv,2025-09-25,v5,,512,94,
+GQR,GQR-III,"Aperture–Lens Grammar",CORE,"Geometry-Gated Transport",GQR-II,10.26434/chemrxiv-2025-ctb1v,ChemRxiv,2025-09-29,v4,,373,96,
+GQR,GQR-IV,"Quantum Shield Law",CORE,"Shield Law",GQR-III,10.26434/chemrxiv-2025-q91pt,ChemRxiv,2025-10-05,v4,,498,73,
+GQR,GQR-V,"Logic Vortex",CORE,"Shield Law",GQR-IV,10.26434/chemrxiv-2025-tng08,ChemRxiv,2025-10-14,v3,,402,52,
+GQR,GQR-VI,"Anomalies Across Physics/Biology",CORE,"Shield Law",GQR-V,10.26434/chemrxiv-2025-v87nt,ChemRxiv,2025-10-14,v3,,389,113,
+GQR,GQR-XII,"Curvature–Information Catalysis",CORE,"Curvature–Information; Shield Law",GQR-IV,10.5281/zenodo.18130281,Zenodo,2025-11-09,v2,23,513,86,
+GQR,GQR-XIV,"8F4I Quantum-Critical State",CORE,"Shield Law",GQR-XII,10.5281/zenodo.18130489,Zenodo,2025-11-11,v1,17,286,64,
+GQR,GQR-XV,"Curvature–Information Bridge",CORE,"Curvature–Information",GQR-XIV,10.5281/zenodo.18131247,Zenodo,2025-11-14,v1,19,445,102,
+GQR,GQR-XIX,"Shield Law Unified Principle",CORE,"Shield Law","GQR-XI;GQR-XII",10.5281/zenodo.18130876,Zenodo,2025-11-19,v1,18,530,75,
+GQR,GQR-25,"Transient Directed Transport",CORE,"Time-Gated Transport",,10.5281/zenodo.17987503,Zenodo,2025-12-19,v1,12,18,7,"AOI precursor"
+GQR,GQR-26,"Quantum Geometry Engine",CORE,"QGE",GQR-25,10.5281/zenodo.18134191,Zenodo,2026-01-02,v1,10,16,10,
+GQR,GQR-27,"Directional Coherence in YBCO",FORK,"Directional Coherence; QGE",,10.5281/zenodo.18131691,Zenodo,2026-01-02,v1,12,10,7,
+GQR,GQR-28,"Directional Coherence in Noisy Materials",FORK,"Directional Coherence; QGE",,10.5281/zenodo.18132052,Zenodo,2026-01-02,v1,12,7,6,
+GQR,GQR-36,"Time-Ordered Accessibility",CORE,"AOI; QGE",GQR-25,10.5281/zenodo.18307968,Zenodo,2026-01-20,v1,12,12,14,"AOI formalisation"
+GQR,GQR-37,"Invariant-Governed QGE",CORE,"AOI; QGE",GQR-36,10.5281/zenodo.18344156,Zenodo,2026-01-23,v1,12,34,13,
+GQR,GQR-38,"Extreme WF Violation in Dirac Fluids",FORK,"AOI; QGE",GQR-37,10.5281/zenodo.18371230,Zenodo,2026-01-26,v1,17,12,10,
+GQR,GQR-39,"Ordering Beyond Dirac Fluids",FORK,"AOI; QGE",GQR-38,10.5281/zenodo.18371389,Zenodo,2026-01-26,v1,12,10,9,
+GQR,GQR-41,"Paper C: Accessibility–Ordering in Dirac Fluids",CORE,"AOI; QGE; DiracEdge",GQR-38,10.5281/zenodo.18429604,Zenodo,2026-02-03,v6,20,25,21,"Zenodo shows Mar-02 due to v6 metadata; priority v1"
+GC-arc,GC-arc9,"Pruning Dynamics",CORE,"Admissible Paths",GC-arc8,10.5281/zenodo.18215529,Zenodo,2026-01-11,v1,23,17,17,
