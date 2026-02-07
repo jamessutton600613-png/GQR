@@ -24,14 +24,14 @@ For **CORE** papers, a *Direct Precursor* is listed where a single prior read is
 ## GQR — Core Programme (chronological)
 | ID | Title | Significance | Core Term(s) | Direct Precursor | DOI |
 |---:|---|---|---|---|---|
-| GQR-I | Bayesian Circuit Hamiltonians | CORE | Geometry-Gated Transport | preGQR2 | https://doi.org/10.26434/chemrxiv-2025-m7wxn-v6 |
+| GQR-I | A Bayesian Circuit–Hamiltonian Framework for Catalysis, Enzymology, Materials Science and UPE | CORE | Geometry-Gated Transport | preGQR2 | https://doi.org/10.26434/chemrxiv-2025-m7wxn-v6 |
 | GQR-II | Funnel–Field Synergy Drives Quantum Tunneling Catalysis toward Proof-of-Resonance | CORE | Geometry-Gated Transport | GQR-I | https://doi.org/10.26434/chemrxiv-2025-6ng5j |
-| GQR-III | Aperture–Lens Grammar | CORE | Geometry-Gated Transport | GQR-II | https://doi.org/10.26434/chemrxiv-2025-ctb1v |
-| GQR-IV | Quantum Shield Law | CORE | Shield Law | GQR-III | https://doi.org/10.26434/chemrxiv-2025-q91pt |
-| GQR-V | Logic Vortex | CORE | Shield Law | GQR-IV | https://doi.org/10.26434/chemrxiv-2025-tng08 |
-| GQR-VI | Anomalies Across Physics/Biology | CORE | Shield Law | GQR-V | https://doi.org/10.26434/chemrxiv-2025-v87nt |
-| GQR-VII | Tunnelling Rates, Speeds & Flux | FORK | Geometry-Gated Transport | — | https://doi.org/10.26434/chemrxiv-2025-8hm75 |
-| GQR-VIII | Multi-Particle Tunnelling Fugue | FORK | Geometry-Gated Transport | — | https://doi.org/10.26434/chemrxiv-2025-tsbd2 |
+| GQR-III | Aperture–Lens Grammar, Tilt (B) Variants, and Catalytic Quantum Microscopy From tunneling “buzz” to prismatic steering and CQ-TEM design | CORE | Geometry-Gated Transport | GQR-II | https://doi.org/10.26434/chemrxiv-2025-ctb1v |
+| GQR-IV | A Quantum Shield Law for Coherence and Tunnelling | CORE | Shield Law | GQR-III | https://doi.org/10.26434/chemrxiv-2025-q91pt |
+| GQR-V | The Logic Vortex and Shield Environs — A Logic–Statistics–Physics Synthesis | CORE | Shield Law | GQR-IV | https://doi.org/10.26434/chemrxiv-2025-tng08 |
+| GQR-VI | Anomalies, Resonance, and Coherence Across Physics, Chemistry, Biology, and Medicine Toward a Unified Interpretation | CORE | Shield Law | GQR-V | https://doi.org/10.26434/chemrxiv-2025-v87nt |
+| GQR-VII | Tunnelling Rates, Speeds, and Flux Dynamics Mapping Quantum Mechanics to the Gated Resonator Grammar | FORK | Geometry-Gated Transport | — | https://doi.org/10.26434/chemrxiv-2025-8hm75 |
+| GQR-VIII | Coherent Gating and Multi-Particle Tunnelling in the PSII Oxygen-Evolving Complex | FORK | Geometry-Gated Transport | — | https://doi.org/10.26434/chemrxiv-2025-tsbd2 |
 | GQR-IX | Quantum Gate Bifurcation | CORE | Shield Law | GQR-VI, VIII | https://doi.org/10.26434/chemrxiv-2025-k7pld |
 | GQR-X | Quantum Loom of Life | CORE | Shield Law | GQR-X | https://doi.org/10.26434/chemrxiv-2025-qcnlw |
 | GQR-XI | Gödel Machines / Catalytic Networks | INCIDENTAL | Shield Law | - | https://doi.org/10.26434/chemrxiv-2025-dccdw-v2 |
