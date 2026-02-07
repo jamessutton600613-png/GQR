@@ -32,9 +32,9 @@ For **CORE** papers, a *Direct Precursor* is listed where a single prior read is
 | GQR-VI | Anomalies, Resonance, and Coherence Across Physics, Chemistry, Biology, and Medicine Toward a Unified Interpretation | CORE | Shield Law | GQR-V | https://doi.org/10.26434/chemrxiv-2025-v87nt |
 | GQR-VII | Tunnelling Rates, Speeds, and Flux Dynamics Mapping Quantum Mechanics to the Gated Resonator Grammar | FORK | Geometry-Gated Transport | — | https://doi.org/10.26434/chemrxiv-2025-8hm75 |
 | GQR-VIII | Coherent Gating and Multi-Particle Tunnelling in the PSII Oxygen-Evolving Complex | FORK | Geometry-Gated Transport | — | https://doi.org/10.26434/chemrxiv-2025-tsbd2 |
-| GQR-IX | Quantum Gate Bifurcation | CORE | Shield Law | GQR-VI, VIII | https://doi.org/10.26434/chemrxiv-2025-k7pld |
-| GQR-X | Quantum Loom of Life | CORE | Shield Law | GQR-X | https://doi.org/10.26434/chemrxiv-2025-qcnlw |
-| GQR-XI | Gödel Machines / Catalytic Networks | INCIDENTAL | Shield Law | - | https://doi.org/10.26434/chemrxiv-2025-dccdw-v2 |
+| GQR-IX | Quantum–Gate Bifurcation in Photosystem II Deuterium Suppression and Field–Tuned Resonance Switching at 8F4I| CORE | Shield Law | GQR-VI, VIII | https://doi.org/10.26434/chemrxiv-2025-k7pld |
+| GQR-X | The Quantum Loom of Life on Earth Uniting Isotopic, Chalcogenic, and Protonic Resonance at the Quantum–Critical Boundary | CORE | Shield Law | GQR-X | https://doi.org/10.26434/chemrxiv-2025-qcnlw |
+| GQR-XI | Gated Quantum Resonator Framework for Self-Organizing Catalytic Reaction Networks | INCIDENTAL | Shield Law | - | https://doi.org/10.26434/chemrxiv-2025-dccdw-v2 |
 | GQR-XII | The Gated Quantum Resonator XII — Curvature–Information Catalysis: From Quantum Biology to Material Design | CORE | Curvature–Information; Shield Law | GQR-IV | https://doi.org/10.5281/zenodo.18130281 |
 | GQR-XIII | Curvature–Information Resonators in Weather and Climate: A Methods-First Framework for Retrospective Diagnostics | FORK | Curvature–Information | — | https://doi.org/10.5281/zenodo.18130389 |
 | GQR-XIV | Dynamic Proof of the 8F4I Quantum-Critical State as a Gated “Einstein–Rosen” Bridge | CORE | Shield Law | GQR-XII | https://doi.org/10.5281/zenodo.18130489 |
@@ -55,16 +55,17 @@ For **CORE** papers, a *Direct Precursor* is listed where a single prior read is
 | GQR-30 | Measurement as Gating: A Geometry-First Review of the Double-Slit and Quantum Eraser Experiments | CORE | Geometry-Gated Measurement | GQR-IV | https://doi.org/10.5281/zenodo.18203136 |
 | GQR-31 | Geometry-Gated Catalysis Beyond Arrhenius–Marcus | CORE | Geometry-Gated Transport | GQR-XII | https://doi.org/10.5281/zenodo.18134719 |
 | GQR-32 | Capacity-Limited Governance and Instability in Adaptive Dynamical Systems | CORE | Accessibility Constraints | — | https://doi.org/10.5281/zenodo.18109667 |
-| GQR-33 | Constraint-Governed Interference Across Scales | CORE | Interference Geometry | GQR-XII | https://doi.org/10.5281/zenodo.18147840 |
-| GQR-34 | Geometry, Constraint, and Governance | CORE | Time-Structured Dynamics | — | https://doi.org/10.5281/zenodo.18148465 |
+| GQR-33/Math3 | Constraint-Governed Interference Across Scales: From Catalytic Geometry to Transient Subatomic Coherence. | CORE | Interference Geometry | GQR-XII | https://doi.org/10.5281/zenodo.18147840 |
+| GQR-34 | Geometry, Constraint, and Governance: Why Stability, Catalysis, and Memory Are Time-Structured Problems. | CORE | Time-Structured Dynamics | — | https://doi.org/10.5281/zenodo.18148465 |
 | GQR-34A | Geometry–Time Governance in Adaptive Dynamical Systems | CORE | Time-Structured Dynamics | — | https://doi.org/10.5281/zenodo.18148521 |
-| GQR-35 | Pruning Dynamics and the Regeneration of Admissible Paths | CORE | Admissible Paths | GQR-XIX | https://doi.org/10.5281/zenodo.18215529 |
+| GQR-35/Math5/GC_arc9 | Pruning Dynamics and the Regeneration of Admissible Paths | CORE | Admissible Paths | GQR-XIX | https://doi.org/10.5281/zenodo.18215529 |
 | GQR-36 | Time-Ordered Accessibility as a Constraint on Transport – Why Averaging Fails When Connectivity Is Transient | CORE | Accessibility Ordering Invariant (AOI), QGE |  | https://doi.org/10.5281/zenodo.18307968 |
 | GQR-37 | Invariant-Governed Quantum Geometry Engines: Ordering, Transport Decoupling, and the Limits of Zero-Dimensional Dynamics | FORK | AOI; Quantum Geometry Engine | GQR-36 | https://doi.org/10.5281/zenodo.18344156 |
 | GQR-38 | Invariant-Governed Mode Ordering and Extreme Wiedemann–Franz Violation in Dirac Quantum Fluids | BRANCH | QGE,AOI | GQR-37 | https://doi.org/10.5281/zenodo.18371230 |
 | GQR-39 | Ordering-Governed Transport Control Beyond Dirac Fluids | BRANCH | QGE, AOI | GQR38 | https://doi.org/10.5281/zenodo.18371389 |
 | GQR-40 | Ordered Accessibility Invariants and Non-Commutative Aggregation (Paper X) | BRANCH | QGE, AOI | GQR39 | https://doi.org/10.5281/zenodo.18392880 |
 | GQR-41 | Accessibility–Ordering Invariants and Geometry-Controlled Cumulative Transport in Dirac Fluids (Paper C) | BRANCH | QGE, AOI, Dirac, DiracEdge | GQR40 | https://doi.org/10.5281/zenodo.18466898 |
+
 ## GC-arc — Germinal Centre / Immune & Governance Programme
 
 | ID | Title | Significance | Core Term(s) | Direct Precursor | DOI |
