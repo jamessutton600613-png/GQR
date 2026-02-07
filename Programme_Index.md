@@ -63,7 +63,6 @@ For **CORE** papers, a *Direct Precursor* is listed where a single prior read is
 | GQR-36 | Time-Ordered Accessibility as a Constraint on Transport – Why Averaging Fails When Connectivity Is Transient | CORE | Accessibility Ordering Invariant (AOI), QGE | GQR-XVIII | 10.5281/zenodo.18307968 |
 | GQR-37 | Invariant-Governed Quantum Geometry Engines: Ordering, Transport Decoupling, and the Limits of Zero-Dimensional Dynamics | CORE | AOI; Quantum Geometry Engine | GQR-36 | 10.5281/zenodo.18344156 |
 | GQR-38 | Invariant-Governed Mode Ordering and Extreme Wiedemann–Franz Violation in Dirac Quantum Fluids | FORK | QGE,AOI | GQR-37 | 10.5281/zenodo.18371230 |
-
 | GQR-39 | Ordering-Governed Transport Control Beyond Dirac Fluids | FORK | QGE, AOI | https://doi.org/10.5281/zenodo.18371389 |
 | GQR-40 | Ordered Accessibility Invariants and Non-Commutative Aggregation (Paper X) | Zenodo | QGE, AOI | https://doi.org/10.5281/zenodo.18392880 |
 | GQR-41 | Accessibility–Ordering Invariants and Geometry-Controlled Cumulative Transport in Dirac Fluids (Paper C) | Zenodo | QGE, AOI | https://doi.org/10.5281/zenodo.18466898 |
