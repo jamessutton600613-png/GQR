@@ -46,7 +46,7 @@ For **CORE** papers, a *Direct Precursor* is listed where a single prior read is
 | GQR-XX | GQR-Fusion Salvation: An Einstein–Cartan–Penrose–Rosen Waveguide Model for Plasma Stability | FORK | Shield Law, QGE | GQR-XV | 10.5281/zenodo.18130900 |
 | GQR-XXI | Bayesian Thermodynamic Smart Walls for Fusion: A Shield-Law Venting Framework | FORK | Shield Law | — | 10.5281/zenodo.18130920 |
 | GQR-22 | The Shield Law: Curvature–Coherence Invariance in a Vibronically-Gated Five-Centre Quantum System | CORE | Shield Law, QGE | GQR-IV, X | 10.5281/zenodo.18236074 |
-| GQR-23 | A Quantum-Coherent Vortex Engine Drives Water Splitting in Photosystem II | CORE | Shield Law | — | 10.5281/zenodo.18132077 |
+| GQR-23 | A Quantum-Coherent Vortex Engine Drives Water Splitting in Photosystem II | CORE | Shield Law | — | https://doi.org/10.5281/zenodo.18131398
 | GQR-24 | GQR–STO-3G Decrypts Fe–S Catalysis: QED Curvature–Information Traps, Velcro Qubits, and the Shield-Law Architecture of Enzyme Inhibition | FORK | Shield Law | — | 10.5281/zenodo.18131123 |
 | GQR-25 | Transient Directed Transport in a Minimal Time-Gated Quantum System | CORE | Time-Gated Transport |  | 10.5281/zenodo.17987503 |
 | GQR-26 | Quantum Geometry Engine for Multi-Centre Quantum Systems | CORE | Quantum Geometry Engine | GQR-25 | 10.5281/zenodo.18134191 |
