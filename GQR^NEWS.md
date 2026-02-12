@@ -1,5 +1,126 @@
 ## News / Updates
 
+**12 Feb 2026**
+# 🔔 News & Literature Convergence (2025–2026)
+
+The AOI–QGE programme continues to intersect with major developments across condensed matter physics, quantum information, and nonequilibrium dynamics. Recent high-impact publications highlight structural convergence with the accessibility-ordering framework introduced in GQR-36–41.
+
+---
+
+## 🔬 Literature Convergence
+
+### 1️⃣ Quantum Metric & Geometry-Driven Transport  
+**Sala et al., *Science* (2025)**  
+*The quantum metric of electrons with spin-momentum locking*  
+DOI: https://doi.org/10.1126/science.adq3255  
+
+This work demonstrates that geometric quantities—specifically the quantum metric—directly influence transport behaviour, even in the absence of hydrodynamic flow.
+
+**Relevance to QGE/AOI:**  
+GQR-38 and GQR-39 showed that transport decoupling and directional asymmetry can emerge from geometry-governed accessibility prior to hydrodynamic closure. The Science result independently reinforces that geometry is dynamically operative rather than merely descriptive.
+
+---
+
+### 2️⃣ Conditional Mutual Information (CMI) Clustering  
+**Tomotaka Kuwahara, *Physical Review X* 15, 041010 (2025)**  
+*Clustering of Conditional Mutual Information and Quantum Markov Structure at Arbitrary Temperatures*  
+DOI: https://doi.org/10.1103/PhysRevX.15.041010  
+
+This rigorous result establishes exponential decay of conditional mutual information (CMI) in quantum Gibbs states at arbitrary temperatures, demonstrating approximate quantum Markov structure under broad conditions.
+
+**Relevance to AOI:**  
+CMI constrains static correlation structure.  
+AOI constrains ordered dynamical composition.
+
+Rather than conflicting, these frameworks describe complementary regimes:
+
+| Regime | Dominant Framework |
+|--------|-------------------|
+| Equilibrium / Gibbs / rapid CMI decay | CMI / Quantum Markov structure |
+| Driven / time-gated / boundary-mediated | AOI–QGE |
+
+AOI does not contradict Markov structure; it identifies when Markov closure fails under ordered accessibility.
+
+---
+
+### 3️⃣ Low-Noise Collective Transport  
+**Ghosh et al., *Nature Communications* (2026)**  
+*A quieter state of charge and ultra-low-noise of the collective current in quasi-1D charge-density-wave nanowires*  
+DOI: https://doi.org/10.1038/s41467-025-67567-x  
+
+This study reports ultra-low current noise in quasi-one-dimensional boundary-dominated conductors.
+
+**Interpretation within GQR:**  
+The Shield Law (pre-AOI invariant) predicts structural pruning of unstable transport pathways. Noise reduction emerges as a secondary consequence of pre-pruned admissible manifolds.
+
+This may represent indirect experimental convergence with Shield-Law-type constraints in boundary-limited systems.
+
+---
+
+### 4️⃣ Indistinguishability-Induced Nonlocality  
+**Blasiak & Markiewicz, *npj Quantum Information* (2025)**  
+*Identical particles as a genuine non-local resource*  
+DOI: https://doi.org/10.1038/s41534-025-01086-x  
+
+Demonstrates that particle indistinguishability alone can generate experimentally accessible nonlocal correlations.
+
+**Relevance:**  
+While distinct from AOI, this strengthens the broader theme that structural constraints—not engineered interactions—can generate global behaviour.
+
+---
+
+### 5️⃣ Nonequilibrium Memory Landscapes  
+**Exploring the Landscape of Nonequilibrium Memories with Neural Cellular Automata**  
+*Physical Review Letters* (2026)  
+arXiv: https://doi.org/10.48550/arxiv.2508.15726  
+
+Shows that structured update rules in driven systems generate robust memory without static storage.
+
+**Connection to AOI:**  
+Neural CA memory = rule-based dynamical memory  
+AOI memory = non-commutative accessibility memory  
+
+Both encode history in process rather than stored state.
+
+---
+
+## 🔭 Outlook
+
+A clear convergence pattern is emerging:
+
+- Geometry is operational.
+- Ordering is a control variable.
+- Memory can emerge without qubits or bistability.
+- Boundary structure matters as much as bulk theory.
+
+### Emerging Axes of Control
+
+| Axis | Conventional Focus | Emerging Perspective |
+|------|-------------------|---------------------|
+| State | Hilbert amplitudes | Accessibility ordering |
+| Correlations | Entanglement measures | Path admissibility |
+| Transport | Hydrodynamics | Geometry + ordering |
+| Memory | Stored state | Process history |
+
+The AOI–QGE framework occupies a structural niche:
+
+> It does not replace quantum mechanics.  
+> It refines how dynamics are composed in time.
+
+---
+
+## 🧭 Forward Directions
+
+1. Formal integration of AOI with CMI bounds in driven systems  
+2. Experimental tests of ordering-dependent transport asymmetry  
+3. Boundary-noise suppression as Shield-Law diagnostic  
+4. Extension to moiré and spin-momentum-locked materials  
+5. Exploration of AOI-compatible nonequilibrium memory architectures  
+
+---
+
+
+
 **3 Feb 2026**
 
 ## More news.  
