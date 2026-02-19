@@ -1,5 +1,96 @@
 ## News / Updates
 
+## 📰 Programme Update — GQR-42 to GQR-48  
+**19 February 2026**
+
+The GQR/QGE programme has entered a decisive consolidation phase.  
+Between GQR-42 and GQR-48, the framework has progressed from environmental ordering and quantum memory architecture into full algebraic closure of the curvature–coherence theory.
+
+---
+
+### 🔷 GQR-42 — Ordering-Selected Emergence (OOL1)
+
+GQR-42 demonstrated that environmental cycling alone can select functional chemical structure under ordering constraints.  
+This provided the first physically grounded validation of the **Accessibility–Ordering Invariant (AOI)** outside abstract dynamical systems.
+
+**Scientific domain:** origin-of-life chemistry, statistical physics of ordering.
+
+---
+
+### 🔷 GQR-43–46 — Quantum Memory Architecture (AFC Series)
+
+These four papers established regime-resolved laws for cavity-enhanced atomic frequency comb (AFC) quantum memories:
+
+- Bandwidth robustness laws  
+- Ridge-drift tolerance metrics  
+- Geometry–coherence admissibility criteria  
+- Control-envelope expansion architectures  
+
+This series firmly anchored GQR within **experimental quantum photonics** and device-scale coherence engineering.
+
+**Scientific domain:** quantum optics, rare-earth solid-state quantum memory, cavity QED.
+
+---
+
+### 🔷 GQR-47 — Operational Admissibility (Channel-Level)
+
+GQR-47 formalised **Operational Channel Admissibility** using the diamond norm — a core tool in quantum information theory.
+
+This work operates squarely within:
+
+> **Quantum Information Theory (QIT)**  
+> specifically, *quantum channel theory and operational distinguishability.*
+
+The diamond norm measures how distinguishable two quantum processes are when acting on arbitrary entangled states.  
+GQR-47 used this to define when a physical process remains within admissible coherence bounds at the *channel level*.
+
+This places the GQR framework directly in the domain of:
+
+- Completely positive trace-preserving (CPTP) maps  
+- Quantum channel deviation  
+- Operational nonlocal distinguishability  
+
+It is not speculative physics — it is foundational quantum information mathematics.
+
+---
+
+### 🔷 GQR-48 — Non-Abelian Coherence Field Theory (NACFT)
+
+GQR-48 completes the algebraic core of the programme.
+
+It establishes:
+
+- **SU(2) minimality** as the smallest non-Abelian completion capable of irreducible two-channel coherence mixing.
+- A derived order parameter **Σ (Synchronicity)** from gauge invariants.
+- Recovery of the curvature–coherence balance  
+  \[
+  g^2 = \kappa \gamma_\phi
+  \]
+  as a stationary curvature–loss closure.
+- Conditional necessity of SU(3).
+- A controlled reduction to a Hessian metric (QGE limit).
+
+This compresses multiple years of development into a rigorous 3.5-page mathematical physics core.
+
+**Scientific domain:** mathematical physics, non-Abelian gauge theory, open quantum systems.
+
+---
+
+## 🔷 Structural Milestone
+
+Across GQR-42–48, the programme now consists of:
+
+1. Ordering-governed emergence (statistical physics)  
+2. Quantum memory device laws (quantum optics)  
+3. Channel-level operational admissibility (quantum information theory)  
+4. Minimal non-Abelian coherence field theory (mathematical physics)  
+5. Geometry-based simulation engine (computational physics)
+
+This phase represents the first full formal consolidation of the curvature–coherence framework.
+
+The programme has moved from exploratory expansion to algebraic stabilisation.
+
+
 **12 Feb 2026**
 # 🔔 News & Literature Convergence (2025–2026)
 
