@@ -78,15 +78,15 @@ For **CORE** papers, a *Direct Precursor* is listed where a single prior read is
 
 | ID | Title | Significance | Core Term(s) | Direct Precursor | DOI |
 |---:|---|---|---|---|---|
-| GC-arc1 | Civilisation as a Gene Mangler: A Questioned Dialogue with Earth Logic | INCIDENTAL | — | — | 10.5281/zenodo.18109520 |
-| GC-arc2 | Germinal Centres as Governed Systems: A Dilemma-Management Perspective on Diversity, Interference, and Immune Stability | CORE | Governed Selection; Diversity–Interference Trade-off | — | 10.5281/zenodo.18109551 |
-| GC-arc3 | A Migration-Driven Instability Ridge in Germinal-Centre Governance as a Systems Framework for Autoimmune Risk | CORE | Accessibility Constraints; Instability Ridge | GC-arc2 | 10.5281/zenodo.18109610 |
-| GC-arc4 / GQR-32 | Capacity-Limited Governance and Instability in Adaptive Dynamical Systems | CORE | Accessibility Constraints; Capacity Limits | GC-arc3 | 10.5281/zenodo.18109667 |
-| GC-arc5 | Governance, Temperature, and Recovery: Why Diversity Requires Structure Across Biology and Society | FORK | Capacity-Limited Governance | GC-arc4 | 10.5281/zenodo.18134579 |
-| GC-arc6 | Constraint-Driven Collapse as a Unifying Principle of Molecular and Immune Function | CORE | Constraint-Driven Collapse | GC-arc4 | 10.5281/zenodo.18110023 |
-| GC-arc7 | Oligoclonal Capture as a Failure Mode of Governance in Adaptive Systems: Implications for Immune Stability, Chronic Disease, and Global Health | CORE | Oligoclonal Capture; Governance Failure | GC-arc6 | 10.5281/zenodo.18163641 |
-| GC-arc8 | Immune-Complex Architecture Resolves the Antigen-Persistence Paradox in B-Cell Memory | CORE | Immune-Complex Architecture; Persistence | GC-arc7 | 10.5281/zenodo.18176310 |
-| GC-arc9 / GQR-35 | Pruning Dynamics and the Regeneration of Admissible Paths | CORE | Pruning; Admissible Paths | GC-arc8 | 10.5281/zenodo.18215529 |
-| GC-arc10 | Thresholded Immune State Transitions and Lag Dynamics in Therapeutic Peptide Vaccination for Chronic Hepatitis B | CORE | Thresholded State Transitions; Lag Dynamics | GC-arc9 | 10.5281/zenodo.18299345 |
-| GC-arc11 | Invariant-Governed Accessibility Constrains Somatic Hypermutation and Immune Fate | CORE | Accessibility Ordering; Immune Fate | GC-arc10 | 10.5281/zenodo.18329953 |
+| GC-arc1 | Civilisation as a Gene Mangler: A Questioned Dialogue with Earth Logic | INCIDENTAL | — | — | https://doi.org/10.5281/zenodo.18109520 |
+| GC-arc2 | Germinal Centres as Governed Systems: A Dilemma-Management Perspective on Diversity, Interference, and Immune Stability | CORE | Governed Selection; Diversity–Interference Trade-off | — | https://doi.org/10.5281/zenodo.18109551 |
+| GC-arc3 | A Migration-Driven Instability Ridge in Germinal-Centre Governance as a Systems Framework for Autoimmune Risk | CORE | Accessibility Constraints; Instability Ridge | GC-arc2 | https://doi.org/10.5281/zenodo.18109610 |
+| GC-arc4 / GQR-32 | Capacity-Limited Governance and Instability in Adaptive Dynamical Systems | CORE | Accessibility Constraints; Capacity Limits | GC-arc3 | https://doi.org/10.5281/zenodo.18109667 |
+| GC-arc5 | Governance, Temperature, and Recovery: Why Diversity Requires Structure Across Biology and Society | FORK | Capacity-Limited Governance | GC-arc4 | https://doi.org/10.5281/zenodo.18134579 |
+| GC-arc6 | Constraint-Driven Collapse as a Unifying Principle of Molecular and Immune Function | CORE | Constraint-Driven Collapse | GC-arc4 | https://doi.org/10.5281/zenodo.18110023 |
+| GC-arc7 | Oligoclonal Capture as a Failure Mode of Governance in Adaptive Systems: Implications for Immune Stability, Chronic Disease, and Global Health | CORE | Oligoclonal Capture; Governance Failure | GC-arc6 | https://doi.org/10.5281/zenodo.18163641 |
+| GC-arc8 | Immune-Complex Architecture Resolves the Antigen-Persistence Paradox in B-Cell Memory | CORE | Immune-Complex Architecture; Persistence | GC-arc7 | https://doi.org/10.5281/zenodo.18176310 |
+| GC-arc9 / GQR-35 | Pruning Dynamics and the Regeneration of Admissible Paths | CORE | Pruning; Admissible Paths | GC-arc8 | https://doi.org/10.5281/zenodo.18215529 |
+| GC-arc10 | Thresholded Immune State Transitions and Lag Dynamics in Therapeutic Peptide Vaccination for Chronic Hepatitis B | CORE | Thresholded State Transitions; Lag Dynamics | GC-arc9 | https://doi.org/10.5281/zenodo.18299345 |
+| GC-arc11 | Invariant-Governed Accessibility Constrains Somatic Hypermutation and Immune Fate | CORE | Accessibility Ordering; Immune Fate | GC-arc10 | https://doi.org/10.5281/zenodo.18329953 |
 | GC_arc12 | Governed diversification in germinal centres: from somatic hypermutation to adaptive computation | CORE | Germinal Centre Dynamics; Governed Diversification; Adaptive Computation | GC_arc11 | https://doi.org/10.5281/zenodo.18506486 |
