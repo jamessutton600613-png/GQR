@@ -16,8 +16,8 @@ For **CORE** papers, a *Direct Precursor* is listed where a single prior read is
 
 | ID | Title | Significance | Core Term(s) | Direct Precursor | DOI |
 |---:|---|---|---|---|---|
-| preGQR1 | 6D Rotary Engines: A Mechanistic Framework for simplification of delocalised pi-electron catalytic mechanism via 3D Fast Fourier transformation resolved Wave Amplification exciton/phonon/ewave flow, 5th dimension nucleon electronics, polymer tethering or pivoting strategic gains, leveraging 6th dimension quantum tunnelling | INCIDENTAL | — | — | 10.5281/zenodo.18300110 |
-| preGQR2 | The Quantum-Classical Tumbling Locomotion (QC-TCL) Hypothesis: A Unified Framework for Catalysis, Self-Assembly, and Biological Selection | INCIDENTAL | — | — | 10.5281/zenodo.18299933 |
+| preGQR1 | 6D Rotary Engines: A Mechanistic Framework for simplification of delocalised pi-electron catalytic mechanism via 3D Fast Fourier transformation resolved Wave Amplification exciton/phonon/ewave flow, 5th dimension nucleon electronics, polymer tethering or pivoting strategic gains, leveraging 6th dimension quantum tunnelling | INCIDENTAL | — | — | https://doi.org/10.5281/zenodo.18300110 |
+| preGQR2 | The Quantum-Classical Tumbling Locomotion (QC-TCL) Hypothesis: A Unified Framework for Catalysis, Self-Assembly, and Biological Selection | INCIDENTAL | — | — | https://doi.org/10.5281/zenodo.18299933 |
 
 ---
 
