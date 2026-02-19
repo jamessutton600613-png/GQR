@@ -89,3 +89,4 @@ For **CORE** papers, a *Direct Precursor* is listed where a single prior read is
 | GC-arc9 / GQR-35 | Pruning Dynamics and the Regeneration of Admissible Paths | CORE | Pruning; Admissible Paths | GC-arc8 | 10.5281/zenodo.18215529 |
 | GC-arc10 | Thresholded Immune State Transitions and Lag Dynamics in Therapeutic Peptide Vaccination for Chronic Hepatitis B | CORE | Thresholded State Transitions; Lag Dynamics | GC-arc9 | 10.5281/zenodo.18299345 |
 | GC-arc11 | Invariant-Governed Accessibility Constrains Somatic Hypermutation and Immune Fate | CORE | Accessibility Ordering; Immune Fate | GC-arc10 | 10.5281/zenodo.18329953 |
+| GC_arc12 | Governed diversification in germinal centres: from somatic hypermutation to adaptive computation | CORE | Germinal Centre Dynamics; Governed Diversification; Adaptive Computation | GC_arc11 | https://doi.org/10.5281/zenodo.18506486 |
