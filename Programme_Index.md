@@ -73,6 +73,7 @@ For **CORE** papers, a *Direct Precursor* is listed where a single prior read is
 | GQR-45 (AFC3) | Geometry–Coherence Coupling and Quantum Admissibility in Cavity-Enhanced Rare-Earth AFC Memories | CORE | Geometry–Coherence Coupling; Admissibility | GQR44 | https://doi.org/10.5281/zenodo.18676177 |
 | GQR-46 (AFC4) | Geometry–Coherence Admissibility Architecture and Control Envelope Expansion in Cavity-Enhanced Rare-Earth Atomic Frequency Comb Memories | CORE | Admissibility Architecture; Control Envelope | GQR45 | https://doi.org/10.5281/zenodo.18686193 |
 | GQR-47 | Operational Admissibility and Channel-Level Nonlocal Deviation | THEORY | Operational Channel Admissibility; Diamond Norm | - | https://doi.org/10.5281/zenodo.18674286 |
+| GQR-48 | Non-Abelian Coherence Field Theory: Minimal SU(2) Completion, Emergent Synchronicity, and Geometric Reduction of Curvature–Coherence Transport | CORE | Non-Abelian Coherence Field Theory (NACFT); SU(2) Minimality; Synchronicity (Σ); Curvature–Coherence Balance; Hessian Reduction | GQR-22; GQR-25 | https://doi.org/10.5281/zenodo.18705318 |
 
 ## GC-arc — Germinal Centre / Immune & Governance Programme
 
