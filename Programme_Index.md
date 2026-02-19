@@ -22,6 +22,7 @@ For **CORE** papers, a *Direct Precursor* is listed where a single prior read is
 ---
 
 ## GQR — Core Programme (chronological)
+
 | ID | Title | Significance | Core Term(s) | Direct Precursor | DOI |
 |---:|---|---|---|---|---|
 | GQR-I | A Bayesian Circuit–Hamiltonian Framework for Catalysis, Enzymology, Materials Science and UPE | CORE | Geometry-Gated Transport | preGQR2 | https://doi.org/10.26434/chemrxiv-2025-m7wxn-v6 |
@@ -40,7 +41,8 @@ For **CORE** papers, a *Direct Precursor* is listed where a single prior read is
 | GQR-XIV | Dynamic Proof of the 8F4I Quantum-Critical State as a Gated “Einstein–Rosen” Bridge | CORE | Shield Law | GQR-XII | https://doi.org/10.5281/zenodo.18130489 |
 | GQR-XV | The Gated Channel as a Curvature–Information Bridge: A Unified SU(3)coh–Einstein–Penrose Framework | CORE | Curvature–Information | GQR-XIV | https://doi.org/10.5281/zenodo.18131247 |
 | GQR-XVI | Gravity as a Coherence Ensemble: From the Shield Law to the Einstein–Cartan Tensor | CORE | Shield Law | GQR-XV | https://doi.org/10.5281/zenodo.18130662 |
-| GQR-XVIII |  |  |  |  |  |
+| GQRXVII | Synchronicity and Gravito-like Potentials from Coherence Vortices: A Physics-First Continuation of the Curvature–Information Programme | FOUNDATIONAL | Coherence Vortices; Curvature–Information | GQRXVI | https://doi.org/10.5281/zenodo.17563555 |
+| GQR-XVIII |  |  |  |  |  | <No Data>
 | GQR-XIX | GQR Shield Law as a Unified Principle for Biological and Nanoscale Machines | CORE | Shield Law | GQR-XI;XII | https://doi.org/10.5281/zenodo.18130876 |
 | GQR-XX | GQR-Fusion Salvation: An Einstein–Cartan–Penrose–Rosen Waveguide Model for Plasma Stability | FORK | Shield Law, QGE | GQR-XV | https://doi.org/10.5281/zenodo.18130900 |
 | GQR-XXI | Bayesian Thermodynamic Smart Walls for Fusion: A Shield-Law Venting Framework | FORK | Shield Law | — | https://doi.org/10.5281/zenodo.18130920 |
@@ -65,6 +67,12 @@ For **CORE** papers, a *Direct Precursor* is listed where a single prior read is
 | GQR-39 | Ordering-Governed Transport Control Beyond Dirac Fluids | BRANCH | QGE, AOI | GQR38 | https://doi.org/10.5281/zenodo.18371389 |
 | GQR-40 | Ordered Accessibility Invariants and Non-Commutative Aggregation (Paper X) | BRANCH | QGE, AOI | GQR39 | https://doi.org/10.5281/zenodo.18392880 |
 | GQR-41 | Accessibility–Ordering Invariants and Geometry-Controlled Cumulative Transport in Dirac Fluids (Paper C) | BRANCH | QGE, AOI, Dirac, DiracEdge | GQR40 | https://doi.org/10.5281/zenodo.18466898 |
+| GQR-42 (OOL1) | Ordering-Selected Emergence of Flavin Cofactors under Enzyme-Free Environmental Cycling | CORE | Accessibility–Ordering Invariant (AOI) | GQRXVII | https://doi.org/10.5281/zenodo.18625488 |
+| GQR-43 (AFC1) | Regime-resolved bandwidth robustness in cavity-enhanced atomic frequency comb quantum memories | CORE | AFC Bandwidth Robustness; Cavity Regimes | GQR42 | https://doi.org/10.5281/zenodo.18649496 |
+| GQR-44 (AFC2) | A dimensionless ridge-drift tolerance law for cavity-enhanced atomic frequency comb quantum memories | CORE | Ridge-Drift Tolerance Law; Stability Metrics | GQR43 | https://doi.org/10.5281/zenodo.18675970 |
+| GQR-45 (AFC3) | Geometry–Coherence Coupling and Quantum Admissibility in Cavity-Enhanced Rare-Earth AFC Memories | CORE | Geometry–Coherence Coupling; Admissibility | GQR44 | https://doi.org/10.5281/zenodo.18676177 |
+| GQR-46 (AFC4) | Geometry–Coherence Admissibility Architecture and Control Envelope Expansion in Cavity-Enhanced Rare-Earth Atomic Frequency Comb Memories | CORE | Admissibility Architecture; Control Envelope | GQR45 | https://doi.org/10.5281/zenodo.18686193 |
+| GQR-47 | Operational Admissibility and Channel-Level Nonlocal Deviation | THEORY | Operational Channel Admissibility; Diamond Norm | GQR45 | https://doi.org/10.5281/zenodo.18674286 |
 
 ## GC-arc — Germinal Centre / Immune & Governance Programme
 
