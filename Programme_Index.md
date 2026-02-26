@@ -4,11 +4,16 @@ This page is the canonical front page for the programme.
 Entries are ordered **chronologically by conceptual dependency**, not by upload date.
 
 ## Significance codes
+
 - **CORE** — load-bearing papers defining invariants or formal structure  
+- **FOUNDATIONAL** — early load-bearing scaffolds / programme-start axioms / essential bridge texts  
+- **THEORY** — formal theoretical developments (often QIT/QFT/math) that refine the framework without being the primary invariant pillar  
 - **FORK** — domain extensions or applications of the core framework  
+- **BRANCH** — sustained sub-programme arcs with internal continuity (e.g., Dirac/QGE run), often parallel to the main spine  
 - **INCIDENTAL** — contextual, exploratory, reflective, or precursor works  
 
-For **CORE** papers, a *Direct Precursor* is listed where a single prior read is required.
+For **CORE / FOUNDATIONAL** papers, a *Direct Precursor* is listed where a single prior read is required.
+
 
 ---
 
@@ -41,7 +46,7 @@ For **CORE** papers, a *Direct Precursor* is listed where a single prior read is
 | GQR-XIV | Dynamic Proof of the 8F4I Quantum-Critical State as a Gated “Einstein–Rosen” Bridge | CORE | Shield Law | GQR-XII | https://doi.org/10.5281/zenodo.18130489 |
 | GQR-XV | The Gated Channel as a Curvature–Information Bridge: A Unified SU(3)coh–Einstein–Penrose Framework | CORE | Curvature–Information | GQR-XIV | https://doi.org/10.5281/zenodo.18131247 |
 | GQR-XVI | Gravity as a Coherence Ensemble: From the Shield Law to the Einstein–Cartan Tensor | CORE | Shield Law | GQR-XV | https://doi.org/10.5281/zenodo.18130662 |
-| GQRXVII | Synchronicity and Gravito-like Potentials from Coherence Vortices: A Physics-First Continuation of the Curvature–Information Programme | FOUNDATIONAL | Coherence Vortices; Curvature–Information | GQRXVI | https://doi.org/10.5281/zenodo.17563555 |
+| GQR-XVII | Synchronicity and Gravito-like Potentials from Coherence Vortices: A Physics-First Continuation of the Curvature–Information Programme | FOUNDATIONAL | Coherence Vortices; Curvature–Information | GQRXVI | https://doi.org/10.5281/zenodo.17563555 |
 | GQR-XVIII |  |  |  |  |  | <No Data>
 | GQR-XIX | GQR Shield Law as a Unified Principle for Biological and Nanoscale Machines | CORE | Shield Law | GQR-XI;XII | https://doi.org/10.5281/zenodo.18130876 |
 | GQR-XX | GQR-Fusion Salvation: An Einstein–Cartan–Penrose–Rosen Waveguide Model for Plasma Stability | FORK | Shield Law, QGE | GQR-XV | https://doi.org/10.5281/zenodo.18130900 |
@@ -60,7 +65,7 @@ For **CORE** papers, a *Direct Precursor* is listed where a single prior read is
 | GQR-33/Math3 | Constraint-Governed Interference Across Scales: From Catalytic Geometry to Transient Subatomic Coherence. | CORE | Interference Geometry | GQR-XII | https://doi.org/10.5281/zenodo.18147840 |
 | GQR-34 | Geometry, Constraint, and Governance: Why Stability, Catalysis, and Memory Are Time-Structured Problems. | CORE | Time-Structured Dynamics | — | https://doi.org/10.5281/zenodo.18148465 |
 | GQR-34A | Geometry–Time Governance in Adaptive Dynamical Systems | CORE | Time-Structured Dynamics | — | https://doi.org/10.5281/zenodo.18148521 |
-| GQR-35/Math5/GC_arc9 | Pruning Dynamics and the Regeneration of Admissible Paths | CORE | Admissible Paths | GQR-XIX | https://doi.org/10.5281/zenodo.18215529 |
+| GQR-35 Math5 GC_arc9 | Pruning Dynamics and the Regeneration of Admissible Paths | CORE | Admissible Paths | GQR-XIX | https://doi.org/10.5281/zenodo.18215529 |
 | GQR-36 | Time-Ordered Accessibility as a Constraint on Transport – Why Averaging Fails When Connectivity Is Transient | CORE | Accessibility Ordering Invariant (AOI), QGE |  | https://doi.org/10.5281/zenodo.18307968 |
 | GQR-37 | Invariant-Governed Quantum Geometry Engines: Ordering, Transport Decoupling, and the Limits of Zero-Dimensional Dynamics | FORK | AOI; Quantum Geometry Engine | GQR-36 | https://doi.org/10.5281/zenodo.18344156 |
 | GQR-38 | Invariant-Governed Mode Ordering and Extreme Wiedemann–Franz Violation in Dirac Quantum Fluids | BRANCH | QGE,AOI | GQR-37 | https://doi.org/10.5281/zenodo.18371230 |
@@ -74,10 +79,10 @@ For **CORE** papers, a *Direct Precursor* is listed where a single prior read is
 | GQR-46 (AFC4) | Geometry–Coherence Admissibility Architecture and Control Envelope Expansion in Cavity-Enhanced Rare-Earth Atomic Frequency Comb Memories | CORE | Admissibility Architecture; Control Envelope | GQR45 | https://doi.org/10.5281/zenodo.18686193 |
 | GQR-47 | Operational Admissibility and Channel-Level Nonlocal Deviation | THEORY | Operational Channel Admissibility; Diamond Norm | - | https://doi.org/10.5281/zenodo.18674286 |
 | GQR-48 | Non-Abelian Coherence Field Theory: Minimal SU(2) Completion, Emergent Synchronicity, and Geometric Reduction of Curvature–Coherence Transport | CORE | Non-Abelian Coherence Field Theory (NACFT); SU(2) Minimality; Synchronicity (Σ); Curvature–Coherence Balance; Hessian Reduction | GQR-22; GQR-25 | https://doi.org/10.5281/zenodo.18705318 |
-| GQR-49 | Electronic Plasma Anti-Catalysis: Geometry-Conditioned Stability Control of Plasma-Facing Components | FORK | Plasma Anti-Catalysis; Geometry-Conditioned Stability; AOI in Plasma Interfaces; Boundary Curvature Control; PFC Degradation Suppression | GQR-20 | https://doi.org/10.5281/zenodo.18706468⁠| 
-| GQR-50 | Admissibility Distance as a Resource Monotone for Dynamical Nonlocality of Quantum Channels | CORE | Admissibility Distance; Resource Monotone; Dynamical Nonlocality; Channel Ordering; Operational Metric Geometry | GQR-47 | https://doi.org/10.5281/zenodo.18751658⁠| 
-| GQR-51 | Non-Unital Noise and Dynamical Nonlocal Resource Decay | THEORY | Non-Unital Quantum Channels; Resource Decay; Dynamical Nonlocality; Entanglement Dissipation; CPTP Asymmetry | GQR-47 | https://doi.org/10.5281/zenodo.18751739⁠| 
-| GQR-52 | Interleaved Mixing–Decoherence Dynamics and Operational Admissibility in Bipartite Quantum Channels | THEORY | Mixing–Decoherence Interleaving; Bipartite Channel Structure; Operational Admissibility; Diamond-Norm Sensitivity; Nonlocal Deviation Dynamics | GQR-47; GQR-51 | https://doi.org/10.5281/zenodo.18773431⁠|
+| GQR-49 | Electronic Plasma Anti-Catalysis: Geometry-Conditioned Stability Control of Plasma-Facing Components | FORK | Plasma Anti-Catalysis; Geometry-Conditioned Stability; AOI in Plasma Interfaces; Boundary Curvature Control; PFC Degradation Suppression | GQR-20 | https://doi.org/10.5281/zenodo.18706468 |
+| GQR-50 | Admissibility Distance as a Resource Monotone for Dynamical Nonlocality of Quantum Channels | CORE | Admissibility Distance; Resource Monotone; Dynamical Nonlocality; Channel Ordering; Operational Metric Geometry | GQR-47 | https://doi.org/10.5281/zenodo.18751658 |
+| GQR-51 | Non-Unital Noise and Dynamical Nonlocal Resource Decay | THEORY | Non-Unital Quantum Channels; Resource Decay; Dynamical Nonlocality; Entanglement Dissipation; CPTP Asymmetry | GQR-47; GQR-50 | https://doi.org/10.5281/zenodo.18751739 |
+| GQR-52 | Interleaved Mixing–Decoherence Dynamics and Operational Admissibility in Bipartite Quantum Channels | THEORY | Mixing–Decoherence Interleaving; Bipartite Channel Structure; Operational Admissibility; Diamond-Norm Sensitivity; Nonlocal Deviation Dynamics | GQR-47; GQR-50; GQR-51 | https://doi.org/10.5281/zenodo.18773431 |
 
 ## GC-arc — Germinal Centre / Immune & Governance Programme
 
