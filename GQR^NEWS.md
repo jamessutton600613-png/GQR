@@ -1,5 +1,50 @@
 ## News / Updates
 
+**26 February 2026**
+
+## Programme Update — Metric Formalisation and Dynamical Extension
+
+Since the 19 February consolidation note (GQR-42–48), the programme has extended along two tightly defined directions: applied geometry-conditioned engineering and formal resource dynamics in quantum channel theory.
+
+---
+
+### 1️⃣ Applied Extension — Plasma Stability (GQR-49)
+
+GQR-49 reconnects the AOI/QGE framework to high-energy materials modelling.
+
+The paper proposes **geometry-conditioned anti-catalysis** in plasma-facing components, exploring how ordered accessibility constraints can suppress instability under energetic plasma exposure.
+
+This marks a return to the fusion branch (cf. GQR-20), but now under the refined ordering formalism developed across GQR-36–48.
+
+---
+
+### 2️⃣ Resource Geometry Layer — Quantum Channel Dynamics (GQR-50–52)
+
+Three papers refine the operational admissibility framework introduced in GQR-47:
+
+- **GQR-50** defines *Admissibility Distance* as a resource monotone, giving the framework a measurable metric structure.
+- **GQR-51** studies non-unital noise and asymmetric nonlocal resource decay.
+- **GQR-52** analyses interleaved mixing–decoherence dynamics in bipartite channels, demonstrating order-sensitive erosion of admissibility.
+
+Together, these works convert admissibility from a static definitional property into a dynamical, composable resource framework.
+
+---
+
+### Structural Significance
+
+No new invariant has been introduced.
+
+Instead, the focus has been:
+
+- Formal stabilisation of channel-level resource geometry  
+- Clarification of noise-driven admissibility drift  
+- Extension of ordering logic into compositional QIT settings  
+- Applied reconnection to plasma materials engineering  
+
+The invariant backbone (Shield Law → QGE → AOI → NACFT) remains unchanged.
+
+This phase represents refinement and extension rather than architectural shift.
+
 ## 📰 Programme Update — GQR-42 to GQR-48  
 **19 February 2026**
 
