@@ -74,6 +74,10 @@ For **CORE** papers, a *Direct Precursor* is listed where a single prior read is
 | GQR-46 (AFC4) | Geometry–Coherence Admissibility Architecture and Control Envelope Expansion in Cavity-Enhanced Rare-Earth Atomic Frequency Comb Memories | CORE | Admissibility Architecture; Control Envelope | GQR45 | https://doi.org/10.5281/zenodo.18686193 |
 | GQR-47 | Operational Admissibility and Channel-Level Nonlocal Deviation | THEORY | Operational Channel Admissibility; Diamond Norm | - | https://doi.org/10.5281/zenodo.18674286 |
 | GQR-48 | Non-Abelian Coherence Field Theory: Minimal SU(2) Completion, Emergent Synchronicity, and Geometric Reduction of Curvature–Coherence Transport | CORE | Non-Abelian Coherence Field Theory (NACFT); SU(2) Minimality; Synchronicity (Σ); Curvature–Coherence Balance; Hessian Reduction | GQR-22; GQR-25 | https://doi.org/10.5281/zenodo.18705318 |
+| GQR-49 | Electronic Plasma Anti-Catalysis: Geometry-Conditioned Stability Control of Plasma-Facing Components | FORK | Plasma Anti-Catalysis; Geometry-Conditioned Stability; AOI in Plasma Interfaces; Boundary Curvature Control; PFC Degradation Suppression | GQR-20 | https://doi.org/10.5281/zenodo.18706468⁠| 
+| GQR-50 | Admissibility Distance as a Resource Monotone for Dynamical Nonlocality of Quantum Channels | CORE | Admissibility Distance; Resource Monotone; Dynamical Nonlocality; Channel Ordering; Operational Metric Geometry | GQR-47 | https://doi.org/10.5281/zenodo.18751658⁠| 
+| GQR-51 | Non-Unital Noise and Dynamical Nonlocal Resource Decay | THEORY | Non-Unital Quantum Channels; Resource Decay; Dynamical Nonlocality; Entanglement Dissipation; CPTP Asymmetry | GQR-47 | https://doi.org/10.5281/zenodo.18751739⁠| 
+| GQR-52 | Interleaved Mixing–Decoherence Dynamics and Operational Admissibility in Bipartite Quantum Channels | THEORY | Mixing–Decoherence Interleaving; Bipartite Channel Structure; Operational Admissibility; Diamond-Norm Sensitivity; Nonlocal Deviation Dynamics | GQR-47; GQR-51 | https://doi.org/10.5281/zenodo.18773431⁠|
 
 ## GC-arc — Germinal Centre / Immune & Governance Programme
 
