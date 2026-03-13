@@ -1,5 +1,136 @@
 ## News / Updates
 
+**13 Mar 2026**
+
+### Program Maturity under Floquet — GQR / QGE
+
+Recent work across several interconnected studies suggests that **non-commuting or periodically driven dynamics naturally generate ladder- and comb-like phase structures** that organise stability, recurrence, and information accessibility in quantum evolution.
+
+These structures appear in three closely connected contexts:
+
+• AFC photonic quantum memories — spectral comb geometry determines deterministic echo recurrence  
+• AOI operational theory — admissibility invariants quantify ordering-sensitive channel dynamics  
+• Ordering / Floquet dynamics — non-commuting update cycles produce observable phase ladders  
+
+Together the work suggests a **general geometric principle for ordering-induced structure in driven quantum systems.**
+
+---
+
+## Geometric intuition
+
+non-commuting / periodic dynamics  
+↓  
+commutator-driven phase accumulation  
+↓  
+ladder / comb manifolds  
+↓  
+observable stability or recurrence structures  
+
+---
+
+## Visual intuition
+
+Phase ladder structure
+
+    π
+    │
+    │    │    │    │
+    │    │    │    │
+────┼────┼────┼────┼────
+    │    │    │    │
+    │    │    │    │
+
+Spectral comb structure
+
+    | | | | | | | | |
+    | | | | | | | | |
+    | | | | | | | | |
+
+Temporal recurrence
+
+    pulse → echo → echo → echo
+       |        |        |
+       t₀       t₁       t₂
+
+---
+
+## Mathematical structure
+
+Non-commuting updates accumulate a phase
+
+Λ = ω · n_steps
+
+which produces ladder cadence
+
+ΔΛ ≈ π
+
+In AFC systems the dual spectral geometry produces recurrence
+
+t_echo = 1 / Δ
+
+---
+
+## Converging structure
+
+System | Manifestation
+------ | --------------
+Floquet transport | ordering-phase ladder
+Divisibility fracture | singular-value ridge comb
+AFC memories | spectral comb → temporal echo
+
+---
+
+## External context
+
+Recent experimental work demonstrates coherent Floquet control of exciton–polariton condensates using GHz acoustic modulation, producing controlled population transfer and **spectral frequency-comb emission**.
+
+This provides experimental evidence that periodically driven quantum systems can naturally organise into comb-like spectral structures, consistent with the ordering-geometry framework explored here.
+
+Citation  
+Kuznetsov, A. S. et al.  
+Ground-state exciton–polariton condensation by coherent Floquet driving.  
+Nature Photonics (2026)  
+https://doi.org/10.1038/s41566-026-01855-w
+
+---
+
+## Programme Papers (GQR chronological)
+
+AFC (4).pdf  
+GQR-43 — Regime-resolved bandwidth robustness in cavity-enhanced atomic frequency comb quantum memories  
+
+afc2 (2).pdf  
+afc2 (4).pdf SI  
+GQR-44 — A dimensionless ridge-drift tolerance law for cavity-enhanced atomic frequency comb quantum memories  
+
+AFC3 (2).pdf  
+AFC3 (4).pdf SI  
+GQR-45 — Geometry–Coherence Coupling and Quantum Admissibility in Cavity-Enhanced Rare-Earth AFC Memories  
+
+afcpa (10).pdf  
+GQR-46 — Geometry–Coherence Admissibility Architecture and Control Envelope Expansion  
+
+GenralAOItivity (3).pdf  
+GQR-50 — Admissibility Distance as a Resource Monotone for Dynamical Nonlocality of Quantum Channels  
+
+GenralAOItivity (5).pdf  
+GQR-51 — Non-Unital Noise and Dynamical Nonlocal Resource Decay  
+
+GenralAOItivity (16).pdf  
+GenralAOItivity (15).pdf SI  
+GQR-52 — Interleaved Mixing–Decoherence Dynamics and Operational Admissibility  
+
+AFCpaper5.pdf  
+GQR-53 — Dirac-Comb Spectral Geometry and Temporal Recurrence in Atomic Frequency Comb Memories  
+
+SchrHeis (5).pdf  
+SchrHeis (4).pdf SI  
+GQR-54 — Floquet-Organized Singular-Value Ridges and the Geometry of Schrödinger–Heisenberg Divisibility Fracture  
+
+FloquetDiracv2.pdf  
+siFloquetDiracv2.pdf SI  
+GQR-55 — Ordering-Induced Ladder Modes in Noncommuting Transport Cycles
+
 **26 February 2026**
 
 ## Programme Update — Metric Formalisation and Dynamical Extension
