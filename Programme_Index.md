@@ -83,6 +83,11 @@ For **CORE / FOUNDATIONAL** papers, a *Direct Precursor* is listed where a singl
 | GQR-50 | Admissibility Distance as a Resource Monotone for Dynamical Nonlocality of Quantum Channels | CORE | Admissibility Distance; Resource Monotone; Dynamical Nonlocality; Channel Ordering; Operational Metric Geometry | GQR-47 | https://doi.org/10.5281/zenodo.18751658 |
 | GQR-51 | Non-Unital Noise and Dynamical Nonlocal Resource Decay | THEORY | Non-Unital Quantum Channels; Resource Decay; Dynamical Nonlocality; Entanglement Dissipation; CPTP Asymmetry | GQR-47; GQR-50 | https://doi.org/10.5281/zenodo.18751739 |
 | GQR-52 | Interleaved Mixing–Decoherence Dynamics and Operational Admissibility in Bipartite Quantum Channels | THEORY | Mixing–Decoherence Interleaving; Bipartite Channel Structure; Operational Admissibility; Diamond-Norm Sensitivity; Nonlocal Deviation Dynamics | GQR-47; GQR-50; GQR-51 | https://doi.org/10.5281/zenodo.18773431 |
+| GQR-53 | Dirac-Comb Spectral Geometry and Temporal Recurrence in Atomic Frequency Comb Memories | THEORY | Atomic Frequency Comb Memory; Dirac-Comb Spectral Geometry; Photon Echo Recurrence; Spectral–Temporal Duality; Rare-Earth Quantum Storage | GQR-47; GQR-50 | https://doi.org/10.5281/zenodo.18877775 |
+| GQR-54 | Floquet-Organized Singular-Value Ridges and the Geometry of Schrödinger–Heisenberg Divisibility Fracture in Qubit Dynamics | THEORY | Floquet Organization; Singular-Value Ridge Structure; Divisibility Fracture; Non-Markovian Dynamics; Schrödinger–Heisenberg Picture Duality | GQR-47; GQR-50; GQR-52 | https://doi.org/10.5281/zenodo.18891329 |
+| GQR-55 | Ordering-Induced Ladder Modes in Noncommuting Transport Cycles | THEORY | Noncommuting Transport Cycles; Ordering-Induced Dynamics; Ladder Modes; Operator Ordering; Quantum Transport Geometry | GQR-47; GQR-50; GQR-54 | https://doi.org/10.5281/zenodo.18939338 |
+
+
 
 ## GC-arc — Germinal Centre / Immune & Governance Programme
 
