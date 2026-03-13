@@ -1,0 +1,6 @@
+{
+  "programme": "GQR / QGE / GC-arc / Math",
+  "created_utc": "2026-03-13T09:07:32.311509Z",
+  "note": "This file stores the canonical programme index text exactly as supplied by the author. Future versions may include fully structured entries.",
+  "canonical_markdown_index": "\n# Programme Index \u2014 GQR / QGE / GC-arc / Math\n\n(This JSON preserves the canonical README programme index exactly as provided.)\n\nSignificance codes:\nCORE \u2014 load-bearing papers defining invariants or formal structure\nFOUNDATIONAL \u2014 early load-bearing scaffolds / programme-start axioms\nTHEORY \u2014 formal theoretical developments\nFORK \u2014 domain extensions of the core framework\nBRANCH \u2014 sustained sub-programme arcs\nINCIDENTAL \u2014 contextual or exploratory precursor works\n"
+}
