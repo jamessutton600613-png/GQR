@@ -43,7 +43,7 @@ For **CORE / FOUNDATIONAL** papers, a *Direct Precursor* is listed where a singl
 | GQR-XI | Gated Quantum Resonator Framework for Self-Organizing Catalytic Reaction Networks | INCIDENTAL | Shield Law | - | https://doi.org/10.26434/chemrxiv-2025-dccdw-v2 |
 | GQR-XII | The Gated Quantum Resonator XII — Curvature–Information Catalysis: From Quantum Biology to Material Design | CORE | Curvature–Information; Shield Law | GQR-IV | https://doi.org/10.5281/zenodo.18130281 |
 | GQR-XIII | Curvature–Information Resonators in Weather and Climate: A Methods-First Framework for Retrospective Diagnostics | FORK | Curvature–Information | — | https://doi.org/10.5281/zenodo.18130389 |
-| GQR-XIV | Dynamic Proof of the 8F4I Quantum-Critical State as a Gated “Einstein–Rosen” Bridge | CORE | Shield Law | GQR-XII | https://doi.org/10.5281/zenodo.18130489 |
+| GQR14 | Dynamic Proof of the 8F4I Quantum-Critical State as a Curvature–Coherence Stationary Channel| CORE | Shield Law | GQR-XII | [https://doi.org/10.5281/zenodo.19134299] |
 | GQR-XV | The Gated Channel as a Curvature–Information Bridge: A Unified SU(3)coh–Einstein–Penrose Framework | CORE | Curvature–Information | GQR-XIV | https://doi.org/10.5281/zenodo.18131247 |
 | GQR-XVI | Gravity as a Coherence Ensemble: From the Shield Law to the Einstein–Cartan Tensor | CORE | Shield Law | GQR-XV | https://doi.org/10.5281/zenodo.18130662 |
 | GQR-XVII | Synchronicity and Gravito-like Potentials from Coherence Vortices: A Physics-First Continuation of the Curvature–Information Programme | FOUNDATIONAL | Coherence Vortices; Curvature–Information | GQRXVI | https://doi.org/10.5281/zenodo.17563555 |
