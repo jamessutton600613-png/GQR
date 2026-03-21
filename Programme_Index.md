@@ -87,6 +87,7 @@ For **CORE / FOUNDATIONAL** papers, a *Direct Precursor* is listed where a singl
 | GQR-54 | Floquet-Organized Singular-Value Ridges and the Geometry of Schrödinger–Heisenberg Divisibility Fracture in Qubit Dynamics | THEORY | Floquet Organization; Singular-Value Ridge Structure; Divisibility Fracture; Non-Markovian Dynamics; Schrödinger–Heisenberg Picture Duality | GQR-47; GQR-50; GQR-52 | https://doi.org/10.5281/zenodo.18891329 |
 | GQR-55 | Ordering-Induced Ladder Modes in Noncommuting Transport Cycles | THEORY | Noncommuting Transport Cycles; Ordering-Induced Dynamics; Ladder Modes; Operator Ordering; Quantum Transport Geometry | GQR-47; GQR-50; GQR-54 | https://doi.org/10.5281/zenodo.18939338 |
 | GQR-56 | Accessibility–Ordering Invariants and Ladder Geometry in Driven Quantum Systems | THEORY | Accessibility–Ordering Invariant (AOI); Ordering Geometry; Ladder Structures; Floquet Dynamics; Spectral Comb Recurrence; Driven Quantum Systems | GQR-50; GQR-53; GQR-54; GQR-55 | https://doi.org/10.5281/zenodo.19010825 |
+| GQR-57 | Hierarchical Selection Laws Govern the Evolution of Intrinsic Bond-Memory Structure in Quantum Transport | THEORY | Accessibility–Ordering Invariant (AOI); Ordering Geometry; Ladder Structures; Floquet Dynamics; Spectral Comb Recurrence; Driven Quantum Systems | GQR-50; GQR-53; GQR-54; GQR-55 | https://doi.org/10.5281/zenodo.19120332 |
 
 
 ## GC-arc — Germinal Centre / Immune & Governance Programme
