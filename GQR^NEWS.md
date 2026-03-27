@@ -1,5 +1,67 @@
 ## News / Updates
 
+# 📢 NEWS — Q1 REPORT RELEASE (Zenodo) + 2025/26 Literature Convergence Review
+
+**March 27, 2026**
+
+We are pleased to announce the release of the **Q1 Programme Appraisal Report** for the Gated Quantum Resonator (GQR) / Quantum Geometry Engine (QGE) framework.
+
+---
+
+## 📄 Primary Release (Zenodo)
+
+**Sutton, J. (2026)**  
+**GQR/QGE Programme Appraisal Report — OPERATION QUANTUM HARMONY**  
+*A geometry-driven framework spanning catalytic, quantum transport, and selection systems.*
+
+🔗 https://doi.org/10.5281/zenodo.19256518
+
+This 128-page report provides the first vertically integrated account of the programme, spanning:
+
+- Early **6D mechanistic ontology (preGQR)**
+- The **Shield Law** and curvature–coherence balance
+- The **AOI (Accessibility–Ordering Invariant)** framework
+- The **Dirac series** and transport-level ordering effects
+- The **AFC memory architecture** and ridge stability laws
+- Final quantisation via **Floquet ladder structure**
+- The **Selection Law (GQR-57)**
+
+---
+
+## 🌐 Accompanying Release
+
+### **Literature Convergence Review (2025–2026)**
+
+A companion document has been released in **Markdown format** for the GitHub programme index:
+
+➡️ `Field_Convergence.md`
+
+This document surveys recent high-impact results across physics and materials science that independently converge on core GQR principles.
+
+---
+
+## 🔷 Key Convergences Identified
+
+### 1. **Geometry governs dynamics**
+- Phase singularities (Nature 2026) exhibit behaviour determined by **global topology**, not local transport.
+
+### 2. **Ordering is physically operative**
+- Floquet systems and graphene experiments show outcomes depend on **sequence of operations**, not just state variables.
+
+### 3. **Divisibility can fracture**
+- PRX Quantum (2026) demonstrates inequivalence of Schrödinger and Heisenberg decompositions.
+
+### 4. **Causal order can be indefinite**
+- Experimental verification of **indefinite causal order** establishes ordering as a designable resource.
+
+### 5. **Transport carries memory**
+- Graphene interferometry and nanowire systems show **history-dependent transport signatures**.
+
+### 6. **Geometry can gate outcomes**
+- Chiral fermionic transport and cavity-modified systems demonstrate **geometry-conditioned selection
+
+
+
 **13 Mar 2026**
 
 ### Program Maturity under Floquet — GQR / QGE
