@@ -1,6 +1,15 @@
-# QGE / AOI Programme — Annotated Notebook Pipeline Index (incomplete)
+# QGE / AOI Programme — Annotated Notebook Pipeline Index 
 
-This file is a working index of programme notebooks.
+29 Mar 2026
+
+
+
+
+
+
+
+
+earlier draft (incomplete) This file is a working index of programme notebooks.
 
 ## 🔍 Quick Lookup
 
