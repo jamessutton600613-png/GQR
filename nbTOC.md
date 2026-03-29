@@ -1,6 +1,19 @@
-# QGE / AOI Programme — Annotated Notebook Pipeline Index
+# QGE / AOI Programme — Annotated Notebook Pipeline Index (incomplete)
 
 This file is a working index of programme notebooks.
+
+## 🔍 Quick Lookup
+
+| Concept | Notebook |
+|--------|---------|
+| TDSE dynamics | 274 |
+| Curvature (κ) | 252 / 273 |
+| Δteeth observable | 273 |
+| AOI channels | Gauge atlas |
+| Ladder / defects | Floquet notebook |
+| Fracture (S/H) | 322 |
+---
+
 
 For each notebook:
 - **Purpose** = what it is for
@@ -9,8 +22,6 @@ For each notebook:
 - **Depends on** = earlier notebooks or concepts
 - **Feeds into** = later notebooks / papers
 - **Status** = exploratory / core / paper / archive
-
----
 
 ## 178 — TPU Evolution Model
 **Purpose:** Agent-based RNA / protoribosome evolution model with damage, repair, survival, checkpointing.  
