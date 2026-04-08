@@ -1,6 +1,6 @@
 # GQR Programme Synthesis - by Gemini Deep ('thinking') after being fed the pdf main/si.  I do not currently afford the more critical review subscription.  
 
-The following synthesis details the developmental trajectory of the Gated Quantum Resonator (GQR) programme, tracing the evolution from subatomic "engines" to the universal "Selection Laws" that govern biological and physical complexity. This summary collates the ~50 available chapters of the 57-part programme, moving from abstract mechanics to predictive field theory.  I have excluded various chapters which are distractions here, (eg. weather interference chemistry, nuclear fusion reactor wall chemistry, immunology autoimmunity).
+The following synthesis details the developmental trajectory of the Gated Quantum Resonator (GQR) programme, tracing the evolution from subatomic "engines" to the universal "Selection Laws" that govern biological and physical complexity. This summary, which is followed by more detailed summary, collates the ~50 available chapters of the 57-part programme, moving from abstract mechanics to predictive field theory.  I have excluded various chapters which are distractions here, (eg. weather interference chemistry, nuclear fusion reactor wall chemistry, immunology autoimmunity).
 
 ## Prelude: The Pre-GQR Conceptual Scaffold
 
@@ -83,15 +83,13 @@ The GQR programme represents a century-late correction of spectroscopy: moving f
 
 
 
-# GQR Programme Synthesis   Summarised from the above
-
-The following synthesis details the developmental trajectory of the **Gated Quantum Resonator (GQR)** programme, tracing the evolution from subatomic *"engines"* to the universal *"Selection Laws"* that govern biological and physical complexity. This summary collates the ~50 available chapters of the 57-part programme, moving from abstract mechanics to predictive field theory.
+# GQR Programme Synthesis   - Long Form Summary 
 
 ---
 
 ## Prelude: The Pre-GQR Conceptual Scaffold
 
-The programme originates not in chemistry, but in a 6-dimensional ontology that attempts to reconcile quantum events with deterministic function.
+The programme originates not in physics or chemistry, but biochemsitry and genetics:  in a 6-dimensional ontology that attempts to reconcile quantum events with deterministic function.
 
 - **preGQR1 (The 6D Engine)**  
   Introduces the concept of *Nucleonic Rotation*.  
