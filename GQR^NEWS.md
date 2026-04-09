@@ -1,6 +1,6 @@
 ## News / Updates
 
-# 📢 NEWS — Collider Data Anchor for the GQR / QGE / AOI Programme
+# 📢 NEWS — Khachatryan Collider Data Anchor for the GQR / QGE / AOI Programme
 
 **9 April 2026**
 
