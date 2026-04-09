@@ -1,5 +1,97 @@
 ## News / Updates
 
+# 📢 NEWS — Collider Data Anchor for the GQR / QGE / AOI Programme
+
+**9 April 2026**
+
+We are pleased to announce the release of a new programme preprint examining published LHC top-pair production data with additional jets through the GQR / QGE / AOI framework.
+
+---
+
+## 📄 New Release (Zenodo)
+
+**Sutton, J. R. F. (2026)**  
+**(GQR60) A Low-Dimensional Suppression Structure in Collider Jet Multiplicity Data**  
+*A GQR (Gated Quantum Resonator), QGE (Quantum Geometry Engine) and AOI (Accessibility–Ordering Invariant)-Compatible Representation.*
+
+This note analyses published collider measurements of top-pair production with additional jets and shows that both jet multiplicity and transverse-momentum structure admit a compact exponential–quadratic representation:
+
+\[
+\sigma(N,p_T)\approx \exp\!\big(-\kappa N-\alpha(N)p_T-\beta(N)p_T^2\big).
+\]
+
+---
+
+## 🔷 Main Result
+
+The data exhibit:
+
+- robust exponential suppression in jet multiplicity,
+- smooth curved behaviour in transverse momentum,
+- stability across **parton** and **particle** levels,
+- and consistency with standard **QCD-based Monte Carlo** modelling.
+
+Residual deviations relative to MC are small and remain within quoted uncertainties.
+
+---
+
+## 🔷 Why this matters
+
+This release does **not** claim new physics.
+
+Its importance is different:
+
+- it shows that the **admissibility–survival form** developed in the programme can map directly onto real collider data;
+- it provides a **low-dimensional structural description** of otherwise complex jet-production dynamics;
+- and it gives the wider programme a new **empirical anchor** in high-quality experimental physics.
+
+For collider phenomenology, this may serve as a compact descriptive or comparative tool.  
+For the GQR/QGE/AOI programme, it is more significant: it demonstrates that the framework can function as a valid structural layer over established physics rather than remaining only a cross-domain formalism.
+
+---
+
+## 🔷 Structural Interpretation
+
+The suppression form can be written as
+
+\[
+w = A e^{-\Lambda},
+\]
+
+where \(A\) captures baseline production and \(\Lambda\) acts as an effective multiplicity–kinematic suppression functional.
+
+In this sense, the work supports the broader programme claim that complex physical behaviour can often be organised by **admissibility**, **ordering**, and **survival-weighted selection**, without requiring replacement of standard dynamical laws.
+
+---
+
+## 🔷 Programme Significance
+
+This is an important milestone because it connects:
+
+- abstract programme formalism,
+- published collider measurements,
+- Monte Carlo validation,
+- and a compact geometric representation
+
+within a single, reproducible case study.
+
+In plain terms: the programme now has a direct collider-data proof of viability.
+
+---
+
+## 🧭 Forward Directions
+
+Potential next steps include testing whether the same representation remains stable across:
+
+1. other collider processes,
+2. different centre-of-mass energies,
+3. higher multiplicity regimes,
+4. and datasets or observables where current modelling becomes less precise.
+
+This is likely where the framework may begin to show added value beyond compact description.
+
+---
+
 # 📢 NEWS — Q1 REPORT RELEASE (Zenodo) + 2025/26 Literature Convergence Review
 
 **March 27, 2026**
