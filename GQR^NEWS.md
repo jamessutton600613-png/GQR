@@ -4,21 +4,17 @@
 
 **9 April 2026**
 
-We are pleased to announce the release of a new programme preprint examining published LHC top-pair production data with additional jets through the GQR / QGE / AOI framework.
+We are pleased to announce the release of a new programme preprint examining published LHC top-pair production data (V. Khachatryan et al. (CMS Collaboration) with additional jets through the GQR / QGE / AOI framework.
 
 ---
 
 ## 📄 New Release (Zenodo)
 
-**Sutton, J. R. F. (2026)**  
-**(GQR60) A Low-Dimensional Suppression Structure in Collider Jet Multiplicity Data**  
-*A GQR (Gated Quantum Resonator), QGE (Quantum Geometry Engine) and AOI (Accessibility–Ordering Invariant)-Compatible Representation.*
+**Sutton, J. R. F. (2026)** **(GQR60) A Low-Dimensional Suppression Structure in Collider Jet Multiplicity Data** *A GQR (Gated Quantum Resonator), QGE (Quantum Geometry Engine) and AOI (Accessibility–Ordering Invariant)-Compatible Representation.*
 
 This note analyses published collider measurements of top-pair production with additional jets and shows that both jet multiplicity and transverse-momentum structure admit a compact exponential–quadratic representation:
 
-\[
-\sigma(N,p_T)\approx \exp\!\big(-\kappa N-\alpha(N)p_T-\beta(N)p_T^2\big).
-\]
+$$\sigma(N,p_T)\approx \exp\!\big(-\kappa N-\alpha(N)p_T-\beta(N)p_T^2\big)$$
 
 ---
 
@@ -26,10 +22,10 @@ This note analyses published collider measurements of top-pair production with a
 
 The data exhibit:
 
-- robust exponential suppression in jet multiplicity,
-- smooth curved behaviour in transverse momentum,
-- stability across **parton** and **particle** levels,
-- and consistency with standard **QCD-based Monte Carlo** modelling.
+- Robust exponential suppression in jet multiplicity,
+- Smooth curved behaviour in transverse momentum,
+- Stability across **parton** and **particle** levels,
+- And consistency with standard **QCD-based Monte Carlo** modelling.
 
 Residual deviations relative to MC are small and remain within quoted uncertainties.
 
@@ -37,16 +33,13 @@ Residual deviations relative to MC are small and remain within quoted uncertaint
 
 ## 🔷 Why this matters
 
-This release does **not** claim new physics.
+This release does **not** claim new physics. Its importance is different:
 
-Its importance is different:
+- It shows that the **admissibility–survival form** developed in the programme can map directly onto real collider data;
+- It provides a **low-dimensional structural description** of otherwise complex jet-production dynamics;
+- And it gives the wider programme a new **empirical anchor** in high-quality experimental physics.
 
-- it shows that the **admissibility–survival form** developed in the programme can map directly onto real collider data;
-- it provides a **low-dimensional structural description** of otherwise complex jet-production dynamics;
-- and it gives the wider programme a new **empirical anchor** in high-quality experimental physics.
-
-For collider phenomenology, this may serve as a compact descriptive or comparative tool.  
-For the GQR/QGE/AOI programme, it is more significant: it demonstrates that the framework can function as a valid structural layer over established physics rather than remaining only a cross-domain formalism.
+For collider phenomenology, this may serve as a compact descriptive or comparative tool. For the GQR/QGE/AOI programme, it is more significant: it demonstrates that the framework can function as a valid structural layer over established physics rather than remaining only a cross-domain formalism.
 
 ---
 
@@ -54,11 +47,9 @@ For the GQR/QGE/AOI programme, it is more significant: it demonstrates that the 
 
 The suppression form can be written as
 
-\[
-w = A e^{-\Lambda},
-\]
+$$w = A e^{-\Lambda}$$
 
-where \(A\) captures baseline production and \(\Lambda\) acts as an effective multiplicity–kinematic suppression functional.
+where $A$ captures baseline production and $\Lambda$ acts as an effective multiplicity–kinematic suppression functional.
 
 In this sense, the work supports the broader programme claim that complex physical behaviour can often be organised by **admissibility**, **ordering**, and **survival-weighted selection**, without requiring replacement of standard dynamical laws.
 
@@ -68,14 +59,12 @@ In this sense, the work supports the broader programme claim that complex physic
 
 This is an important milestone because it connects:
 
-- abstract programme formalism,
-- published collider measurements,
+- Abstract programme formalism,
+- Published collider measurements,
 - Monte Carlo validation,
-- and a compact geometric representation
+- And a compact geometric representation
 
-within a single, reproducible case study.
-
-In plain terms: the programme now has a direct collider-data proof of viability.
+within a single, reproducible case study. In plain terms: the programme now has a direct collider-data proof of viability.
 
 ---
 
@@ -83,12 +72,10 @@ In plain terms: the programme now has a direct collider-data proof of viability.
 
 Potential next steps include testing whether the same representation remains stable across:
 
-1. other collider processes,
-2. different centre-of-mass energies,
-3. higher multiplicity regimes,
-4. and datasets or observables where current modelling becomes less precise.
-
-This is likely where the framework may begin to show added value beyond compact description.
+1. Other collider processes,
+2. Different centre-of-mass energies,
+3. Higher multiplicity regimes,
+4. And datasets where current modelling becomes less precise.
 
 ---
 
@@ -102,11 +89,9 @@ We are pleased to announce the release of the **Q1 Programme Appraisal Report** 
 
 ## 📄 Primary Release (Zenodo)
 
-**Sutton, J. (2026)**  
-**GQR/QGE Programme Appraisal Report — OPERATION QUANTUM HARMONY**  
-*A geometry-driven framework spanning catalytic, quantum transport, and selection systems.*
+**Sutton, J. (2026)** **GQR/QGE Programme Appraisal Report — OPERATION QUANTUM HARMONY** *A geometry-driven framework spanning catalytic, quantum transport, and selection systems.*
 
-🔗 https://doi.org/10.5281/zenodo.19256518
+🔗 [https://doi.org/10.5281/zenodo.19256518](https://doi.org/10.5281/zenodo.19256518)
 
 This 128-page report provides the first vertically integrated account of the programme, spanning:
 
@@ -120,685 +105,131 @@ This 128-page report provides the first vertically integrated account of the pro
 
 ---
 
-## 🌐 Accompanying Release
+## 🌐 Accompanying Release: Literature Convergence Review (2025–2026)
 
-### **Literature Convergence Review (2025–2026)**
+### 🔷 Key Convergences Identified
 
-A companion document has been released in **Markdown format** for the GitHub programme index:
-
-➡️ `Field_Convergence.md`
-
-This document surveys recent high-impact results across physics and materials science that independently converge on core GQR principles.
+1.  **Geometry governs dynamics**: Phase singularities (*Nature* 2026) exhibit behaviour determined by global topology.
+2.  **Ordering is physically operative**: Floquet systems and graphene experiments show outcomes depend on sequence of operations.
+3.  **Divisibility can fracture**: *PRX Quantum* (2026) demonstrates inequivalence of Schrödinger and Heisenberg decompositions.
+4.  **Causal order can be indefinite**: Verification of indefinite causal order establishes ordering as a resource.
+5.  **Transport carries memory**: Graphene systems show history-dependent transport signatures.
+6.  **Geometry can gate outcomes**: Chiral fermionic transport demonstrates geometry-conditioned selection.
 
 ---
-
-## 🔷 Key Convergences Identified
-
-### 1. **Geometry governs dynamics**
-- Phase singularities (Nature 2026) exhibit behaviour determined by **global topology**, not local transport.
-
-### 2. **Ordering is physically operative**
-- Floquet systems and graphene experiments show outcomes depend on **sequence of operations**, not just state variables.
-
-### 3. **Divisibility can fracture**
-- PRX Quantum (2026) demonstrates inequivalence of Schrödinger and Heisenberg decompositions.
-
-### 4. **Causal order can be indefinite**
-- Experimental verification of **indefinite causal order** establishes ordering as a designable resource.
-
-### 5. **Transport carries memory**
-- Graphene interferometry and nanowire systems show **history-dependent transport signatures**.
-
-### 6. **Geometry can gate outcomes**
-- Chiral fermionic transport and cavity-modified systems demonstrate **geometry-conditioned selection
-
-
 
 **13 Mar 2026**
 
 ### Program Maturity under Floquet — GQR / QGE
 
-Recent work across several interconnected studies suggests that **non-commuting or periodically driven dynamics naturally generate ladder- and comb-like phase structures** that organise stability, recurrence, and information accessibility in quantum evolution.
-
-These structures appear in three closely connected contexts:
-
-• AFC photonic quantum memories — spectral comb geometry determines deterministic echo recurrence  
-• AOI operational theory — admissibility invariants quantify ordering-sensitive channel dynamics  
-• Ordering / Floquet dynamics — non-commuting update cycles produce observable phase ladders  
-
-Together the work suggests a **general geometric principle for ordering-induced structure in driven quantum systems.**
-
----
+Recent work suggests that **non-commuting or periodically driven dynamics naturally generate ladder- and comb-like phase structures**.
 
 ## Geometric intuition
-
-non-commuting / periodic dynamics  
+Non-commuting / periodic dynamics  
 ↓  
-commutator-driven phase accumulation  
+Commutator-driven phase accumulation  
 ↓  
-ladder / comb manifolds  
+Ladder / comb manifolds  
 ↓  
-observable stability or recurrence structures  
-
----
-
-## Visual intuition
-
-Phase ladder structure
-
-    π
-    │
-    │    │    │    │
-    │    │    │    │
-────┼────┼────┼────┼────
-    │    │    │    │
-    │    │    │    │
-
-Spectral comb structure
-
-    | | | | | | | | |
-    | | | | | | | | |
-    | | | | | | | | |
-
-Temporal recurrence
-
-    pulse → echo → echo → echo
-       |        |        |
-       t₀       t₁       t₂
-
----
+Observable stability or recurrence structures  
 
 ## Mathematical structure
-
-Non-commuting updates accumulate a phase
-
-Λ = ω · n_steps
-
-which produces ladder cadence
-
-ΔΛ ≈ π
-
-In AFC systems the dual spectral geometry produces recurrence
-
-t_echo = 1 / Δ
+Non-commuting updates accumulate a phase:
+$$\Lambda = \omega \cdot n_{\text{steps}}$$
+which produces ladder cadence:
+$$\Delta\Lambda \approx \pi$$
+In AFC systems, dual spectral geometry produces recurrence:
+$$t_{\text{echo}} = 1 / \Delta$$
 
 ---
 
-## Converging structure
+## 🔷 Programme Papers (GQR chronological)
 
-System | Manifestation
------- | --------------
-Floquet transport | ordering-phase ladder
-Divisibility fracture | singular-value ridge comb
-AFC memories | spectral comb → temporal echo
-
----
-
-## External context
-
-Recent experimental work demonstrates coherent Floquet control of exciton–polariton condensates using GHz acoustic modulation, producing controlled population transfer and **spectral frequency-comb emission**.
-
-This provides experimental evidence that periodically driven quantum systems can naturally organise into comb-like spectral structures, consistent with the ordering-geometry framework explored here.
-
-Citation  
-Kuznetsov, A. S. et al.  
-Ground-state exciton–polariton condensation by coherent Floquet driving.  
-Nature Photonics (2026)  
-https://doi.org/10.1038/s41566-026-01855-w
+* **GQR-43**: Regime-resolved bandwidth robustness in cavity-enhanced AFC.
+* **GQR-44**: Dimensionless ridge-drift tolerance law.
+* **GQR-45**: Geometry–Coherence Coupling and Quantum Admissibility.
+* **GQR-46**: Control Envelope Expansion.
+* **GQR-50**: Admissibility Distance as a Resource Monotone.
+* **GQR-51**: Non-Unital Noise and Dynamical Nonlocal Resource Decay.
+* **GQR-52**: Interleaved Mixing–Decoherence Dynamics.
+* **GQR-53**: Dirac-Comb Spectral Geometry.
+* **GQR-54**: Floquet-Organized Singular-Value Ridges.
+* **GQR-55**: Ordering-Induced Ladder Modes.
 
 ---
-
-## Programme Papers (GQR chronological)
-
-AFC (4).pdf  
-GQR-43 — Regime-resolved bandwidth robustness in cavity-enhanced atomic frequency comb quantum memories  
-
-afc2 (2).pdf  
-afc2 (4).pdf SI  
-GQR-44 — A dimensionless ridge-drift tolerance law for cavity-enhanced atomic frequency comb quantum memories  
-
-AFC3 (2).pdf  
-AFC3 (4).pdf SI  
-GQR-45 — Geometry–Coherence Coupling and Quantum Admissibility in Cavity-Enhanced Rare-Earth AFC Memories  
-
-afcpa (10).pdf  
-GQR-46 — Geometry–Coherence Admissibility Architecture and Control Envelope Expansion  
-
-GenralAOItivity (3).pdf  
-GQR-50 — Admissibility Distance as a Resource Monotone for Dynamical Nonlocality of Quantum Channels  
-
-GenralAOItivity (5).pdf  
-GQR-51 — Non-Unital Noise and Dynamical Nonlocal Resource Decay  
-
-GenralAOItivity (16).pdf  
-GenralAOItivity (15).pdf SI  
-GQR-52 — Interleaved Mixing–Decoherence Dynamics and Operational Admissibility  
-
-AFCpaper5.pdf  
-GQR-53 — Dirac-Comb Spectral Geometry and Temporal Recurrence in Atomic Frequency Comb Memories  
-
-SchrHeis (5).pdf  
-SchrHeis (4).pdf SI  
-GQR-54 — Floquet-Organized Singular-Value Ridges and the Geometry of Schrödinger–Heisenberg Divisibility Fracture  
-
-FloquetDiracv2.pdf  
-siFloquetDiracv2.pdf SI  
-GQR-55 — Ordering-Induced Ladder Modes in Noncommuting Transport Cycles
 
 **26 February 2026**
 
 ## Programme Update — Metric Formalisation and Dynamical Extension
 
-Since the 19 February consolidation note (GQR-42–48), the programme has extended along two tightly defined directions: applied geometry-conditioned engineering and formal resource dynamics in quantum channel theory.
-
----
-
 ### 1️⃣ Applied Extension — Plasma Stability (GQR-49)
+Proposes **geometry-conditioned anti-catalysis** in plasma-facing components to suppress instability.
 
-GQR-49 reconnects the AOI/QGE framework to high-energy materials modelling.
-
-The paper proposes **geometry-conditioned anti-catalysis** in plasma-facing components, exploring how ordered accessibility constraints can suppress instability under energetic plasma exposure.
-
-This marks a return to the fusion branch (cf. GQR-20), but now under the refined ordering formalism developed across GQR-36–48.
+### 2️⃣ Resource Geometry Layer (GQR-50–52)
+Refines the operational admissibility framework, defining *Admissibility Distance* as a measurable metric structure.
 
 ---
 
-### 2️⃣ Resource Geometry Layer — Quantum Channel Dynamics (GQR-50–52)
-
-Three papers refine the operational admissibility framework introduced in GQR-47:
-
-- **GQR-50** defines *Admissibility Distance* as a resource monotone, giving the framework a measurable metric structure.
-- **GQR-51** studies non-unital noise and asymmetric nonlocal resource decay.
-- **GQR-52** analyses interleaved mixing–decoherence dynamics in bipartite channels, demonstrating order-sensitive erosion of admissibility.
-
-Together, these works convert admissibility from a static definitional property into a dynamical, composable resource framework.
-
----
-
-### Structural Significance
-
-No new invariant has been introduced.
-
-Instead, the focus has been:
-
-- Formal stabilisation of channel-level resource geometry  
-- Clarification of noise-driven admissibility drift  
-- Extension of ordering logic into compositional QIT settings  
-- Applied reconnection to plasma materials engineering  
-
-The invariant backbone (Shield Law → QGE → AOI → NACFT) remains unchanged.
-
-This phase represents refinement and extension rather than architectural shift.
-
-## 📰 Programme Update — GQR-42 to GQR-48  
 **19 February 2026**
 
-The GQR/QGE programme has entered a decisive consolidation phase.  
-Between GQR-42 and GQR-48, the framework has progressed from environmental ordering and quantum memory architecture into full algebraic closure of the curvature–coherence theory.
-
----
+## 📰 Programme Update — GQR-42 to GQR-48
 
 ### 🔷 GQR-42 — Ordering-Selected Emergence (OOL1)
+Validated the AOI outside abstract systems by showing environmental cycling can select chemical structure.
 
-GQR-42 demonstrated that environmental cycling alone can select functional chemical structure under ordering constraints.  
-This provided the first physically grounded validation of the **Accessibility–Ordering Invariant (AOI)** outside abstract dynamical systems.
-
-**Scientific domain:** origin-of-life chemistry, statistical physics of ordering.
-
----
-
-### 🔷 GQR-43–46 — Quantum Memory Architecture (AFC Series)
-
-These four papers established regime-resolved laws for cavity-enhanced atomic frequency comb (AFC) quantum memories:
-
-- Bandwidth robustness laws  
-- Ridge-drift tolerance metrics  
-- Geometry–coherence admissibility criteria  
-- Control-envelope expansion architectures  
-
-This series firmly anchored GQR within **experimental quantum photonics** and device-scale coherence engineering.
-
-**Scientific domain:** quantum optics, rare-earth solid-state quantum memory, cavity QED.
-
----
-
-### 🔷 GQR-47 — Operational Admissibility (Channel-Level)
-
-GQR-47 formalised **Operational Channel Admissibility** using the diamond norm — a core tool in quantum information theory.
-
-This work operates squarely within:
-
-> **Quantum Information Theory (QIT)**  
-> specifically, *quantum channel theory and operational distinguishability.*
-
-The diamond norm measures how distinguishable two quantum processes are when acting on arbitrary entangled states.  
-GQR-47 used this to define when a physical process remains within admissible coherence bounds at the *channel level*.
-
-This places the GQR framework directly in the domain of:
-
-- Completely positive trace-preserving (CPTP) maps  
-- Quantum channel deviation  
-- Operational nonlocal distinguishability  
-
-It is not speculative physics — it is foundational quantum information mathematics.
-
----
+### 🔷 GQR-47 — Operational Admissibility
+Formalised channel admissibility using the **diamond norm**, placing GQR within standard QIT.
 
 ### 🔷 GQR-48 — Non-Abelian Coherence Field Theory (NACFT)
-
-GQR-48 completes the algebraic core of the programme.
-
-It establishes:
-
-- **SU(2) minimality** as the smallest non-Abelian completion capable of irreducible two-channel coherence mixing.
-- A derived order parameter **Σ (Synchronicity)** from gauge invariants.
-- Recovery of the curvature–coherence balance  
-  \[
-  g^2 = \kappa \gamma_\phi
-  \]
-  as a stationary curvature–loss closure.
-- Conditional necessity of SU(3).
-- A controlled reduction to a Hessian metric (QGE limit).
-
-This compresses multiple years of development into a rigorous 3.5-page mathematical physics core.
-
-**Scientific domain:** mathematical physics, non-Abelian gauge theory, open quantum systems.
+Established **SU(2) minimality** and recovered the curvature–coherence balance:
+$$g^2 = \kappa \gamma_\phi$$
 
 ---
-
-## 🔷 Structural Milestone
-
-Across GQR-42–48, the programme now consists of:
-
-1. Ordering-governed emergence (statistical physics)  
-2. Quantum memory device laws (quantum optics)  
-3. Channel-level operational admissibility (quantum information theory)  
-4. Minimal non-Abelian coherence field theory (mathematical physics)  
-5. Geometry-based simulation engine (computational physics)
-
-This phase represents the first full formal consolidation of the curvature–coherence framework.
-
-The programme has moved from exploratory expansion to algebraic stabilisation.
-
 
 **12 Feb 2026**
+
 # 🔔 News & Literature Convergence (2025–2026)
 
-The AOI–QGE programme continues to intersect with major developments across condensed matter physics, quantum information, and nonequilibrium dynamics. Recent high-impact publications highlight structural convergence with the accessibility-ordering framework introduced in GQR-36–41.
+### 1️⃣ Quantum Metric & Geometry-Driven Transport
+**Sala et al., *Science* (2025)**: Demonstrates that the quantum metric directly influences transport.
+
+### 2️⃣ CMI Clustering
+**Kuwahara, *PRX* (2025)**: Establishes exponential decay of conditional mutual information (CMI). AOI identifies when Markov closure fails under ordered accessibility.
 
 ---
 
-## 🔬 Literature Convergence
+**26 January 2026**
 
-### 1️⃣ Quantum Metric & Geometry-Driven Transport  
-**Sala et al., *Science* (2025)**  
-*The quantum metric of electrons with spin-momentum locking*  
-DOI: https://doi.org/10.1126/science.adq3255  
+## Programme Update: AOI-Driven QGE Advance
 
-This work demonstrates that geometric quantities—specifically the quantum metric—directly influence transport behaviour, even in the absence of hydrodynamic flow.
-
-**Relevance to QGE/AOI:**  
-GQR-38 and GQR-39 showed that transport decoupling and directional asymmetry can emerge from geometry-governed accessibility prior to hydrodynamic closure. The Science result independently reinforces that geometry is dynamically operative rather than merely descriptive.
+### AOI via Graphene-Gated QGE (GQR-36 → GQR-39)
+**GQR-36** introduced the **Accessibility–Ordering Invariant (AOI)**.
+**GQR-37, 38, and 39** implement this within a graphene-gated QGE to explain extreme ($200\times$) Wiedemann–Franz violations.
 
 ---
 
-### 2️⃣ Conditional Mutual Information (CMI) Clustering  
-**Tomotaka Kuwahara, *Physical Review X* 15, 041010 (2025)**  
-*Clustering of Conditional Mutual Information and Quantum Markov Structure at Arbitrary Temperatures*  
-DOI: https://doi.org/10.1103/PhysRevX.15.041010  
+**19 January 2026**
 
-This rigorous result establishes exponential decay of conditional mutual information (CMI) in quantum Gibbs states at arbitrary temperatures, demonstrating approximate quantum Markov structure under broad conditions.
+### Newly released from personal archives (mid 2025)
 
-**Relevance to AOI:**  
-CMI constrains static correlation structure.  
-AOI constrains ordered dynamical composition.
-
-Rather than conflicting, these frameworks describe complementary regimes:
-
-| Regime | Dominant Framework |
-|--------|-------------------|
-| Equilibrium / Gibbs / rapid CMI decay | CMI / Quantum Markov structure |
-| Driven / time-gated / boundary-mediated | AOI–QGE |
-
-AOI does not contradict Markov structure; it identifies when Markov closure fails under ordered accessibility.
+**The Quantum-Classical Tumbling Locomotion (QC-TCL) Hypothesis** DOI: [10.5281/zenodo.18299933](https://doi.org/10.5281/zenodo.18299933)  
+A mechanistic bridge between early biological reasoning and later quantum formalism.
 
 ---
 
-### 3️⃣ Low-Noise Collective Transport  
-**Ghosh et al., *Nature Communications* (2026)**  
-*A quieter state of charge and ultra-low-noise of the collective current in quasi-1D charge-density-wave nanowires*  
-DOI: https://doi.org/10.1038/s41467-025-67567-x  
+**18 January 2026**
 
-This study reports ultra-low current noise in quasi-one-dimensional boundary-dominated conductors.
+## GQR News — Topological Leaky Transport as Geometry-Gated Readout
 
-**Interpretation within GQR:**  
-The Shield Law (pre-AOI invariant) predicts structural pruning of unstable transport pathways. Noise reduction emerges as a secondary consequence of pre-pruned admissible manifolds.
-
-This may represent indirect experimental convergence with Shield-Law-type constraints in boundary-limited systems.
+*Nature Photonics* (2026): Reports an on-chip topological leaky-wave antenna. Emission directionality is governed by **lattice geometry**, validating the GQR principle of "leakage as readout."
 
 ---
 
-### 4️⃣ Indistinguishability-Induced Nonlocality  
-**Blasiak & Markiewicz, *npj Quantum Information* (2025)**  
-*Identical particles as a genuine non-local resource*  
-DOI: https://doi.org/10.1038/s41534-025-01086-x  
+**13 January 2026**
 
-Demonstrates that particle indistinguishability alone can generate experimentally accessible nonlocal correlations.
+## Submission News
 
-**Relevance:**  
-While distinct from AOI, this strengthens the broader theme that structural constraints—not engineered interactions—can generate global behaviour.
+* *The Shield Law* (GQR) submitted to **F1000Research**.
+* *Transient Directed Transport* (GQR18) submitted to a Physics journal.
 
----
-
-### 5️⃣ Nonequilibrium Memory Landscapes  
-**Exploring the Landscape of Nonequilibrium Memories with Neural Cellular Automata**  
-*Physical Review Letters* (2026)  
-arXiv: https://doi.org/10.48550/arxiv.2508.15726  
-
-Shows that structured update rules in driven systems generate robust memory without static storage.
-
-**Connection to AOI:**  
-Neural CA memory = rule-based dynamical memory  
-AOI memory = non-commutative accessibility memory  
-
-Both encode history in process rather than stored state.
-
----
-
-## 🔭 Outlook
-
-A clear convergence pattern is emerging:
-
-- Geometry is operational.
-- Ordering is a control variable.
-- Memory can emerge without qubits or bistability.
-- Boundary structure matters as much as bulk theory.
-
-### Emerging Axes of Control
-
-| Axis | Conventional Focus | Emerging Perspective |
-|------|-------------------|---------------------|
-| State | Hilbert amplitudes | Accessibility ordering |
-| Correlations | Entanglement measures | Path admissibility |
-| Transport | Hydrodynamics | Geometry + ordering |
-| Memory | Stored state | Process history |
-
-The AOI–QGE framework occupies a structural niche:
-
-> It does not replace quantum mechanics.  
-> It refines how dynamics are composed in time.
-
----
-
-## 🧭 Forward Directions
-
-1. Formal integration of AOI with CMI bounds in driven systems  
-2. Experimental tests of ordering-dependent transport asymmetry  
-3. Boundary-noise suppression as Shield-Law diagnostic  
-4. Extension to moiré and spin-momentum-locked materials  
-5. Exploration of AOI-compatible nonequilibrium memory architectures  
-
----
-
-
-
-**3 Feb 2026**
-
-## More news.  
-
-### Relation between Physical Neural Networks and the GQR / QGE programme
-
-| Aspect | Physical Neural Networks (PNNs) | GQR / QGE with AOI |
-|------|--------------------------------|-------------------|
-| Historical origin | Predate GQR/QGE by decades (neuromorphic systems, memristors, reservoir computing) | Developed later as a geometry-first, ordering-based framework |
-| Primary goal | Perform learning or inference using physical dynamics | Identify *when and why* physical systems exhibit memory and directional computation |
-| Core computational resource | Continuous physical states (voltages, currents, phases, spins) | **Ordering-sensitive accessibility** (non-commuting updates) |
-| Representation of memory | Stored in physical states or effective weights | **Process memory** encoded in irreversible ordering effects |
-| Dependence on training | Often requires training, tuning, or optimisation | No training required; behaviour emerges from protocol and geometry |
-| Role of geometry | Usually secondary or device-specific | **Primary control variable** (sets capacity and admissible paths) |
-| Role of temporal ordering | Implicit, rarely formalised | **Explicit and central** (AB vs BA protocols, AOI ≠ 0) |
-| Mathematical unifier | Largely phenomenological, system-dependent | **Accessibility–Ordering Invariant (AOI)** as a falsifiable diagnostic |
-| Robustness to noise / decoherence | Varies by platform | High: memory survives noise because it is not state-based |
-| Typical demonstrations | Task performance (classification, prediction) | Directional asymmetry, ratcheting, history-dependent transport |
-| Scope | Specific devices or architectures | **Domain-agnostic** (condensed matter, mesoscopic systems, biomolecular transport) |
-| Conceptual contribution | Shows that physical systems *can* compute | Explains *why* physical systems can remember and compute at all |
-
-**Interpretive summary:**  
-Physical neural networks demonstrate *instances* of computation and memory in matter.  
-The GQR / QGE programme identifies a **minimal structural principle**—ordering-sensitive accessibility—that underlies many such behaviours across disparate physical systems.
-
-## News
-
-**Experimental convergence on ordering-governed transport.**  
-A January 2026 *Nature* study reports robust Aharonov–Bohm interference in even-denominator fractional quantum Hall states in bilayer graphene, revealing transport behaviour that depends on the **history and ordering of control protocols**, not solely on instantaneous parameters. The observed flux periodicities, effective interfering charges, and statistical phase responses vary depending on whether the system is driven at constant filling or along controlled deviations that introduce bulk quasiparticles, indicating cumulative, history-dependent effects beyond static geometry or equilibrium transport coefficients.
-
-These findings closely align with the **Accessibility–Ordering Invariant (AOI)** and **Quantum Geometry Engine (QGE)** framework developed within the GQR programme, which predicts that **non-commuting accessibility updates** can generate directional asymmetry and physical memory without invoking new forces, modified electrodynamics, or long-lived quantum state storage. The experiments provide independent evidence that *temporal ordering itself* can act as a first-class control variable in quantum transport.
-
-see converging fields page
-
-
-**2026+02-1**
-field convergence note: 
-Recent experiments have demonstrated protocol-dependent control of
-topological order parameters in moiré materials using time-dependent
-optical driving \cite{HuberNature2026}.
-Such results indicate that temporal ordering can act as an effective
-control variable alongside geometry and interactions.
-The AOI--QGE framework identifies a minimal, invariant-level mechanism
-by which such ordering dependence can arise independently of the
-microscopic implementation.
-
-Coincides with the publishing on Zenodo of the latest two additions to the GQR programme
-**GQR40 SUTTON, J. (2026). Ordered Accessibility Invariants and Non-Commutative Aggregation (PaperX). Zenodo. https://doi.org/10.5281/zenodo.18392880**
-**GQR41 SUTTON, J. (2026). (Paper C): Accessibility–Ordering Invariants and Geometry-Controlled Cumulative Transport in Dirac Fluids. 
-Zenodo. https://doi.org/10.5281/zenodo.18429604**
-
-
-
-**2026-01-26**  
-
-## Programme Update: Index Creation, Field-Convergence Reorganisation, and AOI-Driven QGE Advance
-
-The **GQR / QGE programme** has undergone a structural consolidation to reflect the maturation, internal consistency, and cross-domain convergence of the framework.
-
-### Programme Index Established
-
-A canonical **Programme Index** has been created and is now linked directly from the repository front page (`README.md`). This index provides a dependency-ordered map of the full programme, explicitly distinguishing **CORE**, **FORK**, and **INCIDENTAL** contributions, and recording conceptual and methodological precursors where required.
-
-The Programme Index is intended to serve as the authoritative entry point for readers, reviewers, and collaborators navigating the now multi-domain scope of the GQR/QGE effort.
-
-### Field-Convergence Section Created
-
-Material relating to **cross-domain convergence and unification** has been reorganised into a dedicated *Field Convergence* section. This separates mature, invariant-governed results from broader contextual synthesis and historical motivation, reflecting the programme’s transition from exploratory unification toward predictive, invariant-controlled structure.
-
-### Deduplication and Chronological Correction
-
--  
-**GQR-23 — *A Quantum-Coherent Vortex Engine Drives Water Splitting in Photosystem II*** and  
-**GQR-25 — *A Quantum-Coherent Vortex Engine Drives Water Splitting in Photosystem II***  
-were identified as **duplicate records of the same PSII/OEC manuscript (identical file and content)**.  
-→ **GQR-23** is retained as the canonical entry; the duplicate **GQR-25** record has been removed.
-
--  
-**GQR-18 — *Transient Directed Transport in a Minimal Time-Gated Quantum System*** has been reassigned to the **GQR-25 slot** to restore conceptual and chronological consistency within the core sequence.
-
-These changes affect programme ordering and index clarity only; no scientific content has been altered.
-
-### AOI as a Programme-Level Advance via Graphene-Gated QGE (GQR-36 → GQR-37–39)
-
-The introduction of the **Accessibility–Ordering Invariant (AOI)** in
-
-- **GQR-36 — *Time-Ordered Accessibility as a Constraint on Transport – Why Averaging Fails When Connectivity Is Transient***  
-  *(CORE; Accessibility Ordering Invariant (AOI), Quantum Geometry Engine)*
-
-provides the invariant foundation for a tightly coupled sequence of **graphene-instantiated Quantum Geometry Engine (QGE)** studies.
-
-**GQR-37, GQR-38, and GQR-39 are all implemented within a graphene-gated QGE**, explicitly motivated by the combination of the AOI formalism introduced in GQR-36 and recent experimental reports of extreme (∼200×) Wiedemann–Franz violation in ultraclean Dirac fluids. Graphene is used throughout as the cleanest experimental realisation of ordering-sensitive transport, not as the source of the effect.
-
-Within this block, Dirac physics functions as a diagnostic basis: it makes accessibility ordering visible, but does not generate the phenomenon.
-
-The sequence proceeds as follows:
-
--  
-**GQR-37 — *Invariant-Governed Quantum Geometry Engines: Ordering, Transport Decoupling, and the Limits of Zero-Dimensional Dynamics***  
-*(CORE; AOI; Quantum Geometry Engine; graphene-instantiated)*  
-Establishes invariant-enforced bounds and ordering-governed transport decoupling within a graphene-tuned zero-dimensional QGE, demonstrating that accessibility ordering alone is sufficient to suppress charge transport while preserving heat flow.
-
--  
-**GQR-38 — *Invariant-Governed Mode Ordering and Extreme Wiedemann–Franz Violation in Dirac Quantum Fluids***  
-*(FORK; AOI; Quantum Geometry Engine; graphene / Dirac focus)*  
-Demonstrates that experimentally observed extreme Wiedemann–Franz violation in graphene arises from ordering-governed accessibility, without requiring explicit Dirac dynamics, Berry curvature, hydrodynamic closure, or material-specific scattering assumptions.
-
--  
-**GQR-39 — *Ordering-Governed Transport Control Beyond Dirac Fluids***  
-*(FORK; AOI; Quantum Geometry Engine; generalisation)*  
-Generalises the graphene-instantiated AOI–QGE framework to non-Dirac materials and engineered systems, establishing ordering—not dispersion—as the controlling principle for transport decoupling.
-
-### Programme Arc and Scope
-
-Taken together, these works define a clear and continuous programme arc:
-
-**geometry-gated enzymatic catalysis (GQR)**  
-→ **multi-atom and zero-dimensional quantum geometry engines (QGE)**  
-→ **graphene-instantiated ordering diagnostics (Dirac fluids)**  
-→ **material-independent, ordering-governed transport control**
-
-This progression demonstrates that the GQR/QGE framework is no longer domain-bound but **invariant-driven**—capable of governing transport, ordering, and coherence across biological, chemical, and condensed-matter systems.
-
-### Status of Experimental Verification and Programme Methodology
-
-The results reported in **GQR-37, GQR-38, and GQR-39** presently await direct experimental verification. This status is, however, fully consistent with the methodological pattern of the wider **GQR/QGE programme**.
-
-To date, the GQR framework has not relied on bespoke experimental validation, but instead on a convergent body of evidence comprising:
-(i) cross-domain field convergence,
-(ii) consistency with and explanatory unification of existing experimental literature,
-(iii) the absence of competing frameworks capable of resolving the same anomaly set,
-(iv) internally consistent mathematical formalism,
-(v) **the discovery of multiple invariant principles and standalone physics results (e.g. GQR-25, GQR-36)**, and
-(vi) in-program constructive outputs whose behaviour suggests physical realism while remaining falsifiable.
-
-Within this methodology, confidence accrues not from isolated prediction, but from the repeated ability of the framework to resolve long-standing anomalies across unrelated domains.
-
-The present AOI–QGE results follow this same pattern. In particular, **Dirac fluids—previously resistant to tractable modelling of extreme Wiedemann–Franz violations—become systematically modellable** once transport is treated as an ordering-governed accessibility problem rather than a dispersion-governed one. Notably, this resolution does **not** require the deployment of explicit Dirac mathematical physics, hydrodynamic closure, or material-specific scattering models.
-
-This is a deliberate and enabling feature of the framework: by remaining **geometry-first, invariant-governed, and lightweight**, the Quantum Geometry Engine retains speed, flexibility, and cross-domain applicability, while producing concrete, experimentally testable predictions that now await targeted verification.
-
-
-
-
-
-**2026-01-19**  
-
-### Newly released from pre-GQR (mid 2025) personal archives.
-
-Two manuscripts (with alts, relateds) arising from the **Germinal Centre (GC)** research stream that became my two github (GQR and GC) communities, are now available.  
-
-**The Quantum-Classical Tumbling Locomotion (QC-TCL) Hypothesis**  
-DOI: https://doi.org/10.5281/zenodo.18299933  
-A unifying biological framework proposing that **geometry-constrained tumbling, pivoting, and cyclic motion** underlies catalysis, self-assembly, and biological selection, without invoking long-lived quantum coherence.
-
-Together, this selection of  related manuscripts explore how **thresholds, geometry, and constrained motion** shape immune and biochemical outcomes — concepts central to germinal centre dynamics, affinity maturation, and immune decision-making.
-
-This work represents a **mechanistic bridge between early biochemical intuition and later geometry-first quantum formalism**.
-
-**6D Rotary Engines: A Mechanistic Framework for Simplification of Delocalised π-Electron Catalytic Mechanisms**  
-DOI: https://doi.org/10.5281/zenodo.18300110  
-The paper introduces rotary, pivoting, and tethered geometries as a means of simplifying complex delocalised electronic behaviour, using Fourier-resolved wave amplification and geometry-gated tunnelling pathways.
-
-## 📜 Why These Historical Drafts Are Being Released
-
-These manuscripts are released in their historical form because they capture the **biological and biochemical reasoning layer that preceded formal physics (including Hamiltonians...), mathematical, and computer-science abstraction** within the wider programme.
-
-They may be of assistance to readers because they:
-
-- Show how problems were **first framed biologically**, before reduction into equations or code  
-- Preserve **mechanistic intuitions** (geometry, thresholds, motion, lag) often lost after formalisation  
-- Provide **conceptual entry points** for domain experts outside quantum physics or computational modelling  
-- Document the **evolution of ideas**, not just their final filtered expressions  
-
-These drafts are therefore not superseded.  
-They are **foundational context**, explaining why later physics-, mathematics-, and code-level models took the form they did.
-
-
-
-**2026-01-18**  
-
-two highly relevant articles this week:
-
-## GQR News — Topological Leaky Transport as Geometry-Gated Readout (Jan 2026)
-
-**Recent experimental work in 1 (published 12 January 2026)** reports an on-chip *topological leaky-wave antenna* based on valley photonic crystals, demonstrating that **topologically protected transport and controlled radiation leakage can coexist within a single geometry-defined structure** [1].
-
-Rather than treating radiation as an undesirable loss, the authors intentionally exploit **conical leakage from topological edge states** to achieve wide-angle beam scanning, frequency-division multiplexing, and bidirectional on-chip ↔ free-space coupling at terahertz frequencies. Crucially, emission directionality and robustness are governed primarily by **lattice geometry and boundary topology**, rather than fine-tuned material parameters or active electronic control.
-
-This result is directly relevant to the **Gated Quantum Resonator (GQR)** programme, particularly:
-
-- **GQR-XIV** — *Dynamic Proof of Geometry-Gated Transport*:  
-  The reported device provides a photonic analogue of **geometry-gated transport**, where information flow is constrained by curvature and boundary conditions prior to energetic optimisation.
-
-- **GQR-XV / GQR-XVI** — *Leakage as Readout, Not Loss*:  
-  The use of structured topological leakage as a functional output channel aligns with the GQR view that **dissipation and emission can act as deterministic readout surfaces** rather than failure modes.
-
-- **GQR-XXVII** — *Directional and Bidirectional Interfaces*:  
-  The demonstrated time-reversal-symmetric bidirectional coupling (simultaneous transmission and reception without reconfiguration) supports the GQR position that **robust interfaces between protected internal dynamics and classical environments do not require long-lived macroscopic coherence**.
-
-Overall, this work constitutes an **experimental photonic validation by analogy** of key GQR principles: geometry-first control, gated release of protected dynamics, and the reinterpretation of leakage as structured signal rather than noise.
-
----
-
-### Reference
-[1] W. Wang, Y. J. Tan, P. Szriftgiser, G. Ducournau, R. Singh,  
-*On-chip topological leaky-wave antenna for full-space terahertz wireless connectivity*,  
-**Nature Photonics** (2026).
-
-
-## Secondly....the wormhole bridge side of GQR:
-
-Since initial deposition, several independent works have appeared that clarify the
-interpretation of Einstein–Rosen (ER) bridges as effective, non-classical structures
-that do not correspond to traversable spacetime wormholes.
-
-In particular, Gaztañaga et al. (Class. Quantum Grav. 43 (2026) 015023) provide a
-reformulation of ER bridges as mathematical and geometric identifications in
-Hilbert space, associated with discrete symmetries, superselection sectors, and
-unitarity restoration in quantum field theory in curved spacetime. In this
-framework, connectivity does not imply transport, and no exotic matter or
-energy-condition violations are required.
-
-These developments are conceptually compatible with the Gated Quantum Resonator
-(GQR) framework, in which non-thermal transport arises only under resonance-gated
-curvature conditions, and effective “bridge-like” behaviour appears in coherence
-space rather than as a spacetime shortcut.  See SUTTON, J. (2026). GQR–XIV: Dynamic 
-Proof of the 8F4I Quantum-Critical State as a Gated "Einstein–Rosen" Bridge. Zenodo. 
-https://doi.org/10.5281/zenodo.18130489
-
-***Relevant external reference:***
-• E. Gaztañaga et al., “A new understanding of Einstein–Rosen bridges”,
-  Classical and Quantum Gravity 43 (2026) 015023.
-  https://doi.org/10.1088/1361-6382/ae3044
-
-This description field is maintained as a living contextual note documenting
-convergent developments across disciplines. It does not modify the original
-manuscript and makes no claims of derivation or priority.
-
-
-
-**2026-01-13**  
-Two new manuscripts within the GQR / Quantum Geometry Engine (QGE) programme have been submitted for peer review:
-
-- *The Shield Law: Curvature–Coherence Invariance in a Vibronically-Gated Five-Centre Quantum System* (GQR) — submitted to **F1000Research** for open-access peer review.  
-  The decision to submit this work to F1000Research reflects the cross-disciplinary nature of the framework. The geometry-first approach does not align cleanly with the established scope boundaries of many specialist physics journals, which are necessarily selective and risk-aware in their remit. Open peer review was therefore chosen to enable transparent evaluation without constraining the work to a single disciplinary silo.
-
-In addition, the standalone physics manuscript occupying the honorary **GQR18** slot,
-
-- *Transient Directed Transport in a Minimal Time-Gated Quantum System*, is also submitted to a Physics journal for peer review,
-
-is included here as a related contribution. This work is not formally part of the GQR series and represents a self-contained physics study that informed later geometry-first developments. It is referenced for conceptual continuity only and is intended to be evaluated independently, without reliance on the broader GQR programme. A dedicated physics repository is planned for such standalone works.
-
-More broadly, there is no evidence of any conspiracy or intentional suppression of drug discovery. What likely occurred instead was a structural delay. Following widely cited decoherence arguments, quantum effects in biology became rhetorically bundled with speculative claims, making otherwise orthodox quantum-chemical phenomena less attractive to frame explicitly. At the same time, drug discovery incentives favoured approaches that scaled immediately within established pipelines, while geometry-gated, ultrafast transition mechanisms remained fragmented across disciplines.
-
-In hindsight, this likely delayed the systematic exploitation of such mechanisms by approximately 10–20 years. The impact would have been most pronounced for drug classes in which catalytic geometry, reaction-path control, or transient electronic reorganisation dominate function, including enzyme inhibitors targeting metalloenzymes, redox-active therapeutics, proton-coupled electron transfer systems, covalent and time-dependent inhibitors, allosteric modulators, and drugs acting on highly dynamic or flexible active sites. These classes align closely with the primary targets of the GQR/QGE framework, where curvature-controlled coherence and selection-before-decoherence effects are expected to play a functional role.
-
-This pattern is consistent with earlier historical delays in the acceptance and exploitation of enzyme tunnelling, allostery, protein dynamics, cryo-EM, and mRNA technologies, suggesting structural conservatism rather than malice as the dominant cause.
-
-Dates and links will be updated as peer review progresses.
+Hindsight suggests structural conservatism in drug discovery delayed the exploitation of these geometry-gated mechanisms by 10–20 years. The GQR framework aims to rectify this by targeting systems where curvature-controlled coherence dominates.
