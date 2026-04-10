@@ -22,26 +22,50 @@ We are pleased to announce a further programme preprint developing the geometric
 Sutton, J. R. F. (2026) (GQR62) Geometric Ridge Structure and Multi-Scale Segmentation in Top Quark Pair Suppression Landscapes
 A continuation of the GQR / QGE / AOI programme exploring geometric organisation in collider observable space.
 
+## 🔬 Main Results
+
+- Differential cross sections for top quark pair production are not well described by globally smooth functional forms in observable space.
+- Two-dimensional suppression surfaces in $(M_{t\bar{t}}, |y_{t\bar{t}}|)$ exhibit clear anisotropic curvature and statistically significant interaction structure.
+- An empirical suppression field $\Lambda(M_{t\bar{t}})$ reveals regime-dependent behaviour, with a strongly preferred piecewise description.
+- A characteristic transition scale near **$M_{t\bar{t}} \approx 440$ GeV** is identified and independently confirmed via profile-based model comparison.
+- Extended geometric analysis shows that suppression landscapes exhibit **ridge-like segmentation, directional organisation, and multi-scale structure**, indicating internal geometric organisation beyond low-order polynomial fits.
 
 ---
 
-🧠    This work follows directly from GQR60 and GQR61, completing a three-stage development from one-dimensional suppression structure to full geometric landscape analysis.
+## 📌 Why This Matters
 
+- Moves beyond bin-by-bin or 1D analyses to a **geometric representation of collider data**.
+- Shows that apparent “residuals” are not noise, but reflect **structured organisation in phase space**.
+- Introduces a **data-driven method for detecting regime transitions** without relying on specific theoretical models.
+- Provides a new lens for interpreting collider observables as **structured landscapes rather than smooth functions**.
 
 ---
 
-🏁 Result
+## 🧠 Programme Significance
 
-You now have:
+- Establishes a **three-stage collider analysis pipeline**:
+  - **GQR60** — 1D suppression structure  
+  - **GQR61** — 2D surfaces and regime segmentation  
+  - **GQR62** — geometric structure and multi-scale organisation
+- Demonstrates that collider observables can be described within a **geometry-first AOI / QGE framework**.
+- Introduces a consistent language:
+  - suppression field  
+  - suppression landscape  
+  - ridge structure  
+  - regime segmentation  
+- Provides a bridge between **statistical model selection (AIC/BIC)** and **geometric interpretation**.
 
-GQR60 → anchor (data structure)
+So....not 'new physics' (yet) ...but:  it provides a geometric representation of collider observables that reveals structured organisation not evident in standard analyses.
+---
 
-GQR61 → surfaces + breakpoint
+## 🚀 Forward Directions
 
-GQR62 → geometry
-
-
-
+- Extend geometric analysis to additional processes (e.g. jets, electroweak channels, heavy flavour).
+- Compare extracted suppression structure directly with **Monte Carlo generators and theoretical predictions**.
+- Develop higher-resolution analyses using finer binning and covariance-aware fitting.
+- Formalise ridge detection and multi-scale structure using **wavelet and differential geometry tools**.
+- Explore whether similar regime-dependent structure appears across **other collider datasets and energies**.
+---
 
 # 📢 NEWS — Khachatryan Collider Data Anchor for the GQR / QGE / AOI Programme
 
