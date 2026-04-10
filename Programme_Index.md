@@ -85,12 +85,16 @@ For **CORE / FOUNDATIONAL** papers, a *Direct Precursor* is listed where a singl
 | GQR-52 | Interleaved Mixing–Decoherence Dynamics and Operational Admissibility in Bipartite Quantum Channels | THEORY | Mixing–Decoherence Interleaving; Bipartite Channel Structure; Operational Admissibility; Diamond-Norm Sensitivity; Nonlocal Deviation Dynamics | GQR-47; GQR-50; GQR-51 | https://doi.org/10.5281/zenodo.18773431 |
 | GQR-53 | Dirac-Comb Spectral Geometry and Temporal Recurrence in Atomic Frequency Comb Memories | THEORY | Atomic Frequency Comb Memory; Dirac-Comb Spectral Geometry; Photon Echo Recurrence; Spectral–Temporal Duality; Rare-Earth Quantum Storage | GQR-47; GQR-50 | https://doi.org/10.5281/zenodo.18877775 |
 | GQR-54 | Floquet-Organized Singular-Value Ridges and the Geometry of Schrödinger–Heisenberg Divisibility Fracture in Qubit Dynamics | THEORY | Floquet Organization; Singular-Value Ridge Structure; Divisibility Fracture; Non-Markovian Dynamics; Schrödinger–Heisenberg Picture Duality | GQR-47; GQR-50; GQR-52 | https://doi.org/10.5281/zenodo.18891329 |
-
 | GQR-55 | Ordering-Induced Ladder Modes in Noncommuting Transport Cycles | THEORY | Dynamics; Ladder Modes; Operator Ordering; Quantum Transport Geometry | GQR-47; GQR-50; GQR-54 | https://doi.org/10.5281/zenodo.18939338 |
 | GQR-56 | Accessibility–Ordering Invariants and Ladder Geometry in Driven Quantum Systems | THEORY | Accessibility–Ordering Invariant (AOI); Ordering Geometry; Ladder Structures; Floquet Dynamics; Spectral Comb Recurrence; Driven Quantum Systems | GQR-50; GQR-53; GQR-54; GQR-55 | https://doi.org/10.5281/zenodo.19010825 |
 | GQR-57 | Hierarchical Selection Laws Govern the Evolution of Intrinsic Bond-Memory Structure in Quantum Transport | THEORY | Accessibility–Ordering Invariant (AOI); Ordering Geometry; Ladder Structures; Floquet Dynamics; Spectral Comb Recurrence; Driven Quantum Systems | GQR-50; GQR-53; GQR-54; GQR-55 | https://doi.org/10.5281/zenodo.19120332 |
 | GQR-58 | GQR/QGE Programme Appraisal Report: OPERATION QUANTUM HARMONY | FOUNDATIONAL | Programme Synthesis; Geometry-Driven Framework; Quantum Transport; Catalysis; Selection Systems; AOI/QGE Integration | — | https://doi.org/10.5281/zenodo.19334107 |
-| GQR-59 | Zen and the Art of Music: What Quantum Memory Combs Reveal About High Fidelity | THEORY | Quantum Memory Combs; Spectral Geometry; High-Fidelity Encoding; AFC Dynamics; Signal Reconstruction | GQR-53; GQR-56 | https://zenodo.org/records/19446563 |9446563
+| GQR-59 | Zen and the Art of Music: What Quantum Memory Combs Reveal About High Fidelity | THEORY | Quantum Memory Combs; Spectral Geometry; High-Fidelity Encoding; AFC Dynamics; Signal Reconstruction | GQR-53; GQR-56 | https://doi.org/10.5281/zenodo.19446563 |
+| GQR-60 | A Low-Dimensional Suppression Structure in Collider Jet Multiplicity Data | THEORY | Jet Multiplicity; Suppression Structure; Log-Space Curvature; Collider Geometry; AOI-Compatible Representation | — | https://doi.org/10.5281/zenodo.19484856 |
+| GQR-61 | Geometric Structure and Regime Segmentation of Suppression Surfaces in Top-Quark Pair Production | THEORY | Suppression Surfaces; Regime Segmentation; Empirical Lambda Field; Collider Geometry; Phase Space Structure | GQR-60 | https://doi.org/10.5281/zenodo.19484856 |
+| GQR-62 | Geometric Ridge Structure and Multi-Scale Segmentation in Top-Quark Pair Suppression Landscapes | THEORY | Collider Geometry; Suppression Landscapes; Ridge Structure; Multi-Scale Analysis; Phase Space Organisation; Breakpoint Structure | GQR-61 | https://doi.org/10.5281/zenodo.19502745 |
+
+
 
 ## GC-arc — Germinal Centre / Immune & Governance Programme
 
