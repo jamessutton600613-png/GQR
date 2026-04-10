@@ -1,5 +1,51 @@
 ## News / Updates
 
+📢 NEWS — Suppression Surface Geometry in Top Quark Pair Production
+
+10 April 2026
+
+We are pleased to announce the release of a new programme preprint extending the collider analysis of top quark pair production into two-dimensional observable space. This work introduces a geometric representation of differential cross sections, revealing anisotropic curvature, interaction structure, and statistically preferred regime segmentation across phase space.
+
+📄 New Release (Zenodo)
+
+Sutton, J. R. F. (2026) (GQR61) Geometric Structure and Regime Segmentation of Suppression Surfaces in Top Quark Pair Production
+A GQR (Gated Quantum Resonator), QGE (Quantum Geometry Engine) and AOI (Accessibility–Ordering Invariant)-Compatible Representation.
+
+
+---
+
+📢 NEWS — Ridge Structure and Multi-Scale Geometry in Collider Suppression Landscapes
+
+10 April 2026
+
+We are pleased to announce a further programme preprint developing the geometric interpretation of collider suppression surfaces. Building on the identification of regime-dependent structure, this work introduces ridge diagnostics, directional slicing, and multi-scale analysis, showing that suppression landscapes exhibit organised geometric structure beyond global polynomial models.
+
+📄 New Release (Zenodo)
+
+Sutton, J. R. F. (2026) (GQR62) Geometric Ridge Structure and Multi-Scale Segmentation in Top Quark Pair Suppression Landscapes
+A continuation of the GQR / QGE / AOI programme exploring geometric organisation in collider observable space.
+
+
+---
+
+🧠    This work follows directly from GQR60 and GQR61, completing a three-stage development from one-dimensional suppression structure to full geometric landscape analysis.
+
+
+---
+
+🏁 Result
+
+You now have:
+
+GQR60 → anchor (data structure)
+
+GQR61 → surfaces + breakpoint
+
+GQR62 → geometry
+
+
+
+
 # 📢 NEWS — Khachatryan Collider Data Anchor for the GQR / QGE / AOI Programme
 
 **9 April 2026**
