@@ -1,6 +1,6 @@
 ## News / Updates
 
-📢 NEWS — Suppression Surface Geometry in Top Quark Pair Production
+# 📢 **NEWS — Suppression Surface Geometry in Top Quark Pair Production**
 
 10 April 2026
 
@@ -11,11 +11,8 @@ We are pleased to announce the release of a new programme preprint extending the
 Sutton, J. R. F. (2026) (GQR61) Geometric Structure and Regime Segmentation of Suppression Surfaces in Top Quark Pair Production
 A GQR (Gated Quantum Resonator), QGE (Quantum Geometry Engine) and AOI (Accessibility–Ordering Invariant)-Compatible Representation.
 
-
----
-
-📢 NEWS — Ridge Structure and Multi-Scale Geometry in Collider Suppression Landscapes
-
+# 📢 **NEWS**
+## **Ridge Structure and Multi-Scale Geometry in Collider Suppression Landscapes**
 10 April 2026
 
 We are pleased to announce a further programme preprint developing the geometric interpretation of collider suppression surfaces. Building on the identification of regime-dependent structure, this work introduces ridge diagnostics, directional slicing, and multi-scale analysis, showing that suppression landscapes exhibit organised geometric structure beyond global polynomial models.
