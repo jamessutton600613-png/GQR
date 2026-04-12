@@ -1,5 +1,102 @@
 ## News / Updates
 
+
+## 📢 NEWS — Admissibility-Selected Directional Energy Flow and Vortex Seeding
+
+12 April 2026
+
+We are pleased to announce the release of:
+
+📄 New Release (Zenodo)
+
+Sutton, J. R. F. (2026)
+(GQR-63) Admissibility-Selected Directional Energy Flow and Vortex Seeding in Time-Modulated Asymmetric Electrode Systems
+A GQR / QGE / AOI-compatible electromagnetic testbed for admissibility and ordering-driven dynamics.
+👉 https://doi.org/10.5281/zenodo.19541833
+
+
+---
+
+🔬 Main Results
+
+Electrostatic closure confirmed
+Local electrostatic forces do not propagate to net momentum or far-field thrust, even under complex asymmetric geometries.
+
+Directional energy flow emerges under dynamics
+Time modulation, lag (memory), and dissipation produce localized asymmetry hotspots in parameter space.
+
+Ridge and ladder structure identified
+Admissible states organize into phase–frequency ridges and an approximate
+ ladder structure, with systematic deformation.
+
+Funnel-like selection behaviour observed
+Strong states concentrate into a central admissibility band, indicating hierarchical selection of dynamical modes.
+
+Vortex-capable regimes discovered
+Intermittent occupation of nontrivial winding sectors reveals circulating energy-flow states, though chirality remains unlocked.
+
+
+
+---
+
+🧠 Why this matters
+
+This work establishes a three-tier admissibility hierarchy:
+
+❌ Momentum (force): not admissible under electrostatic closure
+
+✔ Energy flow: conditionally admissible under ordered dynamics
+
+~ Topology: partially admissible (vortex-capable, not stabilized)
+
+
+The results reframe asymmetric electrode systems from failed propulsion concepts into structured dynamical systems governed by ordering and accessibility constraints.
+
+
+---
+
+🔗 Programme Significance
+
+GQR-63 provides a cross-domain convergence point for the programme:
+
+Extends AOI/QGE concepts into classical electromagnetic systems
+
+Recovers ridge, ladder, and funnel structures previously identified in:
+
+quantum transport
+
+AFC memory systems
+
+collider suppression landscapes
+
+
+
+This represents a first explicit electromagnetic testbed showing these structures together.
+
+
+---
+
+🚀 Forward Directions
+
+Coupling to open systems (radiation, plasma, transport channels)
+
+Chirality selection mechanisms (polarization, spin, material asymmetry)
+
+Engineering directional energy-flow devices based on admissibility control
+
+
+
+---
+
+📌 Summary
+
+GQR-63 demonstrates that while electrostatic propulsion is non-admissible,
+ordered dynamics unlock a structured landscape of directional energy flow and vortex-capable states.
+
+
+---
+
+
 # 📢 **NEWS — Suppression Surface Geometry in Top Quark Pair Production**
 
 10 April 2026
