@@ -1,5 +1,14 @@
 ## News / Updates
 
+📊 Weekly Engagement Summary (w/c 13 April 2026)
+
+Engagement this week is led by strong growth in the foundation layer, with GQR11, GQR10, and GQR2 showing the largest percentage increases. Notably, uptake is no longer concentrated in a single anchor paper, but is now distributed across the GQR2–11 ChemRxiv series, indicating broadening engagement with the core framework.
+
+Among established technical works, GQR41 continues to show steady, balanced growth, confirming ongoing uptake beyond the primary drivers.
+
+On the release side, GQR59 (introduced last week) has immediately taken on a leading role in driving discovery. The newly introduced papers GQR60–63 (released over the past 1–6 days) are already registering initial engagement across all entries, with early indications of healthy conversion behaviour.
+
+Overall, the data now reflects a layered engagement structure, with active discovery, distributed foundation uptake, and continued accumulation across the technical core.
 
 ## 📢 NEWS — Admissibility-Selected Directional Energy Flow and Vortex Seeding
 
