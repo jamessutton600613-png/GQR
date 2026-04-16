@@ -94,7 +94,8 @@ For **CORE / FOUNDATIONAL** papers, a *Direct Precursor* is listed where a singl
 | GQR-61 | Geometric Structure and Regime Segmentation of Suppression Surfaces in Top-Quark Pair Production | THEORY | Suppression Surfaces; Regime Segmentation; Empirical Lambda Field; Collider Geometry; Phase Space Structure | GQR-60 | https://doi.org/10.5281/zenodo.19500993|
 | GQR-62 | Geometric Ridge Structure and Multi-Scale Segmentation in Top-Quark Pair Suppression Landscapes | THEORY | Collider Geometry; Suppression Landscapes; Ridge Structure; Multi-Scale Analysis; Phase Space Organisation; Breakpoint Structure | GQR-61 | https://doi.org/10.5281/zenodo.19502745 |
 | GQR-63 | Admissibility-Selected Directional Energy Flow and Vortex Seeding in Time-Modulated Asymmetric Electrode Systems | THEORY | Admissibility; Directional Energy Flow; Vortex Seeding; Phase–Frequency Structure; Ridge–Ladder Organisation; Dynamical Selection | GQR-56; GQR-57 | https://doi.org/10.5281/zenodo.19541833⁠|
-
+| GQR-64 | Frustration–Dissipation Dynamics in Macroeconomic Systems | THEORY | Macroeconomic Dynamics; Frustration–Dissipation; Accessibility Constraints; Lagged Adjustment; Hysteresis; Path Dependence; Economic Geometry | GQR-36; GQR-40; GQR-26 | https://doi.org/10.5281/zenodo.19597948 |
+| GQR-65 | A Unified Selection Principle Across Statistical, Dynamical, and Field-Theoretic Systems | THEORY | Selection Law; Admissibility; Suppression Field; Mode Competition; Dynamical Selection; Statistical–Field Unification; Constraint-Driven Structure | GQR-53; GQR-56; GQR-57 | https://doi.org/10.5281/zenodo.19600617 |
 
 ## GC-arc — Germinal Centre / Immune & Governance Programme
 
