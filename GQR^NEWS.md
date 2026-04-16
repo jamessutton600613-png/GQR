@@ -1,5 +1,15 @@
 ## News / Updates
 
+## 🚨 NEWSFLASH (April 2026)
+
+**GQR-64** establishes a geometry-driven macroeconomic engine (EGE), showing that hysteresis and asymmetric adjustment arise from constrained accessibility, mismatch, and lagged dissipation.  
+https://doi.org/10.5281/zenodo.19597948  
+
+**GQR-65** provides a unified selection principle, demonstrating that observed structure across systems is determined by survival under constraint rather than unconstrained possibility.  
+https://doi.org/10.5281/zenodo.19600617  
+
+These works complete the transition from geometry and ordering to selection-driven structure across domains.
+
 📊 Weekly Engagement Summary (w/c 13 April 2026)
 
 Engagement this week is led by strong growth in the foundation layer, with GQR11, GQR10, and GQR2 showing the largest percentage increases. Notably, uptake is no longer concentrated in a single anchor paper, but is now distributed across the GQR2–11 ChemRxiv series, indicating broadening engagement with the core framework.
