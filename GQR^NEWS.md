@@ -1,5 +1,30 @@
 ## News / Updates
 
+## News / Updates
+
+The extraction and consolidation of the original GQR-59 (“rambling man”, originally *“Zen and the Art of Music”*) notes is now complete.
+
+The material resolves into a coherent set of linked contributions:
+
+- **GQR-59 (AFC6)**: *Recurrence without directional asymmetry.*  
+  Establishes the limitation of AFC systems: signal persistence without preservation of identity.
+
+- **GQR-64**: *Frustration–dissipation dynamics in macroeconomic systems.*  
+  Provides a dynamical model of constraint, path dependence, and admissibility.
+
+- **GQR-65 (MATHx)**: *A unified selection principle across statistical, dynamical, and field-theoretic systems.*  
+  Formalises the suppression/selection framework.
+
+- **GQR-66**: *Notes on a selection-theoretic approach to the Riemann Hypothesis.*  
+  Extends the framework to a mathematical setting, interpreting structure as selection over admissible configurations.
+
+- **🆕 GQR-67 (AFC7)**: *Selective filtering in AFC systems.*  
+  Demonstrates that filtering reveals latent structure by suppressing non-persistent modes, resolving the ambiguity identified in AFC6.
+
+---
+
+Together, these works define a progression from limitation to mechanism to general framework, linking recurrence, selection, and constraint across physical and abstract systems.
+
 ## GQR-66 — Internal Note
 
 First coherent mapping of the selection framework into an RH context.
