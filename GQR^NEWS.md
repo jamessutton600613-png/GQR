@@ -1,5 +1,34 @@
 ## News / Updates
 
+## GQR-66 — Internal Note
+
+First coherent mapping of the selection framework into an RH context.
+
+Key shift:
+- Stop treating RH as direct spectral construction
+- Treat it as selection over a constrained admissible manifold
+
+Core structure:
+- 𝓔 → A_acc → A → selection
+- w(x) = S(x) e^{-Λ(x)}
+
+Interpretation:
+- Spectral structure may arise as the survivor set under constraint
+- Not all admissible configurations are realised
+- Degeneracy resolved via suppression, not construction
+
+Status:
+- Exploratory / structural only
+- No proof claim
+- Framework-level positioning achieved
+
+Dependencies:
+GQR-56, 57, 59, 64, 65
+
+Next:
+- AFC7 → mechanism layer (filtering / fuzz)
+- Further
+
 ## 🚨 NEWSFLASH (April 2026)
 
 **GQR-64** establishes a geometry-driven macroeconomic engine (EGE), showing that hysteresis and asymmetric adjustment arise from constrained accessibility, mismatch, and lagged dissipation.  
