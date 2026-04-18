@@ -1,7 +1,6 @@
 ## News / Updates
 
-## News / Updates
-
+18 APRIL 2026
 The extraction and consolidation of the original GQR-59 (“rambling man”, originally *“Zen and the Art of Music”*) notes is now complete.
 
 The material resolves into a coherent set of linked contributions:
