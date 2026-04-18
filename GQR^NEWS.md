@@ -22,12 +22,8 @@ Status:
 - No proof claim
 - Framework-level positioning achieved
 
-Dependencies:
-GQR-56, 57, 59, 64, 65
-
 Next:
-- AFC7 → mechanism layer (filtering / fuzz)
-- Further
+- AFC7
 
 ## 🚨 NEWSFLASH (April 2026)
 
