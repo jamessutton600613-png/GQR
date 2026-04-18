@@ -96,6 +96,7 @@ For **CORE / FOUNDATIONAL** papers, a *Direct Precursor* is listed where a singl
 | GQR-63 | Admissibility-Selected Directional Energy Flow and Vortex Seeding in Time-Modulated Asymmetric Electrode Systems | THEORY | Admissibility; Directional Energy Flow; Vortex Seeding; Phase–Frequency Structure; Ridge–Ladder Organisation; Dynamical Selection | GQR-56; GQR-57 | https://doi.org/10.5281/zenodo.19541833⁠|
 | GQR-64 | Frustration–Dissipation Dynamics in Macroeconomic Systems | THEORY | Macroeconomic Dynamics; Frustration–Dissipation; Accessibility Constraints; Lagged Adjustment; Hysteresis; Path Dependence; Economic Geometry | GQR-36; GQR-40; GQR-26 | https://doi.org/10.5281/zenodo.19597948 |
 | GQR-65 (MATHx)| A Unified Selection Principle Across Statistical, Dynamical, and Field-Theoretic Systems | THEORY | Selection Law; Admissibility; Suppression Field; Mode Competition; Dynamical Selection; Statistical–Field Unification; Constraint-Driven Structure | GQR-53; GQR-56; GQR-57 | https://doi.org/10.5281/zenodo.19600617 |
+| GQR-66 | Notes on a Selection-Theoretic Approach to the Riemann Hypothesis | THEORY | Selection Principle; Admissibility; Permissibility; Spectral Structure; RH; Constraint Systems; Dynamical Selection | GQR-56; GQR-57; GQR-59; GQR-64; GQR-65 | https://doi.org/10.5281/zenodo.19642692 |
 
 ## GC-arc — Germinal Centre / Immune & Governance Programme
 
