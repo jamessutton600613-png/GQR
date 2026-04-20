@@ -1,5 +1,47 @@
 ## News / Updates
 
+
+20  April 
+## ⚡ Newsflash
+
+**New engineering tool challenges “neutral” system assumptions.**  
+The **Order Sensitivity Index (OSI)** provides a simple way to detect when the *sequence* of operations changes outcomes—revealing hidden pathway competition, cancellation, or switching even when results appear identical.
+
+📄 **Reference**  
+SUTTON, J. (2026). *(GQR68)* *Order Sensitivity Index (OSI): A Cross-Domain Metric for Sequence-Dependent System Behaviour*. Zenodo.  
+https://doi.org/10.5281/zenodo.19671908
+
+## 📊 Weekly Engagement Update
+
+This week showed a **clear step up in programme engagement**.
+
+- **~9% week-on-week growth** in combined views and downloads  
+- Growth was **high quality**, with downloads rising almost as strongly as views  
+- The programme appears to have moved from a **near-plateau into a breakout week**
+
+## ✅ Main success stories of the week
+
+### 1. Collider / CMS strand drove the strongest new attention
+The recent **CMS / collider series** appears to have been the main visibility engine this week, bringing in fresh readers and helping broaden the programme beyond its existing audience.
+
+### 2. Downloads kept pace with views
+This was not just casual traffic. The strong rise in **downloads alongside views** suggests that readers were not only noticing the work, but actually taking copies away for closer reading.
+
+### 3. Cross-domain credibility is improving
+Interest seems to be strengthening not only around the collider work, but also around the wider sense that the programme is now spanning:
+- quantum / transport
+- collider data
+- electrostatics / directional energy flow
+- formal ordering / admissibility structure
+
+### 4. The programme is no longer relying on a single legacy entry point
+Engagement appears to be spreading across multiple newer papers rather than depending only on earlier core items. That is a healthier sign of programme-level uptake.
+
+## Summary
+
+**This was a strong week.**  
+The key story is not just more clicks, but **better-quality engagement**, with the collider strand acting as the clearest driver of momentum.
+
 18 APRIL 2026
 The extraction and consolidation of the original GQR-59 (“rambling man”, originally *“Zen and the Art of Music”*) notes is now complete.
 
