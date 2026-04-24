@@ -1,5 +1,25 @@
 ## News / Updates
 
+## 🆕 News / Update  
+### GQR70 — Structured Covariance and Constraint Architecture in ATLAS $t\bar{t}$ Phase Space
+
+**Covariance reveals organised constraint structure in collider phase space.**  
+A new analysis of ATLAS $t\bar{t}$ differential cross-section data shows that covariance matrices exhibit **structured, non-random organisation aligned with kinematic phase space**. Rather than acting purely as uncertainty bookkeeping, covariance is shown to encode **nonlocal coupling and ordering-dependent structure** across bins.
+
+The study combines:
+
+- direct construction of covariance matrices from HEPData  
+- bin-order permutation controls  
+- geometric surface analysis  
+- Fourier diagnostics of residual structure  
+
+Together, these reveal that collider observables contain an additional layer of information in the **organisation of fluctuations**, consistent with a **constraint-driven phase-space architecture**.
+
+This work extends the geometry-based QGE/GQR framework to **ATLAS covariance data**, demonstrating that structured coupling can be extracted directly from published measurements.
+
+📄 **Reference**  
+SUTTON, J. (2026). *(GQR70)* *Structured Covariance and Constraint Architecture in ATLAS $t\bar{t}$ Phase Space*. Zenodo.  
+https://doi.org/10.5281/zenodo.19745790
 
 20  April 
 ## ⚡ Newsflash
