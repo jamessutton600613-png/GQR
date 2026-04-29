@@ -123,6 +123,9 @@ Importantly, the approach does **not assume a spectral origin for the zeros**. I
 
 This reframes the prime–zero correspondence as a **selection problem over a structured spectral field**, rather than direct solution of an analytic equation.
 
+
+🔗 GQR-71 (2026): Spectral Admissibility and Emergent Mode Separation in the Prediction of Zeta-Zero Ordinates  
+https://doi.org/10.5281/zenodo.19892686
 ---
 
 ### 🔗 Structural Context
