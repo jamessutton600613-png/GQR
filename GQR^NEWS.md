@@ -1,5 +1,93 @@
 ## News / Updates
 
+## 🚨 News Flash: AFC8 ...From Recurrence to Selection in AFC Systems
+
+A new study introduces a selection-based framework for atomic frequency comb (AFC) systems, showing that stable memory behaviour arises not from recurrence alone but from constraint-driven mode selection.
+
+While AFC combs generate a high-dimensional set of accessible modes through collective rephasing, raw spectra exhibit diffuse multi-mode occupancy in which many configurations contribute with comparable amplitude. The present work demonstrates that the introduction of suppression mechanisms produces a qualitative transition: spectral weight concentrates into a reduced subset of persistent modes, revealing sharply defined structure.
+
+This establishes a two-layer architecture:
+
+- **Recurrence → defines accessibility**  
+- **Admissibility → determines persistence**
+
+Structure is therefore not constructed by filtering, but revealed through the elimination of non-persistent configurations.
+
+---
+
+## 🧠 The AFC Programme (Full Spine)
+
+The AFC series develops a stepwise understanding of spectral structure, stability, and selection:
+
+### 🔹 Foundations: Geometry, robustness, and admissibility
+
+- **AFC1 (GQR-43)** — *Bandwidth robustness*
+  → identifies regime-dependent stability limits in cavity-enhanced AFC systems  
+  → https://doi.org/10.5281/zenodo.18649496
+
+- **AFC2 (GQR-44)** — *Ridge–drift tolerance law*
+  → introduces dimensionless stability metrics governing spectral drift  
+  → https://doi.org/10.5281/zenodo.18675970
+
+- **AFC3 (GQR-45)** — *Geometry–coherence coupling*
+  → shows that spectral geometry and coherence jointly determine admissibility  
+  → https://doi.org/10.5281/zenodo.18676177
+
+- **AFC4 (GQR-46)** — *Admissibility architecture*
+  → establishes control frameworks for expanding stable operating envelopes  
+  → https://doi.org/10.5281/zenodo.18686193
+
+---
+
+### 🔹 Dynamics: Recurrence and its limits
+
+- **AFC5** — *Spectral–temporal recurrence*
+  → comb geometry produces deterministic echo dynamics via spectral–temporal duality
+
+- **AFC6** — *Limits of recurrence*
+  → recurrence alone does not guarantee stable or interpretable structure
+
+- **AFC7** — *Directional ambiguity*
+  → accessible modes can preserve amplitude while losing identity  
+  → https://doi.org/10.5281/zenodo.19633179
+
+---
+
+### 🔹 Resolution: Selection principle
+
+- **AFC8 (this work)** — *Selection as persistence*
+  → stable structure emerges through constraint-driven survival of modes  
+  → recurrence generates candidates; admissibility selects them
+
+---
+
+## 🔗 Structural Context
+
+The emergence of stable structure from repeated interactions is consistent with ordering-induced organisation in composite systems:
+
+> Sutton, J. R. F. (2026). *(GQR55)* Ordering-Induced Ladder Modes in Noncommuting Transport Cycles  
+> https://doi.org/10.5281/zenodo.18939338
+
+---
+
+## 🧭 Summary
+
+Across the AFC series:
+
+- early work establishes **geometry, robustness, and admissibility**
+- mid-stage work reveals **limitations of recurrence**
+- final work identifies **selection as the governing mechanism**
+
+> **AFC systems do not produce structure by recurrence alone —  
+> they expose it through selection.**
+
+Stable spectral behaviour emerges when accessibility is constrained, revealing a persistent subset within a structured but diffuse field.
+
+This provides a general design principle for coherence-based photonic systems:
+> optimise not only recurrence, but the alignment between accessibility and persistence.
+
+
+
 ## 🚨 News Flash: Spectral Admissibility Approach to Zeta Zeros
 
 A new computational framework demonstrates that the non-trivial zeros of the Riemann zeta function can be *approximated without direct root finding*, using a selection-based spectral admissibility principle.
