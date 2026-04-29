@@ -58,7 +58,7 @@ The AFC series develops a stepwise understanding of spectral structure, stabilit
 - **AFC8 (this work)** — *Selection as persistence*
   → stable structure emerges through constraint-driven survival of modes  
   → recurrence generates candidates; admissibility selects them
-
+  ⭐ SUTTON, J. (2026). (GQR-72 / AFC8) From Recurrence to Selection: A Spectral Admissibility Framework in Atomic Frequency Comb Systems. Zenodo. https://doi.org/10.5281/zenodo.19893503
 ---
 
 ## 🔗 Structural Context
