@@ -1,5 +1,45 @@
 ## News / Updates
 
+## 🚨 News Flash: Spectral Admissibility Approach to Zeta Zeros
+
+A new computational framework demonstrates that the non-trivial zeros of the Riemann zeta function can be *approximated without direct root finding*, using a selection-based spectral admissibility principle.
+
+Instead of solving  
+\[
+\zeta\left(\tfrac{1}{2} + i\gamma\right) = 0,
+\]  
+the method constructs a von Mangoldt–weighted spectral representation and assigns each candidate ordinate a coherence–stability score:
+\[
+A(\gamma) = C_{\Lambda}(\gamma) - \alpha V_{\Lambda}(\gamma).
+\]
+
+This produces a dense admissibility landscape exhibiting:
+
+- a **bimodal separation** into suppressed and persistent spectral modes  
+- **scale-stable predictive accuracy** across $\gamma \in [10, 2000]$  
+- **quasi-regular banded structure** arising from multi-frequency interference  
+- localisation of top-ranked candidates to within **~10% of local zero spacing**
+
+Importantly, the approach does **not assume a spectral origin for the zeros**. Instead, it treats the arithmetic structure as a **computational spectral proxy**, on which a selection functional isolates high-admissibility configurations.
+
+This reframes the prime–zero correspondence as a **selection problem over a structured spectral field**, rather than direct solution of an analytic equation.
+
+---
+
+### 🔗 Structural Context
+
+The observed banding and persistence patterns are consistent with ordering-induced structure in composite systems:
+
+> Sutton, J. R. F. (2026). *(GQR55)* Ordering-Induced Ladder Modes in Noncommuting Transport Cycles.  
+> Zenodo. https://doi.org/10.5281/zenodo.18939338
+
+---
+
+### 🧠 Summary
+
+**Zeros appear as stable, high-admissibility modes within a structured arithmetic spectrum —  
+selected, not solved.**
+
 ## 🆕 News / Update  
 ### GQR70 — Structured Covariance and Constraint Architecture in ATLAS $t\bar{t}$ Phase Space
 
