@@ -4,15 +4,26 @@
 
 A new computational framework demonstrates that the non-trivial zeros of the Riemann zeta function can be *approximated without direct root finding*, using a selection-based spectral admissibility principle.
 
-Instead of solving  
-\[
-\zeta\left(\tfrac{1}{2} + i\gamma\right) = 0,
-\]  
-the method constructs a von Mangoldt–weighted spectral representation and assigns each candidate ordinate a coherence–stability score:
-\[
-A(\gamma) = C_{\Lambda}(\gamma) - \alpha V_{\Lambda}(\gamma).
-\]
+## Spectral Analysis Method
+Instead of solving the standard root-finding problem:
+$$\zeta\left(\tfrac{1}{2} + i\gamma\right) = 0$$
+This method constructs a **von Mangoldt–weighted spectral representation** and assigns each candidate ordinate $\gamma$ a **coherence–stability score**:
+$$A(\gamma) = C_{\Lambda}(\gamma) - \alpha V_{\Lambda}(\gamma)$$
+---
+### Variable Definitions
 
+| Term | Description |
+| :--- | :--- |
+| **$A(\gamma)$** | **Coherence–Stability Score**: The primary metric for identifying valid ordinates. |
+| **$C_{\Lambda}(\gamma)$** | **Coherence**: Measures the spectral alignment with the von Mangoldt distribution. |
+| **$V_{\Lambda}(\gamma)$** | **Stability**: Quantifies the variance/noise within the representation. |
+| **$\alpha$** | **Weighting Factor**: A constant used to balance coherence against local variance. |
+
+---
+### Key Advantages
+* **Noise Reduction:** By subtracting the weighted variance ($V_{\Lambda}$), the method suppresses false positives in the spectral density.
+* **Prime Sensitivity:** The inclusion of the von Mangoldt function ($\Lambda$) grounds the representation in the underlying distribution of prime powers.
+* 
 This produces a dense admissibility landscape exhibiting:
 
 - a **bimodal separation** into suppressed and persistent spectral modes  
