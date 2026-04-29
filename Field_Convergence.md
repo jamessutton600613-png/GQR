@@ -10,6 +10,19 @@ This section documents **independent convergence**, even where the original work
 
 Inclusion indicates **conceptual relevance**, not endorsement, reinterpretation, or claimed equivalence with GQR. Entries are listed chronologically and the list is living.
 
+**11 Mar 2026**
+
+### Converging developments in phase-sensitive photonic structure and constraint-revealed dynamics (post-submission context)
+
+Recent work on **interferometric phase measurement in nanoscale X-ray waveguide systems** has demonstrated that phase-resolved observations can reveal microscopic coupling and coherence effects not accessible through absorption or intensity measurements alone (Lohse *et al.*, *Nature Photonics*, 2026).  
+👉 https://doi.org/10.1038/s41566-026-01892-5
+
+In these experiments, a double-waveguide interferometer is used to extract the dispersive phase shift associated with nuclear resonances, allowing the reconstruction of interaction parameters that remain ambiguous under amplitude-only analysis. The results show that **phase information encodes structurally relevant degrees of freedom that are otherwise hidden in conventional observables**.
+
+Although framed within X-ray interferometry and waveguide quantum electrodynamics rather than transport or accessibility, this work reinforces a central structural insight shared with the AOI–QGE programme: namely, that **observable structure in complex systems may depend on the mechanism used to probe or constrain the underlying configuration space**. In the interferometric case, structure is revealed through phase-sensitive measurement; in AOI–QGE, it emerges through constraint-driven selection acting on accessible configurations.
+
+These developments should be understood as **convergent rather than overlapping**. The photonics work operates in a measurement and instrumentation context, whereas AOI–QGE addresses structural organisation through admissibility and ordering. Nevertheless, both point toward a broader shift in the field: from amplitude-dominated descriptions toward **structure revealed through coherence, constraint, and selection mechanisms**.    (SEE e.g. GQR72/AFC8)  
+
 **6 Feb 2026** 
 ### Converging developments in ordering, identity, and collective transport (post-submission context)
 
