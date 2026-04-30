@@ -10,6 +10,16 @@ This section documents **independent convergence**, even where the original work
 
 Inclusion indicates **conceptual relevance**, not endorsement, reinterpretation, or claimed equivalence with GQR. Entries are listed chronologically and the list is living.
 
+### Quantum measurement convergence: symmetry-aligned state identification
+
+Recent work from Hiroshima and Kyoto demonstrates direct entangled measurement of multipartite W states using symmetry-aware optical circuits (DFT-based detection of cyclic structure). This enables projection onto structured entangled bases without full state reconstruction.
+
+This represents a clear methodological shift: measurement is no longer treated as a generic reconstruction process, but as a structure-aligned operation that directly extracts relevant state features.
+
+Within the QGE/AOI perspective, this is a convergence example: system-relevant information can be accessed through symmetry-constrained measurement, rather than exhaustive exploration of the full state space.
+
+(Reference: Geobae Park, Holger F. Hofmann, Ryo Okamoto, Shigeki Takeuchi Entangled Measurement for W States, Science Advances, 2025)
+
 ### Photonic convergence: feed-forward control and admissible coherent architectures
 
 A recent Nature Photonics paper reports low-noise microwave generation from free-running frequency combs using electrical feed-forward phase-noise compensation, replacing stringent feedback control with a simpler architecture. The system achieves robust 10 GHz microwave generation with phase noise as low as −153 dBc Hz−1 at offsets ≥10 kHz, femtosecond timing jitter, and removal of the large feedback servo-bump noise feature.
