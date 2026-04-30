@@ -101,7 +101,8 @@ For **CORE / FOUNDATIONAL** papers, a *Direct Precursor* is listed where a singl
 | GQR-68 | Order Sensitivity Index (OSI): A Cross-Domain Metric for Sequence-Dependent System Behaviour | THEORY | Order Sensitivity; Sequence Dependence; Noncommutativity; Path Dependence; Dynamical Systems; Constraint Ordering; Admissibility | GQR-56; GQR-57; GQR-65 | https://doi.org/10.5281/zenodo.19671908 |
 | GQR-69 | Order Sensitivity and Spectral Rigidity in Cyclic Channel Decompositions of Finite Multisets, and a Structural Bridge Across Constrained Systems | THEORY | Order Sensitivity; Spectral Rigidity; Cyclic Decomposition; Channel Structure; Finite Multisets; Constraint Systems; Sequence Dependence | GQR-68; GQR-65; GQR-56; GQR-57 | https://doi.org/10.5281/zenodo.19697242 |
 | GQR-70 | Structured Covariance and Constraint Architecture in ATLAS $t\bar{t}$ Phase Space | THEORY | Covariance Structure; Phase-Space Geometry; Nonlocal Coupling; Ordering Sensitivity; Residual Structure; Spectral Organisation; Constraint Architecture | GQR-60; GQR-61; GQR-62; GQR-68; GQR-69 | https://doi.org/10.5281/zenodo.19745790 |
-
+| GQR-71        | Spectral Admissibility and Emergent Mode Separation in the Prediction of Zeta-Zero Ordinates | THEORY       | Spectral Admissibility; Mode Separation; Zeta Zeros; Eigenvalue Structure; Critical Line Constraint | GQR-66           | https://doi.org/10.5281/zenodo.19892686 |
+| GQR-72 (AFC8) | From Recurrence to Selection: A Spectral Admissibility Framework in Atomic Frequency Comb Systems | FRAMEWORK    | AFC; Recurrence-to-Selection Transition; Spectral Filtering; Admissibility; Mode Selection | GQR-67 (AFC7)    | https://doi.org/10.5281/zenodo.19893503 |
 
 
 
