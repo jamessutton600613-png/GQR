@@ -10,6 +10,15 @@ This section documents **independent convergence**, even where the original work
 
 Inclusion indicates **conceptual relevance**, not endorsement, reinterpretation, or claimed equivalence with GQR. Entries are listed chronologically and the list is living.
 
+### Photonic convergence: feed-forward control and admissible coherent architectures
+
+A recent Nature Photonics paper reports low-noise microwave generation from free-running frequency combs using electrical feed-forward phase-noise compensation, replacing stringent feedback control with a simpler architecture. The system achieves robust 10 GHz microwave generation with phase noise as low as −153 dBc Hz−1 at offsets ≥10 kHz, femtosecond timing jitter, and removal of the large feedback servo-bump noise feature.
+
+For the QGE programme, this is not cited as evidence for the formal framework, but as a convergence example: high-performance coherent technologies are increasingly advancing by selecting more stable control pathways and reducing dynamical fragility through architecture. This aligns with the QGE/AOI emphasis on admissible pathways, robustness, and geometry-led simplification across coherent systems.
+
+Reference: Nakamura et al., “Low-noise microwaves from free-running frequency combs and electrical feed-forward phase noise compensation,” Nature Photonics, published 28 April 2026.
+
+
 **11 Mar 2026**
 
 ### Converging developments in phase-sensitive photonic structure and constraint-revealed dynamics (post-submission context)
