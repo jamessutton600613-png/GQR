@@ -23,6 +23,84 @@ For **CORE / FOUNDATIONAL** papers, a *Direct Precursor* is listed where a singl
 |---:|---|---|---|---|---|
 | preGQR1 | 6D Rotary Engines: A Mechanistic Framework for simplification of delocalised pi-electron catalytic mechanism via 3D Fast Fourier transformation resolved Wave Amplification exciton/phonon/ewave flow, 5th dimension nucleon electronics, polymer tethering or pivoting strategic gains, leveraging 6th dimension quantum tunnelling | INCIDENTAL | — | — | https://doi.org/10.5281/zenodo.18300110 |
 | preGQR2 | The Quantum-Classical Tumbling Locomotion (QC-TCL) Hypothesis: A Unified Framework for Catalysis, Self-Assembly, and Biological Selection | INCIDENTAL | — | — | https://doi.org/10.5281/zenodo.18299933 |
+🟪 Pre-GQR (Conceptual Precursors) — Continued
+ID
+Title
+Significance
+Core Term(s)
+Direct Precursor
+DOI
+preGQR3
+Interfacial Water and Constraint Media
+FOUNDATIONAL
+interfacial water; constraint media; hydration control; structural damping
+—
+https://doi.org/10.5281/zenodo.19950992⁠�
+preGQR4
+Enzyme Mechanics & Active Matter
+FOUNDATIONAL
+enzyme mechanics; active matter; force transmission; structural dynamics
+preGQR3
+https://doi.org/10.5281/zenodo.19951698⁠�
+preGQR5
+Energy Storage, Redox Cycling, and Time-Resolved Electrostatic Catalysis
+CORE
+redox cycling; electrostatic catalysis; energy storage; time-resolved dynamics
+preGQR4
+https://doi.org/10.5281/zenodo.19955700⁠�
+preGQR6
+Quantum Effects, Tunnelling, and Coherence in Biological Systems (Constrained Framework)
+THEORY
+tunnelling; coherence; quantum constraint; transport regimes
+preGQR5
+https://doi.org/10.5281/zenodo.19955830⁠�
+preGQR7
+Materials, Interfaces, and Energy Transfer in Functional Systems
+FOUNDATIONAL
+materials; interfaces; energy transfer; coupling regimes
+preGQR5
+https://doi.org/10.5281/zenodo.19952864⁠�
+preGQR8
+Selection, Admissibility, and Evolution in Constrained Systems
+BRANCH
+selection; admissibility; GC dynamics; constrained search; diversification
+preGQR6
+https://doi.org/10.5281/zenodo.19963103⁠�
+preGQR9
+Constraint Systems and Emergent Computation (Exploratory)
+FORK
+constraint systems; computation; emergent logic; optimisation
+preGQR8
+https://doi.org/10.5281/zenodo.19953833⁠�
+preGQR10
+Parallel Field Intuitions Across Physical Domains: Early Models of Gravity, Dipole and Transport Behaviour
+INCIDENTAL
+gravity intuition; dipoles; transport analogies; field models
+preGQR6
+https://doi.org/10.5281/zenodo.19954484⁠�
+preGQR11
+Physical Constraints and Energy Dynamics in Cellular Systems: A Biophysical Synthesis of Mechanotransduction, Transport, and Enzyme Function
+CORE
+mechanotransduction; enzyme function; transport; cellular biophysics
+preGQR5
+https://doi.org/10.5281/zenodo.19959552⁠�
+preGQR12
+Exploratory Frameworks for Force Generation and Energy Propagation: Quantum Vortex Dynamics and Artificial Gravity Analogues
+THEORY
+vortex dynamics; force propagation; artificial gravity; flow structure
+preGQR10
+https://doi.org/10.5281/zenodo.19959351⁠�
+preGQR13
+Conceptual Architectures of Energy, Information, and Constraint Across Complex Systems
+CORE
+architecture; energy-information constraint; cross-domain structure
+preGQR8
+https://doi.org/10.5281/zenodo.19959161⁠�
+
+⚠️ Optional note 
+Note: preGQR8 contains elements (e.g. IF-DRRP model) that may post-date GQR-1 and should be chronologically verified, in time will do so.
+
+
 
 ---
 
