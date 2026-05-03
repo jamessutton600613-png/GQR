@@ -41,7 +41,7 @@ Enzyme Mechanics & Active Matter
 FOUNDATIONAL
 enzyme mechanics; active matter; force transmission; structural dynamics
 preGQR3
-https://doi.org/10.5281/zenodo.19951698⁠�
+https://doi.org/10.5281/zenodo.19951698⁠
 preGQR5
 Energy Storage, Redox Cycling, and Time-Resolved Electrostatic Catalysis
 CORE
