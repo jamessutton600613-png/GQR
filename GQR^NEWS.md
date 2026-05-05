@@ -1,5 +1,29 @@
 ## News / Updates
 
+🟪 Programme Newsflash — AOI v2
+
+GQR-36 (AOI) updated
+➕ New companion doc:
+“AOI: Mechanism vs Representation”
+---
+🔑 Update
+📐 AOI now a theorem-level invariant
+⚡ Core result: AB ≠ BA
+🔁 No averaging / no coherence dependence
+🪜 Ladder structures = systematic outcome of ordering
+---
+🧠 New bridge
+🏆 Kashiwara (Abel Prize) → algebra / representation
+🧬 Perelson → geometry / shape space
+⏱ AOI → time-ordered accessibility
+
+👉 AOI connects:
+ordering → reachability → structure
+---
+🏁 Summary
+> ⏱ When connectivity is transient, order is structure.
+
+
 ### 🆕 GQR-73 — Emergent Chirality from Constrained Observables in Geometry-Driven Transport Fields
 
 A new addition to the programme, **GQR-73**, extends the geometry-first framework into the domain of chirality and observable structure.
