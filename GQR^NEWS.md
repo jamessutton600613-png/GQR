@@ -1,5 +1,111 @@
 ## News / Updates
 
+### 🆕 GQR-73 — Emergent Chirality from Constrained Observables in Geometry-Driven Transport Fields
+
+A new addition to the programme, **GQR-73**, extends the geometry-first framework into the domain of chirality and observable structure.
+
+**Key idea:**  
+Chirality is not imposed as an intrinsic property of the field. Instead, it **emerges through constrained observables** — such as flux, curl, and admissibility-filtered quantities — even when the underlying field remains symmetric.
+
+**What’s new:**
+- Demonstrates that **enantiomorphic symmetry (D/L)** can be preserved at the field level while breaking at the level of measurable quantities  
+- Introduces a minimal computational model linking **geometry, constraint, and observable asymmetry**  
+- Connects to broader programme themes:
+  - Accessibility–Ordering Invariant (AOI)
+  - Admissibility filtering
+  - Geometry-driven transport
+
+**Why it matters:**
+- Provides a mechanism for **emergent chirality without explicit symmetry breaking**
+- Aligns with experimental trends in:
+  - quantum measurement
+  - superconducting systems
+  - inference of internal structure from constrained observables
+- Extends the programme’s core idea that **structure is revealed through what can be measured, not only what exists**
+
+**Position in programme:**
+- Classification: **THEORY**
+- Continues the **selection / admissibility / observable structure arc** (GQR-56 → GQR-68 → GQR-71 → GQR-73)
+
+🔗 DOI: https://zenodo.org/records/19952864  *(update if needed)*
+
+---
+
+
+
+## 📰 Programme News — Week Beginning 4 May 2026
+
+This week saw continued growth across the GQR / QGE / GC-arc programme, with engagement rising from **13,263 total interactions** on 27 April to **14,046** on 4 May.
+
+- **Total growth:** +783 views/downloads combined  
+- **Views:** 9,613 → 9,892 (+279, +2.9%)  
+- **Downloads:** 3,650 → 4,154 (+504, +13.8%)  
+- **Download-to-view ratio:** 0.38 → 0.42  
+
+The main signal is that **downloads grew faster than views**, suggesting deeper technical engagement rather than simple browsing.
+
+### New programme additions
+
+This week added **3 new GQR entries** and **11 new preGQR precursor documents**.
+
+#### New GQR entries
+
+- **GQR-70** — *Structured Covariance and Constraint Architecture in ATLAS \(t\bar{t}\) Phase Space*  
+  Extends the collider-analysis branch by examining covariance and constraint structure in ATLAS top-quark phase space.
+
+- **GQR-71** — *Spectral Admissibility and Emergent Mode Separation in the Prediction of Zeta-Zero Ordinates*  
+  Opens a mathematics-facing spectral admissibility thread, linking constraint selection to zeta-zero structure.
+
+- **GQR-72 / AFC8** — *From Recurrence to Selection: A Spectral Admissibility Framework in Atomic Frequency Comb Systems*  
+  Extends the AFC memory arc by reframing recurrence as a selection/admissibility problem.
+
+  
+
+#### New preGQR precursor expansion
+
+The preGQR archive was expanded from early conceptual precursors into a fuller scaffold of programme origins:
+
+- **preGQR3** — *Interfacial Water and Constraint Media*  
+- **preGQR4** — *Enzyme Mechanics & Active Matter*  
+- **preGQR5** — *Energy Storage, Redox Cycling, and Time-Resolved Electrostatic Catalysis*  
+- **preGQR6** — *Quantum Effects, Tunnelling, and Coherence in Biological Systems*  
+- **preGQR7** — *Materials, Interfaces, and Energy Transfer in Functional Systems*  
+- **preGQR8** — *Selection, Admissibility, and Evolution in Constrained Systems*  
+- **preGQR9** — *Constraint Systems and Emergent Computation*  
+- **preGQR10** — *Parallel Field Intuitions Across Physical Domains*  
+- **preGQR11** — *Physical Constraints and Energy Dynamics in Cellular Systems*  
+- **preGQR12** — *Exploratory Frameworks for Force Generation and Energy Propagation*  
+- **preGQR13** — *Conceptual Architectures of Energy, Information, and Constraint Across Complex Systems*
+
+These documents clarify the conceptual path into the main GQR programme, especially around **constraint media, redox cycling, tunnelling, selection, admissibility, mechanotransduction, and energy–information structure**.
+
+### Growth drivers
+
+Growth was broad rather than isolated. The strongest drivers were:
+
+1. **ACT I core GQR papers**  
+   The foundational ChemRxiv-facing GQR sequence remains the main engagement anchor.
+
+2. **Shield Law / QGE spine**  
+   Core Shield Law and Quantum Geometry Engine papers continue to attract sustained reading.
+
+3. **AFC / spectral admissibility arc**  
+   GQR-59, GQR-67, GQR-71 and GQR-72 indicate growing interest in recurrence, memory, selection, and spectral structure.
+
+4. **preGQR expansion**  
+   The new precursor documents broaden discovery routes and make the programme’s conceptual dependency chain clearer.
+
+### Summary
+
+Engagement is increasing week-on-week:
+
+- Previous week: ~550 new interactions  
+- Current week: **+783 new interactions**
+
+The programme is shifting from simple visibility toward stronger reader commitment, with downloads now growing substantially faster than views.
+
+
+
 ## 🚨 News Flash: AFC8 ...From Recurrence to Selection in AFC Systems
 
 A new study introduces a selection-based framework for atomic frequency comb (AFC) systems, showing that stable memory behaviour arises not from recurrence alone but from constraint-driven mode selection.
