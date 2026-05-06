@@ -6,6 +6,32 @@
 
 🔑 v2 additions
 
+⚡ Major conceptual refinement
+
+Earlier AOI formulations often used shorthand expressions such as:
+
+Plain text
+
+AB ≠ BA
+
+v2 generalises this into a geometric admissibility framework based on inequivalent transport routes:
+
+Plain text
+
+T[γX] ≠ T[γY]
+
+where realised transport depends on:
+
+admissible route structure
+
+accessibility history
+
+geometric embedding
+
+path-dependent ordering constraints
+
+rather than simple operator multiplication alone.
+
 🔷 Representation bridge: Kashiwara comparison
 
 🧬 Accessibility geometry: Perelson shape-space comparison
