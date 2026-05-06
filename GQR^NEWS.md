@@ -1,45 +1,54 @@
 ## News / Updates
 
-🟪 Programme Newsflash — AOI v2
 
-GQR-36 (AOI) updated
+ Programme Newsflash — Selection Principle GQR65 v2
+“A Unified Selection Principle Across Statistical, Dynamical, and Field-Theoretic Systems” updated to v2
 
-➕ New companion doc:
+🔑 v2 additions
 
-“AOI: Mechanism vs Representation”
+🔷 Representation bridge: Kashiwara comparison
 
----
+🧬 Accessibility geometry: Perelson shape-space comparison
 
-🔑 Update
+📐 New AOI ↔ representation figure
 
-📐 AOI now a theorem-level invariant
+🪜 Ladder/admissibility links added across later GQR work
 
-⚡ Core result: AB ≠ BA
+🔗 Reference direction map
 
-🔁 No averaging / no coherence dependence
+GQR-I / GQR-22 Shield Law
 
-🪜 Ladder structures = systematic outcome of ordering
+→ GQR-26 QGE
 
----
+→ GQR-36 AOI, later AOI gap
 
-🧠 New bridge
+→ GQR-55 / GQR-56 ladder structures
 
-🏆 Kashiwara (Abel Prize) → algebra / representation
+→ GQR-65 Mathematical architecture (This article) (hints at Selection law)
 
-🧬 Perelson → geometry / shape space
+→ GQR-68 / GQR-69 ordering + spectral rigidity
 
-⏱ AOI → time-ordered accessibility
+→ GQR-71 / GQR-72 spectral admissibility
+
+🧠 Significance
+
+v2 clarifies how:
 
 
-👉 AOI connects:
 
-ordering → reachability → structure
+Shield Law generates constrained transport
 
----
+QGE geometrises admissible structure
+
+AOI introduces irreducible ordering
+
+ladder laws discretise admissible pathways
+
+selection laws determine realised survivor branches
 
 🏁 Summary
 
-> ⏱ When connectivity is transient, order is structure.
+Ordered accessibility generates structured admissible manifolds; ladder and selection laws determine which branches survive
 
 
 ### 🆕 GQR-73 — Emergent Chirality from Constrained Observables in Geometry-Driven Transport Fields
