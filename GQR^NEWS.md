@@ -1,6 +1,47 @@
 ## News / Updates
 
 
+6 May 2026
+# News — GQR50 v2 Released
+
+## (GQR50) Admissibility Distance as a Resource Monotone for Dynamical Nonlocality of Quantum Channels
+
+We are pleased to release the finalized **v2** edition of **GQR50**, introducing a resource-theoretic framework for **channel-level dynamical nonlocality** based on diamond-norm distance to product structure.
+
+This work develops **admissibility distance** as a structurally stable operational monotone for bipartite quantum channels, establishing:
+
+- Faithfulness with respect to product-channel structure
+- Monotonicity under local superchannels
+- Subadditivity under sequential composition and tensor products
+- Exact and generalized contraction bounds under depolarizing and unital noise
+- Dimension-independent perturbative scaling for generalized entangling generators
+- Compositional persistence/decay bounds for noisy quantum dynamics
+
+The framework provides a tolerance-aware and compositional perspective on nonlocal dynamical capability beyond traditional state-based entanglement measures.
+
+## Technical Update
+
+This release supersedes an earlier incomplete draft upload.  
+The present **v2** version is the finalized and fully referenced manuscript.
+
+Major additions relative to the earlier draft include:
+
+- Extended contraction analysis for arbitrary unital channels
+- Higher-dimensional calibration examples
+- Explicit compositional decay bounds
+- Expanded operational interpretation and engineering outlook
+- Full reference integration and structural refinements
+
+## Programme Context
+
+GQR50 forms part of the broader **GQR / QGE programme**, a geometry-first and operational framework spanning quantum channels, AFC systems, collider suppression structures, coherence geometry, and admissibility-based dynamics.
+
+Full Programme Index (70+ linked papers and technical notes):
+
+https://github.com/jamessutton600613-png/GQR/blob/main/Programme_Index.md
+
+
+6 May 2026
  Programme Newsflash — Selection Principle GQR65 v2
 “A Unified Selection Principle Across Statistical, Dynamical, and Field-Theoretic Systems” updated to v2
 
