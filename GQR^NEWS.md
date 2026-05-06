@@ -77,6 +77,57 @@ selection laws determine realised survivor branches
 Ordered accessibility generates structured admissible manifolds; ladder and selection laws determine which branches survive
 
 
+
+
+🟪 Newsflash — New GQR36v2 released:  AOI Supplementary Appendix Added
+
+A new supplementary appendix,
+“Kashiwara.pdf”,
+has been added to the GQR-36 (AOI) update.
+
+The appendix introduces the programme’s first explicit bridge to:
+
+🔷 representation-style mathematics
+(Kashiwara comparison)
+
+🧬 accessibility geometry
+(Perelson shape-space framework)
+
+
+within the original AOI / GQR-36 formulation. 
+
+⚠ Note for readers navigating the programme “echosystem”
+
+The appendix intentionally retains the earlier operational shorthand:
+
+AB ≠ BA
+
+which was widely used throughout the earlier AOI/GQR development as a compact expression of ordering-sensitive transport.
+
+Importantly, this shorthand was never a problem for the underlying AI/physics coding engines driving the programme development, which always operated using the more general route-dependent admissibility structure internally. The ambiguity primarily affected human-readable English interpretation rather than the computational or structural formulation itself.
+
+A separate later update released today within the GQR-65 v2 framework advances beyond this shorthand toward the more general interpretation based on:
+
+inequivalent admissible transport routes
+
+path-dependent accessibility geometry
+
+route-conditioned transport structure
+
+
+The new appendix was written prior to that later refinement and remains attached specifically to the historical GQR-36 AOI layer, where the earlier shorthand remains useful for explanatory continuity.
+
+🏁 Summary
+
+> The new appendix introduces representation-style mathematics into the programme through the original AOI framework, while later GQR-65 developments extend the interpretation beyond simple operator-order asymmetry toward full admissible-route geometry.
+
+
+
+
+
+
+May 1 2026 (approx)
+
 ### 🆕 GQR-73 — Emergent Chirality from Constrained Observables in Geometry-Driven Transport Fields
 
 A new addition to the programme, **GQR-73**, extends the geometry-first framework into the domain of chirality and observable structure.
