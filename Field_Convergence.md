@@ -1,5 +1,55 @@
 # 🌐 GQR/QGE Convergence Report (vLatest)
 
+
+## Choi, K.-E., Lee, H., Lee, E., Lee, S.-M., & Kim, H. (2026). From Molecular Obesity to Quantum Parsimony: The Minimum Viable Drug Framework and Its Quantum Information-Theoretic Foundations. In In Quantio (Vol. 1). Zenodo. https://doi.org/10.5281/zenodo.20065997
+**Affiliations:**  
+- Gene On Biotech, Daejeon, Republic of Korea  
+- Department of Quantum Biology, University of Science and Technology (UST), Daejeon, Republic of Korea  
+- Research Institute of BiocurePharm Co. Ltd., Daejeon, Republic of Korea
+
+
+🧬 Quantum medicinal chemistry  
+📉 Constraint-driven minimisation  
+⚛ Wave-function information metrics  
+🧠 Orbital mutual information  
+📐 Quantum-information geometry  
+🔗 Binding-kernel optimisation  
+🧪 Drug-design convergence  
+
+This Perspective article independently converges toward several themes strongly aligned with the later QGRE direction, particularly the treatment of biological function as an optimisation problem constrained by geometry, information flow, and electronic organisation rather than purely graph-theoretic molecular complexity.
+
+The authors introduce the concept of the **Minimum Viable Drug (MVD)**, arguing that successful drug discovery repeatedly converges toward irreducible binding structures that preserve core pharmacological activity while minimising unnecessary molecular complexity. Rather than relying solely on classical topological descriptors, the paper proposes wave-function-derived information measures — especially **cross-system orbital mutual information** between ligand and binding pocket — as more physically meaningful descriptors of biological interaction.
+
+Particularly notable points of convergence with the broader QGRE programme include:
+
+- geometry-mediated transport and interaction pathways  
+- constrained optimisation under biological selection pressure  
+- wave-function-level informational structure  
+- irreducible interaction kernels  
+- resonance and coherence within biological systems  
+- non-equilibrium organisational efficiency  
+- and information-geometric interpretations of molecular function  
+
+The paper also frames molecular minimisation through a **quantum Minimum Description Length (MDL)** interpretation, proposing that biological binding may be understood as an optimisation between retained interaction information and reduced structural complexity.
+
+Importantly, the manuscript remains methodologically disciplined:
+- explicitly separating proposal from validation,
+- acknowledging hardware limits,
+- and grounding discussion within medicinal chemistry, correlated electronic structure, and quantum-information methodology.
+
+From a QGRE perspective, this work is significant not because it “proves” earlier exploratory frameworks, but because it demonstrates that mainstream-adjacent medicinal chemistry is increasingly converging toward geometry-, information-, and wave-function-based interpretations of biological organisation.
+
+In practical terms, the paper strengthens the broader conceptual transition:
+
+```text
+mechanistic biochemistry
+→ constrained optimisation
+→ quantum information structure
+→ geometry-mediated biological organisation
+
+
+
+
 ---
 
 ## 🧭 Executive Summary
