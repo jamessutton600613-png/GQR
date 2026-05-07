@@ -1,5 +1,42 @@
 ## News / Updates
 
+# Programme Update — Rebranding to QGRE  
+## Quantum Geometry: Resonance Engines  
+
+Following major reorganisation of the archive and precursor volumes, the programme confidently and proudly announces 
+it will forthwith transition to this simpler identity:
+
+🧭 Historical lineage:
+
+OQH  
+→ preGQR exploratory frameworks  
+→ GQR (Gated Quantum Resonator)  
+→ Shield Law  
+→ QGE , AOI, AOI-gap, ladder and selection laws, geometry-oriented transport interpretation  
+→ QGRE  
+
+## Why “Quantum Geometry”?
+
+Over time, the programme increasingly converged toward:
+- geometry-mediated transport  
+- coherence curvature  
+- constrained pathways  
+- information-geometric interpretation  
+
+This places QGRE conceptually closer to traditions associated with:
+- Berry phase and geometric transport  
+- gauge and holonomy structures  
+- topology and curvature-mediated systems  
+- Penrose-style geometric reasoning  
+
+
+## Why “Resonance Engines”?
+
+⚙ The term preserves the programme’s origins in catalysis, coherence, biological dynamics, 
+
+while simplifying the increasingly complex internal acronym structure that developed historically.
+
+
 
 6 May 2026
 # News — GQR50 v2 Released
