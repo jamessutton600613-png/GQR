@@ -1,5 +1,143 @@
 ## News / Updates
 
+May 12 2026
+🟫 News / Update — preGQR-14 Released
+
+🧬⚡🌊 preGQR-14: Origin of Life — Emergent Ordering, Proto-Catalysis, and Transport Selection
+
+The preGQR archive has now been extended with preGQR-14, a new origin-transition layer focused on how structured energetic systems may begin to acquire proto-biological organisation.
+
+This repository explores the boundary between:
+
+chemistry
+
+structured water
+
+proton/electron routing
+
+dynamic catalysis
+
+primitive coding
+
+homochirality
+
+PSII / porphyrin energy systems
+
+and emergent transport-selection behaviour
+
+
+The central theme is not “life from magic”, but the gradual emergence of ordered catalytic systems from:
+
+energy gradients,
+
+structured matter,
+
+oscillatory catalysis,
+
+and constrained transport pathways.
+
+
+
+---
+
+🧲🔁🧪 Core Focus
+
+preGQR-14 brings together documents on:
+
+dynamic enzyme catalysis
+
+redox pendulum systems
+
+ATP energetic organisation
+
+RNA hairpin / peptide emergence
+
+CISS and chirality
+
+proton-wire systems
+
+PSII quantum-engine models
+
+FCD / coherence dynamics
+
+catalytic topology
+
+and primitive information evolution
+
+
+
+---
+
+📐🧠🔍 Archive Role
+
+Within the broader preGQR sequence, preGQR-14 acts as the:
+
+origin-of-life / proto-catalysis transition layer
+
+It bridges earlier work on:
+
+energetic transport,
+
+biophysical systems,
+
+and conceptual organisation
+
+
+toward later:
+
+QGE,
+
+GQR,
+
+admissibility,
+
+and geometry-mediated ordering frameworks.
+
+
+
+---
+
+⚠ Status
+
+These materials are exploratory and developmental.
+
+They are intended as: 📚 a structured research archive
+
+rather than a claim of established origin-of-life theory.
+
+Several documents additionally preserve:
+
+critical reviews,
+
+speculative crossover frameworks,
+
+and developmental conceptual pathways.
+
+
+
+---
+
+🗂 Repository Navigation
+
+A dedicated navigation document accompanies the upload, classifying files into:
+
+PRIMARY frameworks
+
+SUPPORTING systems
+
+HISTORICAL / BRIDGE material
+
+
+This helps preserve:
+
+the conceptual spine,
+
+the developmental evolution,
+
+and the cross-series relationships of the archive.
+
+
+c.8 May 2026
 # Programme Update — Rebranding to QGRE  
 ## Quantum Geometry: Resonance Engines  
 
