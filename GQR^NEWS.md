@@ -136,8 +136,10 @@ the developmental evolution,
 
 and the cross-series relationships of the archive.
 
+---
 
 c.8 May 2026
+
 # Programme Update — Rebranding to QGRE  
 ## Quantum Geometry: Resonance Engines  
 
@@ -175,8 +177,10 @@ This places QGRE conceptually closer to traditions associated with:
 while simplifying the increasingly complex internal acronym structure that developed historically.
 
 
+---
 
 6 May 2026
+
 # News — GQR50 v2 Released
 
 ## (GQR50) Admissibility Distance as a Resource Monotone for Dynamical Nonlocality of Quantum Channels
