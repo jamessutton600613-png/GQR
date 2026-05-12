@@ -34,7 +34,7 @@ For **CORE / FOUNDATIONAL** papers, a *Direct Precursor* is listed where a singl
 | **preGQR11** | Physical Constraints and Energy Dynamics in Cellular Systems | CORE | mechanotransduction; enzyme function; transport; cellular biophysics | preGQR5 | [10.5281/zenodo.19959552](https://doi.org/10.5281/zenodo.19959552) |
 | **preGQR12** | Exploratory Frameworks for Force Generation and Energy Propagation | THEORY | vortex dynamics; force propagation; artificial gravity; flow structure | preGQR10 | [10.5281/zenodo.19959351](https://doi.org/10.5281/zenodo.19959351) |
 | **preGQR13** | Conceptual Architectures of Energy, Information, and Constraint | CORE | architecture; energy-information constraint; cross-domain structure | preGQR8 | [10.5281/zenodo.19959161](https://doi.org/10.5281/zenodo.19959161) |
-| **preGQR14** | Origin of Life: Emergent Ordering, Proto-Catalysis, and Transport Selection | BRANCH | origin of life; dynamic catalysis; proton wires; ATP energetics; PSII; structured water; homochirality; transport-selection | preGQR11 | 10.5281/zenodo.20133465|
+| **preGQR14** | Origin of Life: Emergent Ordering, Proto-Catalysis, and Transport Selection | BRANCH | origin of life; dynamic catalysis; proton wires; ATP energetics; PSII; structured water; homochirality; transport-selection | preGQR11 | https://doi.org/10.5281/zenodo.20133465 |
 ⚠️ Note: preGQR8 contains elements (e.g. IF-DRRP model) that may post-date GQR-1 and should be chronologically verified, in time will do so.
 
 
