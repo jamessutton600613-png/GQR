@@ -85,7 +85,7 @@ For **CORE / FOUNDATIONAL** papers, a *Direct Precursor* is listed where a singl
 | GQR-38 | Invariant-Governed Mode Ordering and Extreme Wiedemann–Franz Violation in Dirac Quantum Fluids | BRANCH | QGE,AOI | GQR-37 | https://doi.org/10.5281/zenodo.18371230 |
 | GQR-39 | Ordering-Governed Transport Control Beyond Dirac Fluids | BRANCH | QGE, AOI | GQR38 | https://doi.org/10.5281/zenodo.18371389 |
 | GQR-40 | Ordered Accessibility Invariants and Non-Commutative Aggregation (Paper X) | BRANCH | QGE, AOI | GQR39 | https://doi.org/10.5281/zenodo.18392880 |
-| GQR-41 | Accessibility–Ordering Invariants and Geometry-Controlled Cumulative Transport in Dirac Fluids (Paper C) | BRANCH | QGE, AOI, Dirac, DiracEdge | GQR40 | https://doi.org/10.5281/zenodo.18466898 |
+| GQR-41 | Accessibility–Ordering Invariants and Geometry-Controlled Cumulative Transport in Dirac Fluids (Paper C) | BRANCH | QGE, AOI, Dirac, DiracEdge | GQR40 | https://doi.org/ https://doi.org/10.5281/zenodo.18418491 |
 | GQR-42 (OOL1) | Ordering-Selected Emergence of Flavin Cofactors under Enzyme-Free Environmental Cycling | CORE | Accessibility–Ordering Invariant (AOI) | GQRXVII | https://doi.org/10.5281/zenodo.18625488 |
 | GQR-43 (AFC1) | Regime-resolved bandwidth robustness in cavity-enhanced atomic frequency comb quantum memories | CORE | AFC Bandwidth Robustness; Cavity Regimes | GQR-36,37 | https://doi.org/10.5281/zenodo.18649496 |
 | GQR-44 (AFC2) | A dimensionless ridge-drift tolerance law for cavity-enhanced atomic frequency comb quantum memories | CORE | Ridge-Drift Tolerance Law; Stability Metrics | GQR43 | https://doi.org/10.5281/zenodo.18675970 |
