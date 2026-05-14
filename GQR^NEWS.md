@@ -1,6 +1,269 @@
-## News / Updates
+# News / Updates
 
-May 12 2026
+14 May 2026
+
+## Within the QGRE programme, enzymes are interpreted as nonuniform coherence architectures: heterogeneous multi-scale geometries that selectively stabilise and route transport, recurrence, catalytic admissibility, and coherence persistence across dynamically coupled molecular landscapes.
+
+# 🚨⚛️🧠 MAJOR QUANTUM INFORMATION DEVELOPMENT 🧠⚛️🚨
+
+## 🌌 Balasubramanian, S., Davydova, M., & Lin, T.-C. (2026).
+
+# A passive self-correcting quantum memory in three dimensions
+
+🏛️ California Institute of Technology (IQIM / Walter Burke Institute)
+⚛️ University of California San Diego
+🌐 Hon Hai Research Institute
+
+📄 arXiv:2605.10943 [quant-ph]
+🔗 https://arxiv.org/abs/2605.10943
+
+🚀 Claimed result:
+
+> the first rigorously constructed 3D passive self-correcting quantum memory with exponentially long finite-temperature memory lifetime.
+
+
+Shankar Subramanian, Margaret Davdova from Caltech/UCSD Physics, and Ting-Chun Lin from Tapei's Han Hei Institute, finally show the way towards one of the inspirational ideas behind our entire program, namely 3D quantum computing (OQH Peace dove see preGQR archive files), via a 3D Pauli stabilizer Hamiltonian.
+
+🧭 Why This Matters for Quantum Computing — and Why QGRE Already Traversed Similar Terrain
+
+🧠 A Major Conceptual Shift Is Emerging in Quantum Information
+
+For decades, much of quantum computing and quantum memory theory implicitly assumed that long-term coherence protection would emerge from:
+
+🌐 translational symmetry
+
+🧱 uniform lattices
+
+♾️ idealised topological order
+
+🧮 globally homogeneous architectures
+
+🧊 fixed-point phases of matter
+
+
+The new generation of self-correcting quantum memory work is beginning to move away from this assumption.
+
+The recent 3D self-correcting quantum memory construction instead relies on:
+
+🪜 recursive hierarchy
+
+🧭 local geometric admissibility
+
+🧩 structured heterogeneity
+
+🔀 nonuniform recursive embeddings
+
+🧱 geometry-dependent syndrome growth
+
+🌊 multi-scale coherence persistence
+
+🕸️ constrained propagation pathways
+
+
+This is a profound shift.
+
+It suggests that robust quantum coherence may not emerge from perfect uniformity — but rather from carefully structured nonuniformity.
+
+
+---
+
+🌌 The QGRE Programme Already Explored Similar Terrain
+
+Importantly, the QGRE programme arrived at many related ideas independently — but through entirely different physical domains and motivations.
+
+Rather than beginning from:
+
+stabilizer codes,
+
+lattice gauge theory,
+
+or topological quantum computing,
+
+
+QGRE approached related organising principles through:
+
+⚗️ enzyme catalysis
+
+🌊 interfacial water structure
+
+🧬 chirality and asymmetric transport
+
+☀️ photosystem-II / OEC transport
+
+🔁 AFC recurrence landscapes
+
+📉 collider suppression surfaces
+
+🧠 Bayesian gating frameworks
+
+🎼 spectral admissibility structures
+
+🧮 recursive geometry and persistence analysis
+
+
+The convergence is therefore conceptually remarkable.
+
+
+---
+
+🧩 Shared Organising Principles
+
+Although the physical systems differ enormously, both programmes increasingly revolve around:
+
+Emerging Principle	Quantum Memory Work	QGE/QGRE Programme
+
+🪜 Recursive hierarchy	multi-scale decoder	recursive admissibility
+🧭 Local admissibility	syndrome filtering	transport selection
+🌊 Persistence under coarse-graining	witness survival	spectral persistence
+🧱 Geometry-dependent stability	embedded complexes	geometry-first organisation
+🔀 Structured heterogeneity	broken translation invariance	nonuniform coherence
+🕸️ Constrained propagation	bounded decoding graphs	gated transport pathways
+🔁 Recurrence organisation	RG decoding recursion	AFC recurrence structures
+📈 Multi-scale protection	exponential lifetime	hierarchical persistence
+
+
+
+---
+
+⚛️ Why This Matters for Quantum Computing
+
+🧠 1. It expands the design philosophy of quantum systems
+
+The old paradigm often sought:
+
+perfect regularity,
+
+ultra-clean symmetry,
+
+translational invariance,
+
+and uniform architectures.
+
+
+The emerging paradigm increasingly suggests that:
+
+> carefully structured irregularity may be advantageous.
+
+
+
+This may influence:
+
+🧊 quantum memories
+
+🧮 fault-tolerant architectures
+
+🌐 distributed coherence systems
+
+🔗 quantum networking
+
+🪜 recursive error suppression
+
+⚙️ geometry-engineered transport systems
+
+
+
+---
+
+🌊 2. Coherence may be architectural rather than purely material
+
+QGRE repeatedly explored the idea that:
+
+> coherence persistence is not solely a property of the material itself, but of the organisation of pathways, geometry, constraints, and admissible recurrence structures.
+
+
+
+The new quantum memory work strongly resonates with this possibility.
+
+The memory lifetime emerges not merely from:
+
+“having a qubit,”
+
+
+but from:
+
+recursively structured geometry,
+
+constrained syndrome flow,
+
+and admissibility-conditioned propagation.
+
+
+
+---
+
+🔁 3. Recursive geometry may become a universal engineering tool
+
+Both programmes increasingly point toward:
+
+> recursive geometric organisation as a stabilising mechanism.
+
+
+
+This has implications not only for:
+
+quantum memory, but potentially also:
+
+⚛️ quantum simulation
+
+🧬 molecular engineering
+
+🔋 energy transport
+
+🧠 neuromorphic systems
+
+🌐 distributed information architectures
+
+🪐 adaptive physical computation systems
+
+
+
+---
+
+🧬 Enzymes as Nonuniform Coherence Architectures
+
+One particularly notable convergence is the interpretation of enzymes.
+
+Within QGRE, enzymes were increasingly treated not merely as:
+
+static catalytic objects,
+
+
+but as:
+
+> nonuniform coherence architectures: heterogeneous geometries that selectively stabilise, gate, suppress, redirect, and amplify transport and catalytic persistence across dynamically coupled molecular landscapes.
+
+
+
+The emerging quantum memory work now provides a rigorous example — in an entirely different domain — where:
+
+recursive geometry,
+
+structured heterogeneity,
+
+and constrained coherence persistence again become central.
+
+
+
+---
+
+🌉 Why This Convergence Is Interesting
+
+The significance is not that:
+
+> “the systems are identical.”
+
+
+
+They clearly are not.
+
+The significance is that:
+
+> entirely different physical disciplines may be independently rediscovering similar organising principles.
+
+
+
+
+## May 12 2026
 🟫 News / Update — preGQR-14 Released
 
 🧬⚡🌊 preGQR-14: Origin of Life — Emergent Ordering, Proto-Catalysis, and Transport Selection
