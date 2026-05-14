@@ -6,7 +6,23 @@
 
 In the following article on arxiv,   
 
-(Balasubramanian, S., Davydova, M., & Lin, T.-C. (2026). A passive self-correcting quantum memory in three dimensions. California Institute of Technology / University of California San Diego / Hon Hai Research Institute. arXiv:2605.10943 [quant-ph]. https://arxiv.org/abs/2605.10943)
+🚨⚛️🧠 MAJOR QUANTUM INFORMATION DEVELOPMENT 🧠⚛️🚨
+
+🌌 Balasubramanian, S., Davydova, M., & Lin, T.-C. (2026).
+
+A passive self-correcting quantum memory in three dimensions
+
+🏛️ California Institute of Technology (IQIM / Walter Burke Institute)
+⚛️ University of California San Diego
+🌐 Hon Hai Research Institute
+
+📄 arXiv:2605.10943 [quant-ph]
+🔗 https://arxiv.org/abs/2605.10943
+
+🚀 Claimed result:
+
+> the first rigorously constructed 3D passive self-correcting quantum memory with exponentially long finite-temperature memory lifetime.
+
 
 Shankar Subramanian, Margaret Davdova from Caltech/UCSD Physics, and Ting-Chun Lin from Tapei's Han Hei Institute, finally show the way towards one of the inspirational ideas behind our entire program, namely 3D quantum computing (OQH Peace dove see preGQR archive files), via a 3D Pauli stabilizer Hamiltonian.
 
