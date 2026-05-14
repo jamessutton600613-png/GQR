@@ -8,7 +8,7 @@ In the following article on arxiv,
 
 # 🚨⚛️🧠 MAJOR QUANTUM INFORMATION DEVELOPMENT 🧠⚛️🚨
 
-🌌 Balasubramanian, S., Davydova, M., & Lin, T.-C. (2026).
+## 🌌 Balasubramanian, S., Davydova, M., & Lin, T.-C. (2026).
 
 # A passive self-correcting quantum memory in three dimensions
 
