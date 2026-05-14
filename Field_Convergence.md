@@ -66,7 +66,7 @@ lattice gauge theory,
 or topological quantum computing,
 
 
-QGE/QGRE approached related organising principles through:
+QGRE approached related organising principles through:
 
 ⚗️ enzyme catalysis
 
@@ -152,7 +152,7 @@ This may influence:
 
 🌊 2. Coherence may be architectural rather than purely material
 
-QGE/QGRE repeatedly explored the idea that:
+QGRE repeatedly explored the idea that:
 
 > coherence persistence is not solely a property of the material itself, but of the organisation of pathways, geometry, constraints, and admissible recurrence structures.
 
@@ -209,7 +209,7 @@ quantum memory, but potentially also:
 
 One particularly notable convergence is the interpretation of enzymes.
 
-Within QGE/QGRE, enzymes were increasingly treated not merely as:
+Within QGRE, enzymes were increasingly treated not merely as:
 
 static catalytic objects,
 
