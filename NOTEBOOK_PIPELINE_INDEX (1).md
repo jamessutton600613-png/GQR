@@ -1784,236 +1784,296 @@ Working index of programme notebooks with practical metadata.
 **Notes:** [No explicit notes defined in metadata]
 **Presence:** present in directory.
 
-## 307 — [unannotated notebook]
-**File:** `Copy_of_Untitled307.ipynb`
-**Purpose:** [No explicit purpose defined in metadata]
-**Inputs:** [No explicit inputs defined in metadata]
-**Outputs:** [No explicit outputs defined in metadata]
-**Depends on:** [No explicit dependencies defined in metadata]
-**Feeds into:** [No explicit feeds-into defined in metadata]
-**Status:** [No explicit status defined in metadata]
-**Notes:** [No explicit notes defined in metadata]
-**Presence:** present in directory.
 
-## 307 — [unannotated notebook]
-**File:** `Untitled307.ipynb`
-**Purpose:** [No explicit purpose defined in metadata]
-**Inputs:** [No explicit inputs defined in metadata]
-**Outputs:** [No explicit outputs defined in metadata]
-**Depends on:** [No explicit dependencies defined in metadata]
-**Feeds into:** [No explicit feeds-into defined in metadata]
-**Status:** [No explicit status defined in metadata]
-**Notes:** [No explicit notes defined in metadata]
-**Presence:** present in directory.
+# Extended Notebook Archive Additions (Recovered / Variant / Supplemental Families)
 
-## 308 — [unannotated notebook]
-**File:** `Untitled308.ipynb`
-**Purpose:** [No explicit purpose defined in metadata]
-**Inputs:** [No explicit inputs defined in metadata]
-**Outputs:** [No explicit outputs defined in metadata]
-**Depends on:** [No explicit dependencies defined in metadata]
-**Feeds into:** [No explicit feeds-into defined in metadata]
-**Status:** [No explicit status defined in metadata]
-**Notes:** [No explicit notes defined in metadata]
-**Presence:** present in directory.
+---
 
-## 309 — [unannotated notebook]
+## 307 — Early AFC / Ladder-State / GQR47 Precursor
+**File:** `Untitled307.ipynb` (+ recovery variants)
+**Purpose:** Early AFC / ladder-state transport and admissibility notebook later connected to GQR47-class results.
+**Inputs:** Ladder transport states, recurrence structures, AOI gating concepts.
+**Outputs:** Early recurrence-selection structures, admissibility ladders, memory-transition behaviours.
+**Depends on:** AFC recurrence concepts, ladder-state transport.
+**Feeds into:** GQR47 / AFC admissibility work.
+**Status:** historically important precursor notebook
+**Notes:** Important because later manuscript articulation significantly post-dated the notebook itself.
+**Presence:** observed via `Copy_of_Untitled307.ipynb`.
+
+---
+
+## 309 — GaugeAtlas / Fracture / Geometry Branch
 **File:** `Untitled309.ipynb`
-**Purpose:** [No explicit purpose defined in metadata]
-**Inputs:** [No explicit inputs defined in metadata]
-**Outputs:** [No explicit outputs defined in metadata]
-**Depends on:** [No explicit dependencies defined in metadata]
-**Feeds into:** [No explicit feeds-into defined in metadata]
-**Status:** [No explicit status defined in metadata]
-**Notes:** [No explicit notes defined in metadata]
-**Presence:** present in directory.
+**Purpose:** Intermediate GaugeAtlas and fracture-geometry notebook.
+**Inputs:** AOI geometry structures, fracture maps, gauge-like transport observables.
+**Outputs:** GaugeAtlas structures, fracture diagnostics, geometry-controlled observables.
+**Depends on:** Early AOI geometry systems.
+**Feeds into:** GQR49 fracture and geometry-control branch.
+**Status:** transitional geometry notebook
+**Notes:** Exists alongside `Paper4_GaugeAtlas_Clean.ipynb` and `Paper4_GaugeAtlas_Fresh.ipynb`.
+**Presence:** present with preservation variants.
 
-## 310 — [unannotated notebook]
-**File:** `Untitled310.ipynb`
-**Purpose:** [No explicit purpose defined in metadata]
-**Inputs:** [No explicit inputs defined in metadata]
-**Outputs:** [No explicit outputs defined in metadata]
-**Depends on:** [No explicit dependencies defined in metadata]
-**Feeds into:** [No explicit feeds-into defined in metadata]
-**Status:** [No explicit status defined in metadata]
-**Notes:** [No explicit notes defined in metadata]
-**Presence:** present in directory.
+---
 
-## 315 — [unannotated notebook]
-**File:** `Untitled315.ipynb`
-**Purpose:** [No explicit purpose defined in metadata]
-**Inputs:** [No explicit inputs defined in metadata]
-**Outputs:** [No explicit outputs defined in metadata]
-**Depends on:** [No explicit dependencies defined in metadata]
-**Feeds into:** [No explicit feeds-into defined in metadata]
-**Status:** [No explicit status defined in metadata]
-**Notes:** [No explicit notes defined in metadata]
-**Presence:** present in directory.
+## 310 — AFC Governance / Layer-2 Controller Monte Carlo
+**File:** `[governance_analysis_data / controller notebook family]`
+**Purpose:** AFC governance-controller and admissibility optimization Monte Carlo system.
+**Inputs:** Geometry observables, coherence metrics, admissibility thresholds, controller actions.
+**Outputs:** Joint-success metrics, admissibility maps, controller optimization diagnostics, Monte Carlo governance sweeps.
+**Depends on:** AFC recurrence and admissibility structures.
+**Feeds into:** AFC governance and operational admissibility branch.
+**Status:** controller/governance experimental notebook
+**Notes:** Introduces `geom_ok`, `coh_ok`, `tau`, controller-action dynamics, and admissibility-governance logic.
+**Presence:** partially recovered via analysis summaries.
 
-## 321 — Affine Bloch Admissibility
-**File:** `[not found]`
-**Purpose:** Explore affine qubit-map admissibility.
-**Inputs:** Time-dependent affine parameters.
-**Outputs:** Cone margin maps, admissibility boundaries, predicted vs exact margin, S/G/K decomposition.
-**Depends on:** Standalone reduced model.
-**Feeds into:** 322, fracture theory.
-**Status:** exploratory-core
-**Notes:** Messier than 322, but important for intuition.
-**Presence:** not found in current directory.
+---
 
-## 322 — Schrödinger–Heisenberg Gap Model
-**File:** `[not found]`
-**Purpose:** Reduced non-commuting model for divisibility fracture.
-**Inputs:** Reduced map definitions.
-**Outputs:** Gap field Δ(s,t), boundary curves, fracture bands, ridge / ladder structure.
-**Depends on:** 321 conceptually.
-**Feeds into:** Divisibility-fracture theory, AOI / ladder unification.
-**Status:** core-theory notebook
-**Notes:** Cleanest fracture notebook.
-**Presence:** not found in current directory.
+## 315 — hBN / Keren-style Geometry Notebook
+**File:** `[Untitled315.ipynb]`
+**Purpose:** hBN geometry and Keren-style lattice/transport exploration notebook.
+**Inputs:** hBN transport geometry, AOI admissibility fields.
+**Outputs:** Structured transport geometries, lattice asymmetry studies.
+**Depends on:** hBN AOI transport branch.
+**Feeds into:** hBN/Dirac fluid admissibility work.
+**Status:** geometry-transport notebook
+**Notes:** Likely related to earlier AOI Dirac-fluid conceptual lineage.
+**Presence:** referenced in archive list.
 
-## 323 — Honeycomb AOI Transport
-**File:** `[not found]`
-**Purpose:** Graphene / honeycomb ordered transport model.
-**Inputs:** Graph construction, protocol parameters, width / frequency choices.
-**Outputs:** AOI transport observables, frequency sweeps, width dependence, folded residual structure.
-**Depends on:** AOI transport formalism.
-**Feeds into:** 324, transport paper.
-**Status:** core model-system notebook
-**Notes:** First proper physical-style AOI lattice system.
-**Presence:** not found in current directory.
+---
 
-## 324 — Dense Sweeps / Ladder Figures
-**File:** `[not found]`
-**Purpose:** Paper-building continuation of 323.
-**Inputs:** 323 model plus larger parameter sweeps.
-**Outputs:** Multi-width phase sheets, residual ladder figures, controls, paper-ready plots.
-**Depends on:** 323.
-**Feeds into:** Transport paper and supplement.
-**Status:** paper-assembly notebook
-**Notes:** Publication-facing notebook for the graphene branch.
-**Presence:** not found in current directory.
+## 321 — Cone Mapping / Bloch Sphere / Schrödinger–Heisenberg Fracture Map
+**File:** `Copy_of_Untitled321.ipynb`
+**Purpose:** Cone mappings and fracture-map correspondence notebook.
+**Inputs:** Bloch-sphere structures, Schrödinger/Heisenberg mappings, fracture geometry.
+**Outputs:** Cone/fracture correspondences, representation maps, transition geometries.
+**Depends on:** AOI fracture geometry and spectral mappings.
+**Feeds into:** fracture-map theory branch.
+**Status:** conceptual mapping notebook
+**Notes:** Explicitly linked to “Schrödinger–Heisenberg fracture map proof”.
+**Presence:** present via copy-preservation forms.
 
-## 325 — [blank / unused]
-**File:** `[not found]`
-**Purpose:** No substantive content seen so far.
-**Inputs:** -
-**Outputs:** -
-**Depends on:** -
-**Feeds into:** -
-**Status:** blank
-**Notes:** Previously identified as empty.
-**Presence:** not found in current directory.
+---
 
-## 326 — [blank / unused]
-**File:** `[not found]`
-**Purpose:** No substantive content seen so far.
-**Inputs:** -
-**Outputs:** -
-**Depends on:** -
-**Feeds into:** -
-**Status:** blank
-**Notes:** Previously identified as empty.
-**Presence:** not found in current directory.
+## 323–324 — HEX Plasma Branch
+**File:** `[HEX plasma notebook family]`
+**Purpose:** Plasma-wall / hexagonal plasma interaction notebooks.
+**Inputs:** plasma geometries, wall/channel structures.
+**Outputs:** plasma confinement geometries, wedge/reconstruction diagnostics.
+**Depends on:** HEX plasma branch.
+**Feeds into:** plasma-wall admissibility studies.
+**Status:** plasma geometry notebooks
+**Notes:** Includes related reconstruction outputs such as `hex_wedge_recon_GHIJ.png`.
+**Presence:** partially preserved.
 
-## 327 — Fusion Geometry Engine
-**File:** `[not found]`
-**Purpose:** Exact seam-topology and tiling geometry comparisons.
-**Inputs:** Tiling definitions, ROI choices, pitch settings.
-**Outputs:** Seam metrics, entropy, orientation histograms, geometry comparisons.
-**Depends on:** Standalone geometry branch.
-**Feeds into:** 329, fusion report / paper.
-**Status:** core geometry method
-**Notes:** Distinct branch, not an AOI ladder notebook.
-**Presence:** not found in current directory.
+---
 
-## 328 — Phase Sheet Analysis
-**File:** `[not found]`
-**Purpose:** Secondary analysis of phase-sheet / ridge complexity.
-**Inputs:** Outputs from graphene / sweep notebooks.
-**Outputs:** Ridge detection, contour crossings, complexity metrics.
-**Depends on:** 323–324.
-**Feeds into:** Supplementary analysis.
-**Status:** analysis notebook
-**Notes:** Bridge notebook rather than a main pipeline root.
-**Presence:** not found in current directory.
+## 328 — Smooth Dict / One-Cell Short Book
+**File:** `[smooth_dict notebook family]`
+**Purpose:** Smooth-dictionary / compressed conceptual representation notebook.
+**Inputs:** reduced AOI/QGE structures.
+**Outputs:** compressed “one-cell” conceptual summaries.
+**Depends on:** broader AOI/QGE synthesis.
+**Feeds into:** conceptual simplification branch.
+**Status:** utility/synthesis notebook
+**Notes:** Appears linked to compact explanatory architecture.
+**Presence:** referenced in archive notes.
 
-## 329 — Fusion Pipeline Production Notebook
-**File:** `[not found]`
-**Purpose:** Reproducible fusion workflow and figure export.
-**Inputs:** 327 geometry engine outputs.
-**Outputs:** Tables, figures, report assets.
-**Depends on:** 327.
-**Feeds into:** GQR-49 / fusion writeup.
-**Status:** paper / production notebook
-**Notes:** Polished continuation of 327.
-**Presence:** not found in current directory.
+---
 
-## 330 — [missing / unseen]
-**File:** `[not found]`
-**Purpose:** Notebook number not seen in current set.
-**Inputs:** -
-**Outputs:** -
-**Depends on:** -
-**Feeds into:** -
-**Status:** missing
-**Notes:** Gap between 329 and 331.
-**Presence:** not found in current directory.
+## 331 — Delta Teeth / 4Se3 Inhibitors
+**File:** `[331 notebook family]`
+**Purpose:** Structural ladder extraction and inhibitor geometry notebook.
+**Inputs:** medicinal/structural systems, ladder observables.
+**Outputs:** “delta teeth” structures, inhibitor-linked observables.
+**Depends on:** ladder extraction methods.
+**Feeds into:** chemistry/ladder branch.
+**Status:** chemistry-structure notebook
+**Notes:** Transitional notebook between geometry extraction and medicinal observables.
+**Presence:** referenced in archive list.
 
-## 331 — Data Aggregation / Panel Builder
-**File:** `[not found]`
-**Purpose:** Aggregate outputs and build figure panels.
-**Inputs:** CSV / NPZ / SVG / saved runs.
-**Outputs:** Combined panels, summary graphics, comparative layouts.
-**Depends on:** Prior saved outputs.
-**Feeds into:** 332 and paper figures.
-**Status:** utility + analysis
-**Notes:** Important for figure assembly, not a conceptual root notebook.
-**Presence:** not found in current directory.
+---
 
-## 332 — DFT Ladder Pipeline
-**File:** `[not found]`
-**Purpose:** Full electronic-structure-to-ladder extraction workflow.
-**Inputs:** Structures, PySCF runs, curvature fields, histogram definitions.
-**Outputs:** Ladder / teeth extraction, distortion sweeps, harmonic / staircase tests.
-**Depends on:** 252–273, 331.
-**Feeds into:** 333 and related papers.
-**Status:** core real-system ladder notebook
-**Notes:** Major milestone notebook.
-**Presence:** not found in current directory.
+## 332 — 6LK1 CIF / OEC Structural Import
+**File:** `[332 notebook family]`
+**Purpose:** OEC and CIF structure ingestion notebook.
+**Inputs:** CIF crystal structures, OEC geometries.
+**Outputs:** structural fields and geometry imports for downstream AOI analysis.
+**Depends on:** CIF and structure-parsing systems.
+**Feeds into:** FeS/OEC ladder extraction branch.
+**Status:** real-structure preprocessing notebook
+**Notes:** Important structural gateway notebook.
+**Presence:** referenced in archive list.
 
-## 333 — Trap Topology / CAT1
-**File:** `[not found]`
-**Purpose:** Move from histogram peaks to topological trap objects.
-**Inputs:** Curvature fields from prior Fe–S / DFT runs.
-**Outputs:** Positive / negative trap masks, connected-component counts, collapse-style observables.
-**Depends on:** 332.
-**Feeds into:** Topological observable papers / figures.
-**Status:** core observable-topology notebook
-**Notes:** Very important conceptual upgrade.
-**Presence:** not found in current directory.
+---
 
-## 334 — AOI Field / Supersolid Toy
-**File:** `[not found]`
-**Purpose:** Field-theory-style AOI pattern-forming model.
-**Inputs:** AOI field parameters, scaffold terms, nonlinear update rules.
-**Outputs:** Ordered/coherent field structures, toy supersolid-like behaviour.
-**Depends on:** AOI field concepts.
-**Feeds into:** Mechanism / theory branch.
-**Status:** mechanism notebook
-**Notes:** Explanatory rather than directly fitted to experiment.
-**Presence:** not found in current directory.
+## 333 — Fe–S Cluster Ladder Notebook
+**File:** `[333 notebook family]`
+**Purpose:** Fe–S cluster curvature and ladder extraction notebook.
+**Inputs:** Fe–S structures, curvature fields, AOI observables.
+**Outputs:** ladder structures, curvature observables, trap structures.
+**Depends on:** CIF/OEC geometry imports.
+**Feeds into:** CAT/FeS observable papers.
+**Status:** major real-system ladder notebook
+**Notes:** One of the major chemistry-to-AOI transition notebooks.
+**Presence:** referenced in archive list.
 
-## [unannotated notebook]
-**File:** `Untitled.ipynb`
-**Purpose:** [No explicit purpose defined in metadata]
-**Inputs:** [No explicit inputs defined in metadata]
-**Outputs:** [No explicit outputs defined in metadata]
-**Depends on:** [No explicit dependencies defined in metadata]
-**Feeds into:** [No explicit feeds-into defined in metadata]
-**Status:** [No explicit status defined in metadata]
-**Notes:** [No explicit notes defined in metadata]
-**Presence:** present but likely blank / unused.
+---
+
+## 334 — Laplacian Probability / FeS
+**File:** `Untitled334.ipynb`
+**Purpose:** Laplacian-probability and curvature-probability notebook.
+**Inputs:** FeS curvature and occupancy fields.
+**Outputs:** probability structures, residual fields, occupancy maps.
+**Depends on:** FeS ladder notebooks.
+**Feeds into:** AOI field and observable-topology branch.
+**Status:** curvature/probability notebook
+**Notes:** More mature and physically grounded than earlier “supersolid toy” interpretation.
+**Presence:** present via text-export variants.
+
+---
+
+## 337 — Spectral AOI / Missing Rungs / Twisted Ladder
+**File:** `[337 notebook family]`
+**Purpose:** Spectral ladder topology and missing-rung admissibility notebook.
+**Inputs:** ladder-state structures, spectral observables.
+**Outputs:** twisted ladders, missing-rung maps, spectral admissibility defects.
+**Depends on:** ladder extraction branch.
+**Feeds into:** RH ladder and admissibility topology work.
+**Status:** major spectral-topology notebook
+**Notes:** Potentially foundational for later RH and spectral-admissibility directions.
+**Presence:** referenced in archive list.
+
+---
+
+## 338 — Defect Residual vs Lambda-Star
+**File:** `[338 notebook family]`
+**Purpose:** Residual-minimization and λ* admissibility notebook.
+**Inputs:** defect structures, residual metrics.
+**Outputs:** λ* optimization structures, admissibility minima, residual-collapse maps.
+**Depends on:** spectral AOI branch.
+**Feeds into:** admissibility optimization framework.
+**Status:** optimization/criticality notebook
+**Notes:** Likely mathematically important.
+**Presence:** referenced in archive list.
+
+---
+
+## 339 — AOI Chirality / Magnetisation / Vortex-Regime Notebook
+**File:** `Untitled339.ipynb`
+**Purpose:** Core emergent chirality and circulation-selection notebook for AOI/QGE transport systems.
+**Inputs:** AOI admissibility fields, gated transport dynamics, circulation-bias terms, D/L geometry masks, source/sink manifolds.
+**Outputs:** Chirality order parameters, signed-curl magnetisation fields, vortex-biased regimes, rolling/cumulative curl observables, selection-ridge phase maps, D/L transport asymmetry diagnostics, animated magnetisation structures (“glowing bottle” dynamics).
+**Depends on:** AOI flow models, admissibility manifolds, spectral ladder intuition.
+**Feeds into:** GQR73 chirality paper, EM chirality extensions, admissibility-selection formalism.
+**Status:** major conceptual notebook family
+**Notes:** One of the central developmental notebooks of the chirality branch. Contains extensive evolution from simple AOI toy transport into stabilized vortex-biased, magnetisation-like, and molecular-geometry-informed chirality systems.
+**Presence:** present in multiple evolved forms and text-export variants.
+**Files:** `Untitled339.ipynb.txt`, `Untitled339_ipynb_txt.ipynb.txt`. 0 1
+
+---
+
+## 345 — AFC Channel-Mismatch / Diamond-Norm Bridge
+**File:** `afc_sh_ladder_bridge_notebook.ipynb`
+**Purpose:** AFC operational admissibility and channel-mismatch notebook.
+**Inputs:** AFC recurrence systems, effective channels, mismatch observables.
+**Outputs:** p_eff structures, diamond-norm diagnostics, operational admissibility bridges.
+**Depends on:** AFC recurrence branch.
+**Feeds into:** GQR72 / operational AFC interpretation.
+**Status:** operational-information notebook
+**Notes:** Strongest bridge toward operational/channel language.
+**Presence:** present in multiple forms.
+
+---
+
+## 347 — Flow Ladder Eigenvectors
+**File:** `[347 notebook family]`
+**Purpose:** Eigenvector and ladder-flow admissibility notebook.
+**Inputs:** ladder-state spectral systems.
+**Outputs:** eigenvector ladders, flow-state spectral structures.
+**Depends on:** spectral ladder branch.
+**Feeds into:** spectral admissibility and fracture maps.
+**Status:** spectral-flow notebook
+**Notes:** Strongly connected to AOI ladder topology.
+**Presence:** referenced in archive list.
+
+---
+
+## 348 — Fuzz Filter / Stokes Flow Bounds
+**File:** `[348 notebook family]`
+**Purpose:** Stokes-flow and fuzz-filter admissibility notebook.
+**Inputs:** continuum flow systems, smoothing operators.
+**Outputs:** filtered admissibility fields, Stokes-like bounds, coarse-grained structures.
+**Depends on:** AOI flow branch.
+**Feeds into:** continuum admissibility and chirality work.
+**Status:** continuum-flow notebook
+**Notes:** Bridges flow admissibility and smoothing/coarse-graining.
+**Presence:** referenced in archive list.
+
+---
+
+## 351 — Master Equations Figure Notebook
+**File:** `[351 notebook family]`
+**Purpose:** Unified master-equation and framework synthesis notebook.
+**Inputs:** AOI/QGE/GQR master relations.
+**Outputs:** synthesis figures, Rosetta-style master maps.
+**Depends on:** entire AOI/QGE framework.
+**Feeds into:** unified bridge figures and overview papers.
+**Status:** synthesis notebook
+**Notes:** Major visual unification notebook.
+**Presence:** referenced in archive list.
+
+---
+
+## 352–353 — CMS / Parton / Multiplicity Notebooks
+**File:** `GQR61_full_analysis.ipynb` and related CMS notebooks
+**Purpose:** CMS collider suppression and multiplicity notebooks.
+**Inputs:** CMS multiplicity and parton datasets.
+**Outputs:** suppression surfaces, breakpoint geometries, collider admissibility structures.
+**Depends on:** collider AOI framework.
+**Feeds into:** GQR60–63 collider papers.
+**Status:** collider-analysis notebooks
+**Notes:** Core collider branch.
+**Presence:** present.
+
+---
+
+## 354–355 — NASA Electrostatic Closure Branch
+**File:** `[NASA electrostatic notebook family]`
+**Purpose:** Electrostatic thrust and Maxwell-stress closure analysis notebooks.
+**Inputs:** electrostatic geometries, Maxwell stress observables.
+**Outputs:** closure diagnostics, asymmetry tests, AOI lag structures.
+**Depends on:** EM admissibility branch.
+**Feeds into:** NASA electrostatic propulsion critique.
+**Status:** EM closure-analysis notebooks
+**Notes:** Important AOI/EM branch.
+**Presence:** referenced in archive list.
+
+---
+
+## 356 — AFC6
+**File:** `Untitled356.ipynb`
+**Purpose:** AFC recurrence and admissibility continuation notebook.
+**Inputs:** AFC recurrence structures.
+**Outputs:** recurrence-selection maps, admissibility persistence diagnostics.
+**Depends on:** AFC5/AFC governance lineage.
+**Feeds into:** GQR72 and later AFC recurrence papers.
+**Status:** core AFC notebook
+**Notes:** Mature AFC branch continuation.
+**Presence:** present.
+
+---
+
+## 362 — Toy RH Ladder
+**File:** `[362 notebook family]`
+**Purpose:** Early RH ladder admissibility notebook.
+**Inputs:** ladder-state and spectral admissibility systems.
+**Outputs:** toy RH ladders, admissibility structures, spectral transitions.
+**Depends on:** spectral ladder branch.
+**Feeds into:** GQR71 RH admissibility programme.
+**Status:** RH precursor notebook
+**Notes:** Historically important precursor to later RH work.
+**Presence:** referenced in archive list.
+
 
 # Notebook Archive / Variant Preservation Notes
 
