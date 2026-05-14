@@ -2014,3 +2014,99 @@ Working index of programme notebooks with practical metadata.
 **Status:** [No explicit status defined in metadata]
 **Notes:** [No explicit notes defined in metadata]
 **Presence:** present but likely blank / unused.
+
+# Notebook Archive / Variant Preservation Notes
+
+## Archival Commentary
+
+Many notebooks within the QGE / GQR / AOI development archive existed in multiple developmental forms, including:
+
+- recovered
+- resumed
+- reconstructed
+- clean
+- hardened
+- fresh
+- skeleton
+- working
+- recreated
+- clone-label
+- “copy of”
+- untitled preservation variants
+
+These often captured:
+- intermediate exploratory states,
+- figure-regeneration workflows,
+- branch experiments,
+- parameter recovery sessions,
+- AI-assisted reconstruction steps,
+- emergency backups,
+- or alternate conceptual pathways.
+
+Consequently, notebook numbering should not be interpreted as a strict linear developmental sequence.
+
+Several important conceptual transitions occurred across:
+- partially redundant branches,
+- duplicated recovery notebooks,
+- renamed notebook families,
+- and preserved exploratory variants.
+
+This is particularly true for:
+- GQR49 geometry/fracture pipelines,
+- AFC governance/channel branches,
+- AOI ladder and admissibility notebooks,
+- CAT figure-reconstruction workflows,
+- and chirality / flow emergence studies.
+
+Many conceptually important notebooks therefore survive only in:
+- duplicate,
+- recovery,
+- branch,
+- or partially renamed forms.
+
+This reflects the exploratory and evolving nature of the programme rather than a polished software-package workflow.
+
+---
+
+# Additional Archive-Observed Notebook Families
+
+## GQR49 / Geometry-Control / Fracture Pipelines
+
+Observed variants include:
+
+- `gqr49_threshold_locked.ipynb`
+- `gqr49_state_of_art_threshold_locked_pitch...`
+- `gqr49_resumable_phi_sweep_...`
+- `gqr49_fast_orientation_test_pitch70.ipynb`
+- `gqr49_best_practice_plate_fixed_pattern...`
+- `gqr49_geometry_rotation_controls.ipynb`
+- `gqr49_full_working_self_contained...`
+- `gqr49_tile_elm_clean.ipynb`
+- `gqr49_schematic_masks_clean.ipynb`
+- `gqr49_schematic_masks_disk_roi.ipynb`
+- `gqr49_disk_roi_damage_motifs_domain...`
+
+### Notes
+These appear associated with:
+- fracture-map emergence,
+- threshold locking,
+- admissibility plateaus,
+- geometry rotation controls,
+- ROI masking,
+- pitch sweeps,
+- damage motifs,
+- and field/fracture reconstruction workflows.
+
+This notebook family appears significantly more extensive and mature than initially documented.
+
+---
+
+## AFC / Governance / Ladder Bridge Family
+
+Observed variants include:
+
+- `afc_sh_ladder_bridge_notebook.ipynb`
+- `afc_sh_ladder_bridge_notebook (1).txt`
+- `AFC_QGE_Workbook_v1_skeleton_...`
+- `afc6`
+- `clean_afc_regime_workbook.ipynb
