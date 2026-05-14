@@ -6,11 +6,11 @@
 
 In the following article on arxiv,   
 
-#🚨⚛️🧠 MAJOR QUANTUM INFORMATION DEVELOPMENT 🧠⚛️🚨
+# 🚨⚛️🧠 MAJOR QUANTUM INFORMATION DEVELOPMENT 🧠⚛️🚨
 
 🌌 Balasubramanian, S., Davydova, M., & Lin, T.-C. (2026).
 
-#A passive self-correcting quantum memory in three dimensions
+# A passive self-correcting quantum memory in three dimensions
 
 🏛️ California Institute of Technology (IQIM / Walter Burke Institute)
 ⚛️ University of California San Diego
