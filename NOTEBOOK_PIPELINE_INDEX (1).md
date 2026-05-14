@@ -2068,6 +2068,59 @@ This reflects the exploratory and evolving nature of the programme rather than a
 
 ---
 
+# Notebook Archive / Variant Preservation Notes
+
+## Archival Commentary
+
+Many notebooks within the QGE / GQR / AOI development archive existed in multiple developmental forms, including:
+
+- recovered
+- resumed
+- reconstructed
+- clean
+- hardened
+- fresh
+- skeleton
+- working
+- recreated
+- clone-label
+- “copy of”
+- untitled preservation variants
+
+These often captured:
+- intermediate exploratory states,
+- figure-regeneration workflows,
+- branch experiments,
+- parameter recovery sessions,
+- AI-assisted reconstruction steps,
+- emergency backups,
+- or alternate conceptual pathways.
+
+Consequently, notebook numbering should not be interpreted as a strict linear developmental sequence.
+
+Several important conceptual transitions occurred across:
+- partially redundant branches,
+- duplicated recovery notebooks,
+- renamed notebook families,
+- and preserved exploratory variants.
+
+This is particularly true for:
+- GQR49 geometry/fracture pipelines,
+- AFC governance/channel branches,
+- AOI ladder and admissibility notebooks,
+- CAT figure-reconstruction workflows,
+- and chirality / flow emergence studies.
+
+Many conceptually important notebooks therefore survive only in:
+- duplicate,
+- recovery,
+- branch,
+- or partially renamed forms.
+
+This reflects the exploratory and evolving nature of the programme rather than a polished software-package workflow.
+
+---
+
 # Additional Archive-Observed Notebook Families
 
 ## GQR49 / Geometry-Control / Fracture Pipelines
@@ -2109,4 +2162,114 @@ Observed variants include:
 - `afc_sh_ladder_bridge_notebook (1).txt`
 - `AFC_QGE_Workbook_v1_skeleton_...`
 - `afc6`
-- `clean_afc_regime_workbook.ipynb
+- `clean_afc_regime_workbook.ipynb`
+
+### Notes
+These notebooks appear linked to:
+- AFC recurrence,
+- channel mismatch,
+- ladder-state transport,
+- admissibility governance,
+- operational filtering,
+- and QGE/AFC bridge construction.
+
+Likely associated with:
+- AFC5
+- AFC6
+- GQR72
+- operational/channel admissibility work.
+
+---
+
+## GC / Governance-Control Family
+
+Observed variants include:
+
+- `GC_Master_FromUploads_v1_...`
+- `GC_Sweep_Clean_v2_1step1hour_...`
+- `GC_Sweep_CloneLabel_v3_1step1hour_...`
+
+### Notes
+These appear associated with:
+- governance-control toy systems,
+- admissibility sweeps,
+- persistence filtering,
+- clone/selection dynamics,
+- and trajectory-governance experiments.
+
+---
+
+## Floquet / Reconstruction / GaugeAtlas Family
+
+Observed variants include:
+
+- `floquet_aoi_paper_recreate_notebook.ipynb`
+- `Paper4_GaugeAtlas_Clean.ipynb`
+- `Paper4_GaugeAtlas_Fresh.ipynb`
+- `Copy_of_Paper4_GaugeAtlas_Fresh.ipynb`
+
+### Notes
+These appear linked to:
+- AOI/Floquet reconstruction,
+- gauge/fracture geometry,
+- figure rebuilding,
+- and paper-regeneration workflows.
+
+---
+
+## CAT Reconstruction / Figure Workflows
+
+Observed variants include:
+
+- `CAT1_Fe2_rebuild_article_figures.ipynb`
+- `ladder_si_figure_packet.ipynb`
+
+### Notes
+These notebooks appear related to:
+- supplementary figure reconstruction,
+- Fe–S ladder extraction,
+- and article rebuild pipelines.
+
+---
+
+## Recovery / Preservation Variants
+
+Observed forms include:
+
+- `Copy_of_Untitled252.ipynb`
+- `Another_copy_of_Untitled252.ipynb`
+- `Copy_of_Untitled307.ipynb`
+- `Copy_of_Untitled309.ipynb`
+- `Copy_of_Untitled321.ipynb`
+- `Copy_of_Untitled323.ipynb`
+
+### Notes
+These preservation copies likely captured:
+- intermediate parameter states,
+- partial recoveries,
+- alternate branch experiments,
+- or emergency preservation snapshots.
+
+They should not automatically be treated as redundant.
+
+---
+
+# General Historical Interpretation
+
+The archive increasingly suggests the programme evolved through:
+- iterative exploratory modelling,
+- branching conceptual development,
+- recovery-based continuation,
+- figure-regeneration workflows,
+- and parallel notebook ecosystems.
+
+Rather than a single linear pipeline, the archive more closely resembles:
+- an evolving research lattice,
+- with recurrent convergence around:
+  - admissibility,
+  - ladder topology,
+  - recurrence,
+  - chirality,
+  - governance,
+  - fracture geometry,
+  - and constrained observability.
