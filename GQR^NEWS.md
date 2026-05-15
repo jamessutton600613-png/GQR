@@ -1,5 +1,40 @@
 # News / Updates
 
+🌀 Version 3 Major Expansion
+
+⚛️ This release substantially extends the original manuscript through the addition of a large companion Supplementary Information (SI) framework documenting the broader admissibility transport architecture, computational lineage, transport-formalism development, and extended organisational diagnostics underlying the present work.
+
+📚 New SI additions include:
+
+AOI/QGE → admissibility transport evolution
+
+Maxwell-compatible transport formalism development
+
+extended computational transport framework
+
+continuity-type transport equations
+
+helicity, circulation, and boundary-flux diagnostics
+
+ridge-manifold and transport-topology interpretation
+
+recursive transport organisation and constrained observability
+
+CISS, bioelectronic, Floquet-like, and QPI contextual links
+
+extended D/L/racemate transport diagnostics
+
+transport persistence and parameter-space analysis
+
+future mathematical and geometric-flow directions
+
+interpretive limitations and operational cautions
+
+reproducibility and computational lineage notes
+
+
+📈 The admissibility transport framework now includes a substantially expanded operational, historical, and organisational context supporting the circulation-conditioned transport formalism introduced in the main manuscript.
+
 15 May 2026
 🌀 GQR73 major upversion
 
