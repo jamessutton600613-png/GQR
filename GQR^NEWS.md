@@ -35,8 +35,10 @@ reproducibility and computational lineage notes
 
 📈 The admissibility transport framework now includes a substantially expanded operational, historical, and organisational context supporting the circulation-conditioned transport formalism introduced in the main manuscript.
 
+
 15 May 2026
-🌀 GQR73 major upversion
+
+🌀 GQR73 major upversion (v2)
 
 Previously:
 “Emergent Chirality from Constrained Observables in Geometry-Driven Transport Fields”
