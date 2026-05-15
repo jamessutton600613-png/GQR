@@ -1,5 +1,26 @@
 # News / Updates
 
+15 May 2026
+🌀 GQR73 major upversion
+
+Previously:
+“Emergent Chirality from Constrained Observables in Geometry-Driven Transport Fields”
+
+Now expanded and retitled:
+“Emergent Chirality in Geometry-Driven Admissibility Transport Fields”
+
+⚛️ This version substantially extends the original constrained-observables framework through:
+• emergent admissibility transport formalism
+• circulation/helicity observables
+• Maxwell-compatible transport structure
+• vortex-selection ridge analysis
+• D/L/racemate transport organisation
+• persistence and bias-response dynamics
+
+📈 Figures, Results, Discussion, Introduction, and computational transport formalism substantially revised and expanded.
+
+
+
 14 May 2026
 
 # 🚨⚛️🧠 MAJOR QUANTUM INFORMATION DEVELOPMENT 🧠⚛️🚨
