@@ -1,6 +1,6 @@
 # News / Updates
 
-🌀 Version 3 Major Expansion
+🌀 Version GQR73v3 Major Expansion (SI added)
 
 ⚛️ This release substantially extends the original manuscript through the addition of a large companion Supplementary Information (SI) framework documenting the broader admissibility transport architecture, computational lineage, transport-formalism development, and extended organisational diagnostics underlying the present work.
 
