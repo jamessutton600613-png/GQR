@@ -1,5 +1,50 @@
 # News / Updates
 
+🌀 NEWS FLASH — GQR75 & GQR76 COMPLETE 🌀
+
+Two new framework papers are now live:
+
+🪜 GQR75 — Recursive Closure Persistence and Ordered Accessibility in Constrained Dynamical Systems
+
+🌊 GQR76 — Recursive Accessibility Flow and Transport Persistence Across Constrained Dynamical Systems
+
+The resulting framework now connects:
+
+🧭 admissibility selection
+🪞 folded manifold geometry
+🔀 ordering ambiguity
+🌊 recursive transport persistence
+🌀 recurrence structure
+📜 hysteresis and path dependence
+🧩 branch selection and closure defects
+
+Recent historical and conceptual reflections have also revealed unexpectedly deep links between:
+
+🎨 M. C. Escher
+🧩 Penrose impossible geometry
+🌀 Berry phase
+🧠 Hofstadter recursion
+📐 logarithmic conformal embedding
+🌌 recursive geometric accessibility
+
+Particularly striking was the realization that:
+🖼️ Print Gallery (1956)
+predates the formal Penrose staircase construction (1958), implying that Escher had already independently developed highly sophisticated recursive self-embedding geometry before the famous impossible staircase formalism emerged.
+
+The emerging interpretation increasingly suggests:
+
+🌀 recurrence defines the manifold
+🧭 geometry selects the admissible
+📜 history stabilises the realised
+
+Further geometric notes, acknowledgements, manifold interpretations, and admissibility-history commentary are now being integrated into the evolving programme documentation.
+
+#QGE #GQR #AOI #RecursiveGeometry #Escher #Penrose #BerryPhase #FoldedManifolds #ComplexSystems #QuantumGeometry
+
+---
+
+
+
 🌀 Version GQR73v3 Major Expansion (SI added)
 
 ⚛️ This release substantially extends the original manuscript through the addition of a large companion Supplementary Information (SI) framework documenting the broader admissibility transport architecture, computational lineage, transport-formalism development, and extended organisational diagnostics underlying the present work.
