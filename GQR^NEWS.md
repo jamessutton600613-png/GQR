@@ -1,5 +1,138 @@
 # News / Updates
 
+🌀📐🧠 NEWS & VIEWS — GQR77–80 RELEASE ARC 🧠📐🌀
+
+23 May 2026
+
+This week saw the coordinated release of four linked exploratory studies within the developing QGRE / GQR programme spanning:
+📊 applied mathematics,
+🧠 complex systems,
+🕸️ graph topology,
+📈 data science,
+🧬 biological organization,
+⚡ transport ecology,
+and 🌀 nonlinear recurrence dynamics.
+
+Together, the releases investigate how surprisingly rich organizational structure may emerge within constrained recurrence systems — particularly where observable graph geometry appears substantially simpler than the underlying transient manifold ecology from which it emerges.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔹 GQR77
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📘 “Admissibility-Weighted Recurrence and Emergent Survivor Graph Topology”
+https://doi.org/10.5281/zenodo.20277592
+
+GQR77 introduced the idea that evolving recurrence systems may condense into sparse “survivor topologies” despite substantially richer transient routing behavior during earlier organizational phases.
+
+The work explored:
+• admissibility-weighted recurrence,
+• survivor graph topology,
+• persistent corridor selection,
+• sparse transport structure,
+• and recursive accessibility organization.
+
+Importantly, GQR77 already began hinting at constrained localized organizational motifs and sparse transfer corridors later associated with rare pentagonal closure behavior.
+
+🕸️📉🧭
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔹 GQR78
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📘 “Adaptive Coherence Landscapes and Logic-Vortex Ecology in Admissibility-Weighted Transport Systems”
+https://doi.org/10.5281/zenodo.20290559
+
+GQR78 expanded the framework toward dynamically evolving “coherence ecologies” capable of:
+• localized reinforcement,
+• metastable routing behavior,
+• distributed memory effects,
+• logic-vortex organization,
+• and adaptive transport stabilization.
+
+The work moved substantially closer toward the later pentagonal recurrence studies by exploring how metastable routing ecologies could generate highly localized persistent organizational motifs embedded within broader evolving transport landscapes.
+
+In retrospect, many of the recurrence-arbitration ideas later formalized statistically in GQR80 were already beginning to emerge here computationally.
+
+🌀⚡🧠
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔹 GQR79
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📘 “Hidden Admissibility Structure and the Compression of Observable Geometry”
+https://doi.org/10.5281/zenodo.20355662
+
+Stimulated partly by reflection on the recent AI-assisted resolution of the planar unit-distance problem, GQR79 examined how apparently simple observable geometry may emerge from substantially richer hidden organizational constraints.
+
+The paper discussed:
+• topology compression,
+• projection loss,
+• hidden admissibility organization,
+• survivor extraction,
+• and constrained organizational navigation.
+
+Rather than claiming direct equivalence, the note argued that apparently elementary low-dimensional observable systems may conceal substantially richer hidden organizational structure beneath compressed geometric projections.
+
+📐🧩📉
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔹 GQR80
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📘 “Rare 5-Cycle Transfer Defects in Constrained Planar Recurrence Ecologies”
+https://doi.org/10.5281/zenodo.20358853
+
+GQR80 introduced large-scale recurrence-manifold ensemble simulations (~5000 deterministic pseudo-random realizations) investigating:
+• graph-topological closure ecologies,
+• topology rails,
+• metastable routing arbitration,
+• transient-versus-survivor topology,
+• and localized 5-cycle transfer-defect motifs.
+
+Across the ensemble, the recurrence ecology repeatedly exhibited:
+• overwhelming 3/4-cycle dominance,
+• strong 5-cycle suppression,
+• singleton defect localization,
+• delayed metastable nucleation,
+• and constrained manifold-family organization.
+
+The work combines:
+📊 computational statistics,
+🕸️ graph theory,
+📈 clustering/PCA,
+🧠 nonlinear systems,
+⚡ transport topology,
+and 🌀 recurrence ecology.
+
+Importantly, GQR80 now formalizes statistically and visually many of the constrained motif behaviors that were only beginning to appear qualitatively within GQR77–78.
+
+🕸️⚙️📊
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌀 OVERALL PROGRAMME DIRECTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Taken together, GQR77–80 increasingly form a connected exploratory arc investigating:
+
+• admissibility-weighted recurrence,
+• survivor graph topology,
+• adaptive coherence ecologies,
+• topology compression,
+• metastable routing arbitration,
+• transient-versus-survivor organization,
+• and constrained manifold dynamics.
+
+The programme remains exploratory and computational rather than theorem-complete. However, reproducible recurrence ecologies, constrained localization structure, metastable routing behavior, and persistent survivor-topology organization are now emerging robustly across independent ensemble realizations.
+
+The broader aim is not simply to study isolated graph motifs, but to explore how:
+🧭 observable organizational structure may emerge from richer hidden recurrence ecologies governed by constraint, persistence, routing competition, and admissibility filtering.
+
+🧠📐🌀📊⚡🕸️🧬
+
+---
+
+
+
 🌀 NEWS FLASH — GQR75 & GQR76 COMPLETE 🌀
 
 Two new framework papers are now live:
