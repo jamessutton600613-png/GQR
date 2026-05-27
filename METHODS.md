@@ -99,9 +99,22 @@ survivor organisation
 ----
 
 
-# 🌱 Phase I — Birth
+# 🌱 PHASE I — Birth
 
-Core Emergence
+GQR1–11
+
+Circuit–Hamiltonian emergence
+
+Shield Law seeds
+
+Catalytic tunnelling
+
+PCET / geometry-gated chemistry
+
+
+---
+
+🌱 Core Emergence
 
 Geometry-gated transport
 
@@ -124,7 +137,6 @@ PSII/OEC coherent transport
 Isotopic and chalcogenic resonance bifurcation
 
 Self-organizing catalytic reaction networks
-
 
 🔬 Primary Methodology
 
@@ -149,7 +161,6 @@ Resonance-band extraction
 FFT frequency decomposition
 
 Structured catalytic geometry inference
-
 
 ⚙️ Secondary Methodology
 
@@ -180,7 +191,6 @@ Resonance-comb analysis
 Bayesian posterior envelope construction
 
 Quantum–critical bifurcation fitting
-
 
 📐 Mathematics / Physics
 
@@ -228,7 +238,6 @@ Duffing-like nonlinear resonators
 
 Open-system decoherence theory
 
-
 🧪 Key Engineering / Scientific Influences
 
 Rahul Sarpeshkar circuit abstraction
@@ -254,7 +263,6 @@ SPICE circuit logic
 Two-dimensional IR spectroscopy
 
 Open quantum systems engineering
-
 
 💻 Computational Stack
 
@@ -286,31 +294,98 @@ Tunnel-rate envelope fitting
 
 Colab-based simulation workflows
 
-
 📚 Principal Papers
 
-GQR1 — Bayesian Circuit–Hamiltonian Framework 
+GQR1 — Bayesian Circuit–Hamiltonian Framework
 
-GQR2 — Funnel–Field Synergy 
+GQR2 — Funnel–Field Synergy
 
-GQR3 — Aperture–Lens Grammar 
+GQR3 — Aperture–Lens Grammar
 
-GQR4 — Quantum Shield Law 
+GQR4 — Quantum Shield Law
 
-GQR5 — Logic Vortex and Shield Environs 
+GQR5 — Logic Vortex and Shield Environs
 
-GQR6 — Unified Resonance Anomalies 
+GQR6 — Unified Resonance Anomalies
 
-GQR7 — Tunnelling Rates and Flux Dynamics 
+GQR7 — Tunnelling Rates and Flux Dynamics
 
-GQR8 — Coherent Gating in PSII/OEC 
+GQR8 — Coherent Gating in PSII/OEC
 
-GQR9 — Quantum–Gate Bifurcation at 8F4I 
+GQR9 — Quantum–Gate Bifurcation at 8F4I
 
-GQR10 — Quantum Loom of Life 
+GQR10 — Quantum Loom of Life
 
-GQR11 — Self-Organizing Catalytic Reaction Networks 
+GQR11 — Self-Organizing Catalytic Reaction Networks
 
+🧩 Representative Systems
+
+PSII/OEC catalytic centres
+
+Hydration-gated proton transport systems
+
+Quantum-critical catalytic manifolds
+
+Field-conditioned tunnelling architectures
+
+Geometry-gated resonance systems
+
+Chiral spin-selective transport media
+
+Coherence-managed catalytic funnels
+
+Open quantum transport systems
+
+Structured vibronic transfer networks
+
+Resonance-conditioned reaction ecologies
+
+Quantum-gated biochemical systems
+
+Non-equilibrium catalytic transport architectures
+
+🌍 Relevance / Position in Programme
+
+Phase I establishes the foundational grammar of the QGRE programme:
+
+geometry as a transport constraint,
+
+coherence as a managed resource,
+
+and catalysis as gated resonance rather than purely thermal activation.
+
+
+This phase introduces:
+
+the Shield Law,
+
+circuit–Hamiltonian abstraction,
+
+resonance gating,
+
+and the first coherent transport interpretations of PSII/OEC systems.
+
+
+The programme at this stage remains:
+
+molecular,
+
+catalytic,
+
+and resonance-centred,
+
+
+before later expansion into:
+
+curvature geometry,
+
+transport ordering,
+
+recurrence,
+
+admissibility,
+
+and sparse survivor topology.
 
 -----------
 
