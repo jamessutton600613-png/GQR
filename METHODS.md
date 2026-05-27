@@ -1107,6 +1107,8 @@ The programme at this stage remains:
  * Master-ladder synthesis pipelines
  * Colab-based QGE/QGRE workflows
 **📚 Principal Papers**
+
+ * **GQR81** — Unified Persistence Selection and Hydrodynamic Closure in Dissipative Recurrence Systems__
  * **GQR36** — Time-Ordered Accessibility as a Constraint on Transport
  * **GQR37** — Invariant-Governed Quantum Geometry Engines: Ordering, Transport Decoupling, and the Limits of Zero-Dimensional Dynamics
  * **GQR38** — Invariant-Governed Mode Ordering and Extreme Wiedemann–Franz Violation in Dirac Quantum Fluids
@@ -1117,8 +1119,7 @@ The programme at this stage remains:
  * **GQR60–63** — Collider Suppression Geometry and Emergent Transport Topology
  * **GQR65** — A Unified Selection Principle Across Statistical, Dynamical, and Field-Theoretic Systems
  * **GQR71** — Spectral Admissibility and Emergent Mode Separation in the Prediction of Zeta-Zero Ordinates
- * **GQR77–80** — Survivor Topology, Persistence Compression, Rail Structures, and Sparse Ecological Condensation
- * **GQR81** — Unified Persistence Selection and Hydrodynamic Closure in Dissipative Recurrence Systems
+ * **GQR75–80** — Survivor Topology, Persistence Compression, Rail Structures, and Sparse Ecological Condensation_
 **🧩 Representative Systems**
  * AFC recurrence memory systems
  * Hydrodynamic squirmer ecologies
