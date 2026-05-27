@@ -16,7 +16,7 @@ GQR12–24
 
 Curvature–information physics
 SU(3)_coh
-twistors / curvature thermodynamics
+curvature thermodynamics
 coherence manifolds
 field geometry
 
@@ -61,11 +61,10 @@ selection structure
 persistence filtering
 identity-preserving recurrence
 
-This is the true:
+**
+"memory does not equal persistence"
+**
 
-memory is not persistence
-
-phase.
 ---
 
 # 🌐 PHASE VI — Landscapes
