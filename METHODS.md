@@ -62,9 +62,8 @@ selection structure
 persistence filtering
 identity-preserving recurrence
 
-**
-"memory does not equal persistence"
-**
+## "memory does not equal persistence"
+
 
 ---
 
