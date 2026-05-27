@@ -1,65 +1,390 @@
-### Quantum Resonators in Biology
+Quantum Resonators in Biology
 
-[Programme Index](./Programme_Index.md)
+Programme Index
 
-#### Structural delay in drug-discovery abstraction
-
-The GQR programme is motivated in part by the observation that certain classes of geometry-gated and ultrafast dynamical mechanisms were slow to consolidate into mainstream modelling and drug-discovery practice. This was not due to coordinated suppression, but to structural factors: influential decoherence arguments encouraged narrow interpretations of biologically relevant quantum effects, while institutional and industrial incentives favoured approaches that scaled immediately within established pipelines. As a result, reaction-path control and geometry-first transition mechanisms remained fragmented across disciplines. In hindsight, this likely delayed their systematic exploitation by approximately 10–20 years.
-
-### Context
-
-Several components of the GQR framework originated from work that did not conform to the scope expectations of conventional specialist physics journals. In multiple cases, submissions were assessed as outside journal remit rather than incorrect in substance. This experience reflects a broader structural limitation of siloed publication models when evaluating geometry-first, cross-disciplinary approaches, and motivates the use of open, scope-flexible review venues for the present programme.
-
-This programme therefore proceeds on the assumption that scientific validity and journal scope are distinct questions, and treats open evaluation as a feature rather than a compromise.
-
-### A note for interdisciplinary readers
-
-Readers familiar with debates around “quantum biology” may reasonably wonder whether this work invokes controversial claims about long-range coherence, macroscopic superposition, or nonstandard physics. It does not.
-
-All physical assumptions in the GQR framework remain within standard quantum chemistry and open quantum systems theory. The framework introduces no new physical postulates, observables, or departures from established quantum mechanics. It does not rely on sustained coherence in warm biological environments, nor on quantum effects persisting beyond accepted decoherence timescales.
-
-Instead, GQR concerns **ultrafast, local, geometry-gated quantum transitions** whose outcomes are fixed on timescales shorter than environmental decoherence. In this sense, quantum effects enter as transient selection mechanisms rather than as long-lived states.
-
-Where higher-dimensional or unconventional Hamiltonian representations appear, these reflect modelling choices arising from geometric constraint, multi-centre coupling, or coarse-grained subspace projection, all of which are standard practices in quantum chemistry and condensed-matter modelling.
-
-Readers may therefore interpret the framework as a geometry-first reorganisation of familiar quantum principles, rather than as a proposal of exotic or speculative physics.
-
----
-## Encouraging Results (Provisional)
-
-Encouraging results have been obtained from applying the GQR framework to **high-resolution crystal structures** across several well-characterised systems, including:
-
-- The oxygen-evolving complex (OEC) of photosystem II  
-- Enzymes containing Fe–S clusters  
-- YBCO (YBa₂Cu₃O₇₋ₓ) superconducting materials  
-- Dirac quantum fluids (e.g. graphene), where ordering-governed accessibility enables modelling of extreme transport anomalies  
-
-In each case, analysis focuses on **experimentally resolved geometries** (or, in the case of Dirac fluids, experimentally characterised connectivity and mode structure) and their role in constraining *quantum-allowed transitions* during bond formation, electron transfer, or coupled multi-centre dynamics.
-
-These results are derived from **established structural data and experimental characterisation** together with **standard quantum-chemical or transport formalisms**, with GQR providing a **geometry- or ordering-conditioned representation** of the accessible transition space. No assumptions of long-lived coherence or nonstandard quantum effects are required.
-
-The reported findings should be regarded as **provisional** and are currently undergoing **peer review**. Further validation, independent replication, and critical assessment will determine their scope and limitations.
----
-
-## Repository Purpose
-
-This repository serves solely as a **navigation and orientation hub** for a multi-manuscript research programme.
-
-Authoritative, citable records are maintained on **ChemRxiv** and **Zenodo**.  
-For citation and long-term reference, please use the DOI-linked records.
 
 ---
 
-## How to Read the GQR Programme
+Geometry-Conditioned Transport and Cross-Disciplinary Modelling
 
-This is a **live research programme** under active development. Readers are **not expected to read everything**.
+The GQR / QGRE programme explores whether several apparently distinct transport phenomena across biology, chemistry, condensed matter, hydrodynamics, and open quantum systems may admit partially unified organisational interpretations under geometry-first and recurrence-conditioned modelling frameworks.
 
-- 🧠 **Conceptual intuition and analogies** provide programme-level framing  
-- ⚙️ **Methods** describe geometry-gated molecular and quantum dynamics  
-- 🧩 **Kernel documents** outline the geometry-first, model-agnostic architecture  
+The programme originated from long-standing interests in:
 
-Readers concerned only with validation of a specific result should consult the relevant manuscript directly.
+catalytic transport,
+
+adaptive biological systems,
+
+proton-coupled electron transfer,
+
+geometry-conditioned accessibility,
+
+recurrence dynamics,
+
+and constrained transport persistence.
+
+
+A recurring observation motivating the work is that many transport phenomena develop at the boundary between disciplines:
+
+physics,
+
+chemistry,
+
+biology,
+
+materials science,
+
+hydrodynamics,
+
+information theory,
+
+and complex systems.
+
+
+As a result, several potentially related ideas concerning:
+
+ultrafast local transition structure,
+
+environmental transport filtering,
+
+transient coherence-assisted selection,
+
+recurrence-conditioned transport,
+
+and geometry-governed accessibility
+
+
+often evolved separately across different specialist communities using different technical languages and modelling assumptions.
+
+The present programme investigates whether some of these behaviours may be interpretable within a broader geometry-/transport-oriented organisational framework while remaining fully compatible with standard quantum chemistry, open quantum systems theory, statistical mechanics, hydrodynamics, and condensed-matter modelling.
+
 
 ---
 
-## Field Convergence and Context (Living List)  [Field_Convergence](./Field_Convergence.md)
+Context
+
+Several components of the GQR framework originated from work that did not conform naturally to the scope expectations of conventional specialist journals. In many cases, submissions were assessed primarily as cross-disciplinary or outside journal remit rather than technically incorrect in substance.
+
+This experience highlighted the difficulty of evaluating geometry-first and transport-level synthesis work within highly specialised publication structures, particularly where concepts span:
+
+biological transport,
+
+quantum chemistry,
+
+active matter,
+
+hydrodynamics,
+
+topology,
+
+and recurrence systems simultaneously.
+
+
+The programme therefore makes extensive use of:
+
+open-access publication,
+
+scope-flexible repositories,
+
+iterative synthesis papers,
+
+and transparent DOI-linked archiving.
+
+
+Scientific scope, disciplinary fit, and long-term validity are treated here as partially independent questions.
+
+
+---
+
+A Note for Interdisciplinary Readers
+
+Readers familiar with debates around “quantum biology” may reasonably wonder whether this work invokes:
+
+macroscopic quantum coherence,
+
+nonstandard quantum mechanics,
+
+exotic long-range entanglement claims,
+
+or departures from accepted decoherence physics.
+
+
+It does not.
+
+All physical assumptions within the GQR framework remain within:
+
+standard quantum chemistry,
+
+open quantum systems theory,
+
+condensed-matter transport modelling,
+
+hydrodynamics,
+
+and statistical physics.
+
+
+The framework introduces:
+
+no new particles,
+
+no new forces,
+
+no nonstandard observables,
+
+and no departures from established quantum mechanics.
+
+
+Instead, the programme focuses primarily on:
+
+ultrafast, local, geometry-conditioned transport selection
+
+in which:
+
+geometry,
+
+recurrence,
+
+damping,
+
+accessibility,
+
+and environmental interaction
+
+
+shape which transport pathways remain dynamically survivable under noisy conditions.
+
+Quantum effects therefore enter primarily as:
+
+transient transport-selection mechanisms,
+
+recurrence-conditioned filtering processes,
+
+or structured accessibility constraints,
+
+
+rather than as indefinitely preserved coherent states.
+
+Where higher-dimensional Hamiltonians, topology-conditioned recurrence systems, or unconventional transport geometries appear, these arise from:
+
+coarse-grained projection,
+
+multi-centre coupling,
+
+constrained traversal structure,
+
+hydrodynamic closure,
+
+or reduced transport grammars,
+
+
+all of which are standard modelling strategies within modern theoretical physics and chemistry.
+
+Readers may therefore interpret the programme as:
+
+a geometry-first organisational re-framing
+of familiar transport and recurrence principles,
+rather than a proposal of exotic physics.
+
+
+---
+
+Encouraging Results (Provisional)
+
+Encouraging results have been obtained from applying geometry-/transport-conditioned modelling approaches to several experimentally characterised systems, including:
+
+the oxygen-evolving complex (OEC) of photosystem II
+
+Fe–S cluster enzymes
+
+proton-coupled electron transfer systems
+
+YBCO (YBa₂Cu₃O₇₋ₓ) superconducting architectures
+
+Dirac quantum fluids and extreme transport anomalies
+
+AFC quantum memory recurrence systems
+
+hydrodynamic transport ecologies and squirmer systems
+
+recurrence-topology survivor manifolds
+
+collider suppression and covariance landscapes
+
+
+In each case, analysis focuses on:
+
+experimentally resolved geometry,
+
+transport accessibility,
+
+recurrence structure,
+
+ordering sensitivity,
+
+environmental filtering,
+
+and constrained transition dynamics.
+
+
+All results are derived using:
+
+established structural data,
+
+experimental measurements,
+
+standard transport theory,
+
+or accepted quantum-chemical / condensed-matter formalisms,
+
+
+with the GQR framework acting primarily as a:
+
+geometry- and persistence-conditioned organisational layer.
+
+No assumptions of long-lived macroscopic coherence or nonstandard quantum effects are required.
+
+All findings should presently be regarded as:
+
+exploratory,
+
+provisional,
+
+and under continuing refinement and critical evaluation.
+
+
+Further:
+
+peer review,
+
+independent replication,
+
+mathematical formalisation,
+
+and experimental testing
+
+
+will determine their eventual scope and limitations.
+
+
+---
+
+Repository Purpose
+
+This repository serves primarily as:
+
+a navigation hub,
+
+programme map,
+
+synthesis layer,
+
+and orientation structure
+
+
+for a large interconnected multi-manuscript research programme.
+
+Authoritative citable records are maintained through:
+
+ChemRxiv
+
+Zenodo
+
+
+using DOI-linked archival publication.
+
+For citation and long-term reference, readers should preferentially use the DOI-linked records.
+
+
+---
+
+How to Read the GQR Programme
+
+This is a live interdisciplinary research programme under active development.
+
+Readers are not expected to read everything.
+
+Different parts of the programme operate at different levels:
+
+🧠 Conceptual / synthesis papers
+organisational framing and transport-level intuition
+
+⚙️ Methods papers
+modelling frameworks, recurrence systems, admissibility dynamics, transport architectures
+
+🧩 Kernel papers
+geometry-first transport structure and persistence-selection formalisms
+
+🌊 Hydrodynamic and biological transport papers
+recurrence-conditioned transport persistence in open dissipative systems
+
+⚛️ Quantum transport and AFC papers
+recurrence filtering, admissibility selection, sparse survivor manifolds
+
+📉 Topology and compression papers
+survivor rails, recurrence ecologies, topology compression, transport arbitration
+
+
+Readers concerned with validation of a particular result are encouraged to consult the relevant manuscript directly rather than attempting to traverse the entire programme sequentially.
+
+
+---
+
+Programme Direction
+
+More recent parts of the programme increasingly focus on:
+
+selective persistence,
+
+hydrodynamic closure,
+
+recurrence-conditioned transport,
+
+sparse survivor topology,
+
+admissibility filtering,
+
+and topology compression
+
+
+across:
+
+biological transport,
+
+active matter,
+
+open quantum systems,
+
+recurrence architectures,
+
+and constrained dynamical ecologies.
+
+
+A major recent synthesis milestone is:
+
+🌊🔁⚛️
+Hydrodynamic Closure, Selective Persistence, and Recurrence Topology in Biological and AFC Transport Systems
+
+which attempts to unify:
+
+AFC recurrence systems,
+
+photosynthetic transport,
+
+cochlear resonance sharpening,
+
+hydrodynamic squirmer persistence,
+
+and recurrence-topology survivor ecologies
+
+
+within a common transport-selection grammar governed by:
+
+selective persistence under dissipative recurrence.
+
+
+---
+
+Field Convergence and Context
+
+Field_Convergence
