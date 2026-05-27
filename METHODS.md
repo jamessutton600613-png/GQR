@@ -42,7 +42,7 @@ Dirac transport emergence
 
 # 🧭 PHASE IV — AOI
 
-GQR36–41 (overlapping into later papers)
+GQR36–41
 
 Accessibility–Ordering Invariant
 noncommutative transport
@@ -65,7 +65,7 @@ selection structure
 persistence filtering
 identity-preserving recurrence
 
-## "memory does not equal persistence"
+## "memory does not equal persistence" ##
 
 
 ---
