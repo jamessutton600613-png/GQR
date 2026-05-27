@@ -1849,12 +1849,30 @@ Long-run history pipelines
 
 Colab-based QGE topology workflows
 
-📚 Principal Papers   
+**📚 Principal Structural Papers**
 
-GQR81 — Emergent Sparse Geometry and Selection-Law Structure in Accessibility-Conditioned Topological Systems
+GQR73 — Admissibility, Recurrence, and Persistent Dynamical Order
 
-🧩 Representative Systems
+GQR74 — Recursive Closure Persistence and Ordered Accessibility
 
+GQR75 — Recursive Accessibility Flow and Transport Persistence
+
+GQR76 — Admissibility-Weighted Recurrence and Emergent Survivor Graph Topology
+
+GQR77 — Survivor Topology and Persistence-Weighted Selection
+
+GQR78 — Persistent Homology Compression and Emergent Sparse Condensates
+
+GQR79 — Rail Structures and Constraint-Governed Topological Persistence
+
+GQR80 — Emergent Sparse Geometry and Selection-Law Structure
+
+
+recurrence persistence → accessibility flow → survivor topology → persistent homology compression → rail ecology → sparse admissible geometry
+the architectural flow of Phase VI.
+
+**🧩 Representative Systems
+**
 Sparse survivor-topology ecologies
 
 Persistent homology manifolds
