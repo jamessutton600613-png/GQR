@@ -16,10 +16,11 @@ GQR12–24
 
 Curvature–information physics
 SU(3)_coh
-curvature thermodynamics
+twistor/ curvature thermodynamics
 coherence manifolds
 field geometry
 
+NB....Twistor geometry _was_ explored as an early curvature-language scaffold, but **is not** part of the mature operational transport framework.
 
 ---
 
