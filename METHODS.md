@@ -1,3 +1,6 @@
+## QGRE - 7 phases.  In brief.  In detail.  and relevance to MD at the end.  
+
+
 # 🧪 PHASE I — Birth
 
 GQR1–11
