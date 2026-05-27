@@ -23,7 +23,7 @@ twistor/ curvature thermodynamics
 coherence manifolds
 field geometry
 
-# NB....Twistor geometry _was_ explored as an early curvature-language scaffold, but *is not* part of the mature operational transport framework.
+## NB....Twistor geometry _was_ explored as an early curvature-language scaffold, but *is not* part of the mature operational transport framework. ##
 
 ---
 
@@ -1545,67 +1545,6 @@ Interleaved decoherence transport systems
 Structured filtering architectures
 
 Programmable admissibility landscapes
-
-
-how did  72 get in there?
-
-Because the uploaded ACT V compilation already implicitly extends beyond the original AFC1–AFC6 arc and into the later recurrence/selection closure material. In your own programme appraisal, Act V formally ends at GQR52, but the AFC lineage itself clearly continues afterward into the recurrence/selection branch. 
-
-Specifically:
-
-AFC1–AFC4 = the admissibility/tolerance/control envelope papers (GQR43–46)
-
-AFC5 = Dirac-comb recurrence geometry (GQR53) 
-
-AFC6 = recurrence without directional asymmetry (GQR59) 
-
-AFC8 = “From Recurrence to Selection” continuation logic, where recurrence substrates become selection systems. 
-
-
-So when I generated the “Phase V” synthesis, I treated it as:
-
-> AFC + admissibility + recurrence + selection closure
-
-
-
-rather than:
-
-> only the strict AFC1–AFC4 engineering subgroup.
-
-
-
-In other words, 72 entered because the uploaded corpus itself already structurally merges:
-
-AFC memory,
-
-admissibility,
-
-ordering,
-
-recurrence,
-
-and selection-law persistence
-
-
-into one continuous branch.
-
-That said, if you want a strict historical Phase V aligned exactly to the programme appraisal (Acts I–VI), then GQR72 should probably be excluded and reserved for:
-
-late Act VI,
-
-or a Phase VI “Selection / Ladder / AOI Closure” document.
-
-
-In that stricter interpretation:
-
-Phase V ends around GQR52 (or perhaps AFC6/GQR59 at the absolute furthest),
-
-while GQR72 belongs to the final “selection-law consolidation” era.
-
-
-
-
-bullshit.  
 
 
 --------
