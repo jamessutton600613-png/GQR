@@ -1,4 +1,4 @@
-# Programme Index — Qunatum Geometry Resonance Engines [QGRE] (incorporating GQR / QGE / GC-arc/ AFC projects)
+# Programme Index — Quantum Geometry Resonance Engines [QGRE] (incorporating GQR / QGE / GC-arc/ AFC projects)
 
 This page is the canonical front page for the programme.
 Entries are ordered **chronologically by conceptual dependency**, not by upload date.
