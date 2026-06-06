@@ -1,4 +1,184 @@
 # News / Updates
+
+# 🚨🧠🌊📚 NEWS & VIEWS — SURVIVOR MOTIFS I–V Compression/Synthesis ARC 📚🌊🧠🚨
+
+June 2026
+
+A major organisational milestone has now been reached within the developing GQR / QGE programme.
+
+Over the past year, a substantial body of work spanning transport theory, catalytic organisation, quantum memory architectures, recurrence systems, persistence theory, biological transport, accessibility analysis, admissibility structures, and topology compression has been consolidated into a coherent five-paper synthesis.
+
+Importantly, the series follows an intentional alternating structure:
+
+⚙️ Mechanism ⬇️ 🧪 Application ⬇️ ⚙️ Mechanism ⬇️ 🧪 Application ⬇️ ⚙️ Mechanism / Synthesis
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌀 SM1 — Curvature–Information Transport (GQR82)
+
+⚙️ MECHANISM
+
+Transport → Geometry
+
+Introduces Curvature–Information Transport and the Quantum Shield Law, establishing the transport mechanism underlying organised coherent flow, curvature–coherence balance, and emergent transport architectures.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚙️ SM2 — Geometry, Accessibility and Catalytic Selection (GQR83)
+
+🧪 APPLICATION
+
+Geometry → Accessibility
+
+Applies the framework to Fe–S catalytic systems, demonstrating accessibility encoding, catalytic discrimination, harmonic accessibility signatures, mechanistic traps, and inhibitor-associated transport organisation.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🧠 SM3 — The Mechanics of Persistence (GQR84)
+
+⚙️ MECHANISM
+
+Accessibility → Ordering → Memory → Selection
+
+Establishes the organisational hierarchy linking accessibility, ordering, memory, recurrence, admissibility, selection, and persistence within constrained dynamical systems.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌿 SM4 — Quantum-Critical Transport Organisation in the Photosystem II Oxygen-Evolving Complex (GQR85)
+
+🧪 APPLICATION
+
+Biological Transport Architectures
+
+Applies the framework to Photosystem II, exploring XFEL-resolved OEC geometries, hydration transport landscapes, isotopic bifurcation, recurrence structures, and emergent transport morphologies associated with catalytic water oxidation.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌊 SM5 — Hydrodynamic Closure, Selective Persistence and Recurrence Topology (GQR81)
+
+⚙️ MECHANISM / SYNTHESIS
+
+Persistence → Survivor Ecologies
+
+Acts as the closing synthesis volume for the transport branch, unifying:
+
+🎧 cochlear resonance sharpening
+
+🧫 proton transport
+
+⚛️ ENAQT
+
+🌊 squirmer hydrodynamics
+
+🔮 AFC recurrence systems
+
+🗺️ recurrence topology
+
+within a common framework of:
+
+♻️ selective persistence
+
+🛡️ admissibility filtering
+
+🌊 hydrodynamic closure
+
+🧭 survivor topology
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📦 TOGETHER THE SERIES COMPRESSES:
+
+⚛️ Quantum transport organisation
+
+⚙️ Fe–S catalytic accessibility
+
+🌿 Photosystem II transport architectures
+
+🧠 Accessibility, ordering, memory and persistence
+
+🔮 AFC recurrence and admissibility frameworks
+
+🌊 Hydrodynamic closure and transport persistence
+
+🗺️ Survivor topology and topology compression
+
+📈 Organisational ridge structures and suppression landscapes
+
+into a unified transport–organisation framework.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🧭 Core organisational ladder:
+
+Geometry ⬇️ Accessibility ⬇️ Ordering ⬇️ Memory ⬇️ Selection ⬇️ Persistence ⬇️ Survivor Motifs
+
+📚 SURVIVOR MOTIFS SERIES (2026)
+
+⚙️ SM1 — Curvature–Information Transport: A Geometric Mechanism for Organised Coherent Flow
+(GQR82) — MECHANISM
+🔗 https://doi.org/10.5281/zenodo.20541042
+
+🧪 SM2 — Geometry, Accessibility and Catalytic Selection: Accessibility Encoding of Catalytic State in Iron–Sulfur Enzymes
+(GQR83) — APPLICATION
+🔗 https://doi.org/10.5281/zenodo.20540931
+
+⚙️ SM3 — The Mechanics of Persistence: Accessibility, Ordering, Memory and Selection in Constrained Dynamical Systems
+(GQR84) — MECHANISM
+🔗 https://doi.org/10.5281/zenodo.20541218
+
+🧪 SM4 — Quantum-Critical Transport Organisation in the Photosystem II Oxygen-Evolving Complex: A Geometry-Driven Transport Architecture for Water Oxidation in Photosystem II
+(GQR85) — APPLICATION (skeleton article)
+🔗 https://doi.org/10.5281/zenodo.20541546
+
+⚙️🌊 SM5 — Hydrodynamic Closure, Selective Persistence, and Recurrence Topology in Biological and AFC Transport Systems
+(GQR81) — MECHANISM / SYNTHESIS
+🔗 https://doi.org/10.5281/zenodo.20395445
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚠️ The Survivor Motifs series does not represent a compression of the entire GQR programme.
+
+Major branches remain active and are expected to undergo future synthesis and compression:
+
+🟦 Cuprate transport architectures (YBCO / YCBOx)
+
+⬢ Graphene and Dirac-fluid transport systems
+
+🔮 Experimental AFC quantum memory hardware and transport architectures
+
+📊 Collider suppression architectures (CMS / ATLAS)
+
+☢️ Nuclear-cluster transport and organisational systems
+
+🧬 Immunology and biological-selection systems
+
+🧬 Genetics and evolutionary-selection systems
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 The resulting structure is now:
+
+⚙️ SM1 — Mechanism
+
+🧪 SM2 — Application
+
+⚙️ SM3 — Mechanism
+
+🧪 SM4 — Application
+
+⚙️🌊 SM5 — Mechanism / Synthesis
+
+forming the first completed transport–organisation cycle within the wider GQR programme.
+
+🌿⚙️🧠🌊🗺️
+
+The geometry determines accessibility.
+Accessibility determines persistence.
+Persistence determines what survives.
+
+
+
+
 ## 🚨
 ## 🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁
 🚨🧠🌊⚛️ NEWS FLASH: GQR81 — Hydrodynamic Closure, Selective Persistence, and Recurrence Topology in Biological and AFC Transport Systems 🌿🔁🛤️
