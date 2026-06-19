@@ -1,5 +1,74 @@
 # News / Updates
 
+19 June   - reporting two new GQR articles.  
+
+New Release: GQR88 — Survivor Ecologies Enter the Third Dimension
+
+The survivor programme has now moved into three dimensions.
+
+GQR88 extends earlier recurrence-ecology and survivor-topology investigations into volumetric non-Hermitian memory fields and asks a deceptively simple question:
+
+What happens to topology when complexity increases?
+
+The expectation was that three-dimensional survivor states might generate increasingly rich loop structures, cavities and higher-order topological hierarchies.
+
+Instead, something unexpected occurred.
+
+Across long-duration simulations, obstacle sweeps, multi-seed interactions and randomized controls, the survivor ecologies repeatedly suppressed loop formation. Persistent structures emerged, geometric organisation remained stable, branching hierarchies developed, yet topological cycles largely failed to appear.
+
+In short:
+
+more geometry,
+more organisation,
+more persistence,
+but not more loops.
+
+The resulting survivor phase appears geometrically ordered yet topologically simple.
+
+An intriguing connection also emerges with GQR80, which identified rare and highly localized five-cycle transfer defects within two-dimensional recurrence ecologies. In the 2D case, pentagonal defects survived only as rare transient routing-arbitration motifs. In the 3D extension, even those cycle-like structures largely disappear, with organisational complexity migrating toward branching architectures instead.
+
+The picture that emerges is therefore one of selection rather than accumulation.
+
+Complexity does not grow by becoming increasingly tangled.
+
+It grows by becoming increasingly organised.
+
+GQR88 is presented as a preliminary technical investigation, but it provides one of the clearest indications yet that survivor dynamics may favour persistence, branching and accessibility over unrestricted topological complexity.
+
+SUTTON, J. (2026). GQR88: Preliminary Investigation of Three-Dimensional Survivor Ecologies Geometry, Branching and Topological Suppression in Non-Hermitian Memory Fields. Zenodo. https://doi.org/10.5281/zenodo.20583433
+
+
+------- 
+
+
+New Release: GQR87 — From Poster to Conference Synthesis
+
+One of the more unexpected developments of 2026 began as a poster presentation at Clusters'26 in London.
+
+What was originally intended as an opportunity to discuss aspects of the GQR/QGE programme with the nuclear-physics community rapidly evolved into something rather different: an intensive introduction to modern many-body theory.
+
+The resulting article, Combinatorial Explosions in Nuclear Cluster Physics: A Synthesis of Many Bodies, Some Foreign, and How They Are Managed (GQR87), is not a research paper in the conventional sense. It is a conference-inspired synthesis exploring a question that appeared repeatedly throughout the meeting:
+
+How do experimentally observable structures emerge from configuration spaces that are vastly larger than the structures we actually observe?
+
+Across talks on symmetry-adapted shell models, continuum coupling, Borromean systems, reaction landscapes, hidden dimensions of clustering, imaginary-time methods and effective Hamiltonians, a common theme emerged. Nature repeatedly appears to compress overwhelming combinatorial possibility into a surprisingly small set of persistent structures.
+
+For the author, this produced something of a many-body confession.
+
+Coming from backgrounds spanning transport theory, quantum chemistry, catalysis, adaptive systems and collider phenomenology, the many-body problem had largely been viewed through a Newton–Poincaré lens: a story of combinatorial explosion and computational intractability.
+
+Modern many-body physics revealed a different picture.
+
+The central challenge is often not solving every configuration. It is understanding why only a tiny fraction survive.
+
+GQR87 attempts to capture that perspective and to place themes emerging within the GQR, QGE and AOI programmes into the broader historical context of many-body organisation, collectivity, persistence and reduction.
+
+The paper is therefore best viewed not as a destination but as a map: a guide to a scientific landscape that proved considerably larger and richer than expected.
+
+SUTTON, J. (2026, June 14). (GQR87) Combinatorial Explosions in Nuclear Cluster Physics: A Synthesis of Many Bodies, Some Foreign, and How They Are Managed. https://doi.org/10.5281/zenodo.20574900   
+
+
+
 # 🚨🧠🌊📚 NEWS & VIEWS — SURVIVOR MOTIFS I–V Compression/Synthesis ARC 📚🌊🧠🚨
 
 June 2026
