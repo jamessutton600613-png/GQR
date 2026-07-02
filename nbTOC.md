@@ -1,5 +1,279 @@
 # QGE / AOI Programme — Annotated Notebook Pipeline Index 
 
+2 Jul 2026
+ adding:  
+
+ Absolutely. I'd format them to match the style of the rest of your annotated notebook index.
+
+Yes. I'd simply insert the missing notebook placeholders so the index remains continuous and future notebooks can be dropped in without renumbering.
+
+## 312 — Reserved
+Status: No notebook assigned. Left intentionally blank.
+
+## 313 — Reserved
+Status: No notebook assigned. Left intentionally blank.
+
+## 314 — Exact Geometry Validation of Seam Networks
+File: Untitled314.ipynb
+Purpose: Exact geometric validation, supersampling and seam-density benchmarking for rectangular, diamond, honeycomb and 4.8.8 tilings. 0
+
+## 315 — (existing notebook)
+
+## 316 — Reserved
+Status: No notebook assigned. Left intentionally blank.
+
+## 317 — Reserved
+Status: No notebook assigned. Left intentionally blank.
+
+## 318 — (existing notebook)
+
+## 319 — Reserved
+Status: No notebook assigned. Left intentionally blank.
+
+## 320 — Reserved
+Status: No notebook assigned. Left intentionally blank.
+
+## 321 — Affine Quantum Channel Geometry and Cone Admissibility
+File: Untitled321.ipynb
+Purpose: Development of affine Bloch-map evolution, cone admissibility, positivity boundaries, Schrödinger/Heisenberg positivity, geometric diagnostics and Bloch-ball visualisation. 1
+
+## 322 — Divisibility Fracture Maps and Floquet Ridge Geometry
+File: Untitled322.ipynb
+Purpose: Schrödinger–Heisenberg divisibility fracture maps, singular-value gap fields, Floquet ladder extraction, ridge analysis and phase-comb topology. 2
+
+## 323 — AOI Graph Transport on Honeycomb Lattices
+File: Untitled323.ipynb
+Purpose: Graph-based AOI transport on graphene and hBN lattices, ribbon scaling, drive-enhanced transport, memory channels and frequency-dependent ordering dynamics. 3
+
+## 324 — AOI Frequency Sweep and Braided Ladder Programme
+File: Untitled324.ipynb
+Purpose: Automated frequency sweeps, envelope fitting, universal ladder collapse, braided phase geometry, finite-size scaling and publication-quality figure generation. 4
+
+## 325 — Reserved
+Status: No notebook assigned. Left intentionally blank.
+
+## 326 — Reserved
+Status: No notebook assigned. Left intentionally blank.
+
+## 327 — Exact Geometry Engine for GQR49
+File: Untitled327.ipynb
+Purpose: Exact seam-network geometry engine, orientation entropy, pitch matching, rotational invariance analysis and exact topology benchmarking for divertor seam networks. 5
+
+## 328 — Phase-Sheet Contour and Ridge Geometry
+File: Untitled328.ipynb
+Purpose: Reconstruction and analysis of phase sheets, contour geometry, ridge extraction, crossing statistics and folded phase-space diagnostics. 6
+
+## 329 — Production Geometry Pipeline and Report Builder
+File: Untitled329.ipynb
+Purpose: Production workflow integrating exact geometry, validation tables, automated figure generation, report assembly and export for the GQR49 geometry programme. 7
+
+
+---
+
+307 — Early AFC / Ladder-State Transport and Operational Admissibility
+
+File: Untitled307.ipynb
+...
+
+308 — Quantum Channel Admissibility and Diamond-Norm Metrics
+
+File: Untitled308.ipynb
+...
+
+309 — Gauge Atlas and Operational Accessibility Framework
+
+File: Untitled309.ipynb
+...
+
+310 — Governance Controller Optimisation and Monte Carlo Admissibility
+
+File: Untitled310.ipynb
+...
+
+311 — Fusion Tile Topology, Thermal Transport and Stress Modelling
+
+File: Untitled311.ipynb
+...
+
+
+---
+
+312 — Reserved
+
+Status: No notebook assigned. Left intentionally blank for future development.
+
+
+---
+
+313 — Reserved
+
+Status: No notebook assigned. Left intentionally blank for future development.
+
+
+---
+
+314 — Geometry Topology Validation and Exact Seam Metrics
+
+File: Untitled314.ipynb
+Purpose: Validation framework for exact seam geometry, supersampling, rasterisation and comparative tiling metrics across rectangular, diamond, honeycomb and 4.8.8 topologies.
+Inputs: Exact lattice generators, seam geometry, supersampling parameters, topology definitions.
+Outputs: Exact seam-length measurements, raster validation, topology comparison figures and benchmark datasets.
+Depends on: GQR49 geometry programme.
+Feeds into: Fusion topology optimisation, geometry validation pipeline and later exact geometry notebooks.
+Status: Core geometry validation notebook.
+Notes: Establishes the numerical validation framework separating exact geometric metrics from rasterised control calculations. 
+
+
+---
+
+315 — Hyperbolic hBN / κ-ET Spectroscopy and Polariton Coupling
+
+File: Untitled315.ipynb
+...
+
+
+---
+
+316 — Reserved
+
+Status: No notebook assigned. Left intentionally blank.
+
+
+---
+
+317 — Reserved
+
+Status: No notebook assigned. Left intentionally blank.
+
+
+---
+
+318 — Germinal Centre Balloon–Foam Dynamics and Lineage Selection
+
+File: Untitled318.ipynb
+...
+
+
+---
+
+319 — Reserved
+
+Status: No notebook assigned. Left intentionally blank.
+
+
+---
+
+320 — Reserved
+
+Status: No notebook assigned. Left intentionally blank.
+
+
+---
+
+That keeps the notebook numbering continuous and makes it clear to future readers that those identifiers have been intentionally reserved rather than accidentally omitted.
+
+
+---
+
+307 — Early AFC / Ladder-State Transport and Operational Admissibility
+
+File: Untitled307.ipynb (and recovery variants)
+Purpose: Early operational implementation of ladder-state transport, admissibility, recurrence and accessibility metrics that later underpin GQR47.
+Inputs: AOI transport concepts, ladder-state models, recurrence structures.
+Outputs: Operational admissibility metrics, ladder-state diagnostics, recurrence maps, accessibility measures.
+Depends on: AOI transport framework, ladder-state formalism.
+Feeds into: GQR47, operational admissibility programme, later AFC notebooks.
+Status: Historically important precursor.
+Notes: Earliest computational bridge between AOI transport theory and operational channel-based admissibility.
+
+
+---
+
+308 — Quantum Channel Admissibility and Diamond-Norm Metrics
+
+File: Untitled308.ipynb
+Purpose: Develop operational AOI using quantum channels, Choi matrices and diamond-norm distances.
+Inputs: Kraus operators, channel definitions, Choi representations, SDP optimisation.
+Outputs: Diamond distances, admissibility metrics, mutual-information diagnostics, channel observables.
+Depends on: AOI theorem, operational channel formalism.
+Feeds into: GQR47 operational admissibility paper.
+Status: Core operational notebook.
+Notes: First major implementation of AOI using quantum-information metrics rather than transport intuition. 
+
+
+---
+
+309 — Gauge Atlas and Operational Accessibility Framework
+
+File: Untitled309.ipynb
+Purpose: Extend operational admissibility to symmetric and asymmetric channel families with scaling and collapse analyses.
+Inputs: Channel families, AOI admissibility definitions, optimisation routines.
+Outputs: Scaling laws, collapse plots, admissibility atlases, parameter fits, publication figures.
+Depends on: 308, AOI channel formalism.
+Feeds into: Gauge Atlas paper, fracture and accessibility framework.
+Status: Core AOI notebook.
+Notes: Forms the computational heart of the Gauge Atlas and operational AOI programme. 
+
+
+---
+
+310 — Governance Controller Optimisation and Monte Carlo Admissibility
+
+File: Untitled310.ipynb
+Purpose: Monte Carlo optimisation of governance and admissibility using geometry, coherence and controller selection.
+Inputs: Governance analysis surfaces, admissibility maps, coherence models, controller parameter grids.
+Outputs: Controller evidence packs, admissibility statistics, optimisation diagnostics, Monte Carlo summaries.
+Depends on: Gauge Atlas, AOI operational metrics.
+Feeds into: AFC governance, operational admissibility, controller optimisation.
+Status: Core governance notebook.
+Notes: Introduces controller optimisation under geometric and coherence constraints using reproducible Monte Carlo workflows. 
+
+
+---
+
+311 — Fusion Tile Topology, Thermal Transport and Stress Modelling
+
+File: Untitled311.ipynb
+Purpose: Compare alternative plasma-facing tile topologies using simplified thermal and mechanical transport models.
+Inputs: Rectangular, diamond, hexagonal and Archimedean seam geometries, thermal pulse models.
+Outputs: Thermal maps, stress proxies, topology comparisons, optimisation tables, engineering figures.
+Depends on: Independent engineering geometry framework.
+Feeds into: GQR49 fusion engineering programme.
+Status: Engineering application notebook.
+Notes: Explores how seam topology influences thermal robustness and stress localisation in plasma-facing components. 
+
+
+---
+
+315 — Hyperbolic hBN / κ-ET Spectroscopy and Polariton Coupling
+
+File: Untitled315.ipynb
+Purpose: Model hyperbolic phonon-polariton coupling between hBN and correlated quantum materials.
+Inputs: Dielectric models, transfer-matrix formalism, hBN thickness, material permittivities.
+Outputs: Reflection spectra, coupling maps, resonance discrimination metrics, thickness optimisation.
+Depends on: Transfer-matrix electrodynamics.
+Feeds into: Condensed-matter spectroscopy and hBN transport studies.
+Status: Core condensed-matter notebook.
+Notes: Provides computational spectroscopy linking hyperbolic materials with correlated electronic systems. 
+
+
+---
+
+318 — Germinal Centre Balloon–Foam Dynamics and Lineage Selection
+
+File: Untitled318.ipynb
+Purpose: Agent-based model of germinal-centre organisation combining foam mechanics, clonal evolution and lineage dynamics.
+Inputs: Cell mechanics, division and apoptosis rules, clone identities, spatial constraints.
+Outputs: Foam morphologies, lineage trees, dominance statistics, accessibility landscapes, population dynamics.
+Depends on: GC-Arc conceptual framework.
+Feeds into: Germinal-centre selection, immune-memory and governance studies.
+Status: Core biological systems notebook.
+Notes: One of the most comprehensive biological notebooks, integrating mechanics, selection, topology and lineage reconstruction into a unified simulation framework. 
+
+
+
+
+
 29 Mar 2026
 
 
