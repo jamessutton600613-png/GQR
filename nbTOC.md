@@ -2,6 +2,34 @@
 
 2 Jul 2026
  adding:  
+ OperA Programme
+
+GQR47
+Operational admissibility
+
+↓
+
+GQR50
+Admissibility distance as a resource monotone
+
+↓
+
+GQR51
+Non-unital resource decay
+
+↓
+
+GQR52
+Interleaved mixing–decoherence dynamics
+
+────────────────────────
+
+Framework adopted by
+
+AFC5.  (but not by an art which is not recognised as afc4a which might be gqr47. )
+AFC6
+AFC7
+AFC8
 
  Absolutely. I'd format them to match the style of the rest of your annotated notebook index.
 
