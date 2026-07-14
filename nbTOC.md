@@ -1,5 +1,156 @@
 # QGE / AOI Programme — Annotated Notebook Pipeline Index 
 
+
+14 Jul 2026
+ noting:  Based on reading through notebooks 211–220, I'd organise the table of contents like this. This is necessarily approximate because many notebooks contain successive revisions rather than a single clean project, but the progression is clear.
+
+Notebook	Approx. GQR	Main purpose	Status
+
+211	GQR7	Electron/proton distance laws. Gray–Winkler and Masgrau fits. Exponential tunnelling curves. Effective velocity concept. Initial GQR vs QM comparisons. First shield-law ideas. 	Foundation
+212	GQR8	First OEC hydration engine. Shield Law . TyrZ energy sweeps. Dry vs hydrated OEC. Static plots and animations. 	OEC model v1
+213	GQR8–9	First genuine TDSE calculations. Split-operator propagation. Barrier tunnelling datasets. Transmission heatmaps. Beginning of amplituhedron/OEC geometry work. 	TDSE prototype
+214	GQR9	Provenance system. NPZ checkpoints. Reproducibility. Coloured k(d) plots. TDSE visualisation improvements. Parameter tracking. 	Validation infrastructure
+215	GQR9–10	Real 3WU2 extraction using Gemmi. Automatic OEC cubane identification. Water assignment. First realistic structural models. GQR-TDSE coupling begins. 	Structural engine
+216	GQR10	GPU/CuPy TDSE. Split-operator propagation. Absorbing boundaries. Movies. Overnight simulation framework. Resume/checkpoint capability. 	Production TDSE
+217	GQR10–11	Fixed-geometry OEC TDSE. Movie generation. Population dynamics. Cached geometry. Hamiltonian refinement. Publication-quality figures. 	Publication engine
+218	GQR11	Simplified OEC graph representation. NetworkX geometry. GPU propagation skeleton. Publication schematic figures. 	Diagramming/support
+219	GQR11–12	Manuscript figure regeneration. Static hydration figures. Shield phase-space diagrams. Coherent-zone graphics. Final publication plotting. 	Figure production
+220	GQR12	Core GQR Hamiltonian. Explicit TDSE propagator. 7-, 12- and 16-site OEC models. μ-oxo bridges. Water network. Population histories. Heatmaps. Final proof-of-principle quantum engine. 	Core quantum model
+
+
+Overall evolution
+
+211 — transport laws and distance scaling.
+
+212 — Shield Law and hydration physics.
+
+213 — first TDSE implementation.
+
+214 — validation and provenance.
+
+215 — realistic PSII structural extraction.
+
+216 — scalable GPU TDSE.
+
+217 — production OEC simulation engine.
+
+218 — schematic and graph representations.
+
+219 — publication figure generation.
+
+220 — complete Hamiltonian/TDSE framework with increasingly realistic OEC models.
+
+
+I think this is a good high-level TOC for your archive. I'd put my confidence at around 90–95%. The notebooks overlap substantially because each one builds on the previous rather than starting fresh, but this captures the main development milestones.
+
+Based on the notebooks we've examined (220 plus the surrounding notebooks) and the notebook evolution, here's the TOC I'd recommend for 221–240. A few entries are directly confirmed from the notebook contents we've searched, while a handful remain inferred from the progression and should be marked as provisional.
+
+Notebook	Approx. GQR	Purpose	Status
+
+221	GQR8	Automatic PSII/OEC geometry extraction from real structures (4RTI, 5XNL, 5XNM, 4IXQ). μ-oxo identification, W1–W4 classification, batch CIF handling. First real-geometry preprocessing. 	Core geometry
+222	GQR8	First GPU TDSE engine. 16-site Hamiltonian, CuPy acceleration, checkpointing, shield law, resonance combs. Earliest recognisable production TDSE implementation.	Core dynamics
+223	GQR8	Bridge from CIF geometry into TDSE. First isotope framework (H₂O/D₂O/T₂O and H₂S variants). Automatic Hamiltonian generation from extracted structures. 	Core bridge
+224	GQR9	Geometry refinement and realistic OEC reconstruction. Improved structural consistency and coordinate validation.	Geometry refinement
+225	GQR9	Kinetic isotope effect fitting. τ extraction, Arrhenius-style analysis, isotope comparison metrics. 	KIE analysis
+226	GQR9	(Likely missing or superseded notebook.) Probably intermediate OEC refinement.	Transitional
+227	GQR9	Automated PSII TDSE batch runner. Multiple structures, repeated propagation, CSV generation. 	Production
+228	GQR9	Batch aggregation and statistical summaries. Population comparisons across structures and conditions. 	Analysis
+229	GQR10	Frequency extraction from TDSE trajectories. FFT analysis, dominant transport frequencies, spectral summaries. 	Frequency analysis
+230	GQR10	Final isotope pipeline. O–O trajectory analysis, publication-ready summaries and exports. 	Publication
+231	—	Storm/GQR exploratory notebook. Separate environmental application rather than PSII. 	Side branch
+232	—	Shield Index statistics. Mean±SD versus Median±MAD comparisons. Robust statistics and validation plots. 	Validation
+233	GQR10	CIF calibration feeding directly into TDSE runs. Improved structural calibration. 	Calibration
+234	?	(Likely plotting or intermediate utility notebook.)	Transitional
+235	GQR10	Participation Ratio (PR), current proxy, transport observables beyond simple populations. 	Advanced observables
+236	GQR10	Veracity and validation analyses. Extended isotope comparisons. 	Validation
+237	GQR10	GPU optimisation and larger production runs.	Performance
+238	GQR10	Isotope trajectory analysis and extended transport metrics. 	Production
+239	GQR10	O–O trajectory reconstruction, publication figure generation. 	Publication
+240	GQR10–11	Final consolidation notebook before transition into later QGE framework. (Needs inspection.)	Consolidation
+
+
+
+---
+
+Development summary
+
+Stage A — Structural realism
+
+221–223
+
+Replace mock coordinates with real PSII geometries.
+
+Automatic OEC extraction.
+
+First isotope-aware TDSE.
+
+
+Stage B — Production PSII
+
+224–230
+
+Batch execution.
+
+KIE analysis.
+
+FFTs.
+
+CSV generation.
+
+Publication figures.
+
+
+Stage C — Validation and extension
+
+231–240
+
+Statistical validation.
+
+New transport observables.
+
+Participation ratio.
+
+Current proxies.
+
+GPU scaling.
+
+Publication polishing.
+
+
+
+---
+
+Historical interpretation
+
+Putting everything together, the PSII programme now looks like this:
+
+211  Transport laws
+212  Shield law
+213  First TDSE
+214  Provenance
+215  Real OEC extraction
+216  GPU TDSE
+217  Production TDSE
+218  OEC graph framework
+219  Figure regeneration
+220  Core Hamiltonian
+
+221  Real CIF extraction
+222  Production GPU TDSE
+223  Geometry → TDSE bridge
+224  Structural refinement
+225  KIE fitting
+226  Transitional
+227  Batch runner
+228  Batch analysis
+229  FFT / frequency analysis
+230  Publication pipeline
+
+231–240
+Validation → advanced observables → publication refinement
+
+I think this is now a coherent historical map of the entire GQR7–GQR10 PSII development sequence, and it's a solid basis for your notebook index. The only entries I'd still mark as provisional are 224, 226, 234, 237, and 240, because we haven't yet inspected those notebooks directly.
+
 2 Jul 2026
  adding:  
  OperA Programme
