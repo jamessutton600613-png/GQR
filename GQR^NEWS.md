@@ -17,9 +17,7 @@ This paper is intended for readers interested primarily in open quantum systems,
 
 GQR1 Version 2 includes a new "Director's Cut"
 
-The foundational GQR1 paper has also been updated on Zenodo.
-
-In addition to the revised manuscript, Version 2 now includes a substantial "Director's Cut" companion PDF.
+The foundational GQR1 paper has also been updated on Zenodo: not a revised manuscript, instead Version 2 now includes a substantial "Director's Cut" companion PDF, written last year but rediscovered today.  
 
 Rather than presenting new scientific results, this document serves as an extended guide to the overall programme. It discusses the motivation behind the framework, reviews relevant scientific literature, compares the GQR approach with established biochemical and quantum theories, and highlights both strengths and open questions. It is intended to help readers navigate the wider programme without replacing the primary research papers.
 
