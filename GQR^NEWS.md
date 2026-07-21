@@ -1,5 +1,99 @@
 # News / Updates
 
+
+21 July
+
+News Update
+
+GQR Programme Update: SM1 Released, GQR1 Expanded, and Computational Chemistry Submission Underway
+
+The Gated Quantum Resonator (GQR) research programme has reached another milestone with the release of SM1 (GQR82) on Zenodo alongside a significant update to the programme's foundational paper.
+
+Survivor Motifs I (SM1 / GQR82) now available
+
+Survivor Motifs I (SM1) introduces the Quantum Shield framework as a focused, standalone treatment. Rather than revisiting the entire GQR programme, SM1 concentrates on one central component of the theory: how low-decoherence transport environments may emerge within molecular systems and how this can be represented mathematically.
+
+This paper is intended for readers interested primarily in open quantum systems, transport theory, quantum chemistry, and condensed-matter concepts surrounding coherence and environmental interactions.
+
+GQR1 Version 2 includes a new "Director's Cut"
+
+The foundational GQR1 paper has also been updated on Zenodo.
+
+In addition to the revised manuscript, Version 2 now includes a substantial "Director's Cut" companion PDF.
+
+Rather than presenting new scientific results, this document serves as an extended guide to the overall programme. It discusses the motivation behind the framework, reviews relevant scientific literature, compares the GQR approach with established biochemical and quantum theories, and highlights both strengths and open questions. It is intended to help readers navigate the wider programme without replacing the primary research papers.
+
+Computational chemistry journal submission in preparation
+
+Work is now underway on a dedicated peer-review version of GQR1 for submission to a computational chemistry journal.
+
+The revised manuscript will place greater emphasis on:
+
+the effective Hamiltonian,
+
+computational implementation,
+
+Bayesian transport formalism,
+
+benchmark applications,
+
+and practical methodology.
+
+
+The aim is to present the framework in a format tailored specifically to computational chemistry and molecular modelling audiences while retaining the Supporting Information needed for implementation.
+
+Different papers for different scientific communities
+
+As the programme has grown, it has become increasingly clear that different parts naturally appeal to different research communities.
+
+For example:
+
+GQR1 focuses on the computational Hamiltonian and methodology.
+
+SM1 (GQR82) develops the Quantum Shield framework and open-system transport.
+
+The Director's Cut provides a broader overview for readers wishing to understand how the various components fit together.
+
+Later papers explore applications in enzymology, photosynthesis, graphene, collider data analysis, quantum transport, and related topics.
+
+
+Rather than attempting to place every concept into a single manuscript, the programme is evolving into a collection of specialised but interconnected publications. This allows readers to engage with the aspects most relevant to their own disciplines while maintaining a coherent overall framework.
+
+The continuing goal is to make the GQR programme progressively more accessible, better documented, and easier to evaluate by researchers across computational chemistry, quantum physics, biophysics, and related fields.
+
+
+--------
+
+GQR Programme Returns from SynSci 2026 as Survivor Motifs Series Continues to Expand
+
+21 July 2026
+
+The Gated Quantum Resonator (GQR) programme has returned from SynSci 2026, an Institute of Physics (IOP) conference exploring mechanobiology and chemistry for health, held in Glasgow.
+
+On Wednesday 15 July, the programme was presented during the Plant Mechanobiology session, where the focus was the application of the GQR/QGE framework to Photosystem II (PSII) and its oxygen-evolving complex. The presentation brought together recent work on transport geometry, quantum transport, isotope substitution, and mechanistic interpretation of catalytic architectures, and provided an opportunity to discuss the framework with researchers from plant science, mechanobiology and related disciplines.
+
+The material presented in Glasgow is now expected to form the foundation of Survivor Motifs IV (SM4), which aims to consolidate and compress the extensive PSII research programme into a single, coherent theoretical article. Rather than revisiting each individual study, SM4 will focus on presenting the principal mechanistic and organisational conclusions emerging from the Photosystem II investigations.
+
+Programme refinement continues
+
+Work also continues across the wider Survivor Motifs series.
+
+A small but important editorial update has been identified for SM3 (The Mechanics of Persistence). The manuscript currently retains the original Shield Law notation using κ (kappa). This will be updated so that ζ (zeta) replaces κ, bringing SM3 into line with SM1 and the current programme notation. The change avoids later confusion, where κ is increasingly reserved for curvature-related quantities within the broader organisational framework. 
+
+This is part of an ongoing effort to improve consistency across the expanding programme while preserving continuity between earlier and later publications.
+
+Programme readership continues to grow
+
+Combined programme readership has now reached approximately 20,000 views and downloads, representing another significant milestone in the dissemination of the GQR research programme.
+
+To improve transparency and make long-term uptake easier to follow, a dedicated Programme Uptake Log DOI will shortly be established. This repository will provide a central record of readership statistics, major releases, conference presentations, publication milestones, and programme development, allowing readers to track the evolution of the project alongside the scientific publications themselves.
+
+As the programme expands across computational chemistry, quantum transport, mechanobiology, condensed matter, and organisational theory, the aim remains not simply to publish individual papers, but to develop a coherent body of work that can be explored from multiple scientific perspectives.
+
+------------
+
+
+
 19 June   - reporting two new GQR articles.  
 
 New Release: GQR88 — Survivor Ecologies Enter the Third Dimension
