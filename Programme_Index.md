@@ -26,20 +26,20 @@ For CORE / FOUNDATIONAL papers, a *Direct Precursor* is listed where a single pr
 
 | ID | Preferred archive file(s) | Title | Significance | Core term(s) | Direct precursor | DOI |
 |---|---|---|---|---|---|---|
-| preGQR1 | 6D Rotary Engines: Mechanistic Framework for Delocalised π-Electron Catalytic Mechanism... | ⚪ INCIDENTAL | rotary catalysis | — | 10.5281/zenodo.18300110 |
-| preGQR2 | The Quantum-Classical Tumbling Locomotion (QC-TCL) Hypothesis... | ⚪ INCIDENTAL | tumbling; locomotion | — | 10.5281/zenodo.18299933 |
-| preGQR3 | Interfacial Water and Constraint Media | 🟠 FOUNDATIONAL | interfacial water; constraint media; hydration control | — | 10.5281/zenodo.19950992 |
-| preGQR4 | Enzyme Mechanics & Active Matter | 🟠 FOUNDATIONAL | enzyme mechanics; active matter; force transmission | preGQR3 | 10.5281/zenodo.19951698 |
-| preGQR5 | Energy Storage, Redox Cycling, and Time-Resolved Electrostatic Catalysis | 🔴 CORE | redox cycling; electrostatic catalysis; energy storage | preGQR4 | 10.5281/zenodo.19955700 |
-| preGQR6 | Quantum Effects, Tunnelling, and Coherence in Biological Systems | 🔵 THEORY | tunnelling; coherence; quantum constraint | preGQR5 | 10.5281/zenodo.19955830 |
-| preGQR7 | Materials, Interfaces, and Energy Transfer in Functional Systems | 🟠 FOUNDATIONAL | materials; interfaces; energy transfer | preGQR5 | 10.5281/zenodo.19952864 |
-| preGQR8 ⚠️ | Selection, Admissibility, and Evolution in Constrained Systems | 🟣 BRANCH | selection; admissibility; constrained search | preGQR6 | 10.5281/zenodo.19963103 |
-| preGQR9 | Constraint Systems and Emergent Computation | 🟢 FORK | constraint systems; emergent computation | preGQR8 | 10.5281/zenodo.19953833 |
-| preGQR10 | Parallel Field Intuitions Across Physical Domains | ⚪ INCIDENTAL | gravity intuition; dipoles; field analogies | preGQR6 | 10.5281/zenodo.19954484 |
-| preGQR11 | Physical Constraints and Energy Dynamics in Cellular Systems | 🔴 CORE | mechanotransduction; transport; cellular biophysics | preGQR5 | 10.5281/zenodo.19959552 |
-| preGQR12 | Exploratory Frameworks for Force Generation and Energy Propagation | 🔵 THEORY | vortex dynamics; force propagation | preGQR10 | 10.5281/zenodo.19959351 |
-| preGQR13 | Conceptual Architectures of Energy, Information, and Constraint | 🔴 CORE | energy–information constraint; architecture | preGQR8 | 10.5281/zenodo.19959161 |
-| preGQR14 | Origin of Life: Emergent Ordering, Proto-Catalysis, and Transport Selection | 🟣 BRANCH | origin of life; transport selection; proton wires | preGQR11 | 10.5281/zenodo.20133465 |
+| preGQR1 | |6D Rotary Engines: Mechanistic Framework for Delocalised π-Electron Catalytic Mechanism... | ⚪ INCIDENTAL | rotary catalysis | — | 10.5281/zenodo.18300110 |
+| preGQR2 | |The Quantum-Classical Tumbling Locomotion (QC-TCL) Hypothesis... | ⚪ INCIDENTAL || tumbling; locomotion | — | 10.5281/zenodo.18299933 |
+| preGQR3 || Interfacial Water and Constraint Media | 🟠 FOUNDATIONAL | interfacial water; constraint media; hydration control | — | 10.5281/zenodo.19950992 |
+| preGQR4 | |Enzyme Mechanics & Active Matter | 🟠 FOUNDATIONAL | enzyme mechanics; active matter; force transmission | preGQR3 | 10.5281/zenodo.19951698 |
+| preGQR5 | |Energy Storage, Redox Cycling, and Time-Resolved Electrostatic Catalysis | 🔴 CORE | redox cycling; electrostatic catalysis; energy storage | preGQR4 | 10.5281/zenodo.19955700 |
+| preGQR6 | |Quantum Effects, Tunnelling, and Coherence in Biological Systems | 🔵 THEORY | tunnelling; coherence; quantum constraint | preGQR5 | 10.5281/zenodo.19955830 |
+| preGQR7 | |Materials, Interfaces, and Energy Transfer in Functional Systems | 🟠 FOUNDATIONAL | materials; interfaces; energy transfer | preGQR5 | 10.5281/zenodo.19952864 |
+| preGQR8 ⚠️ | |Selection, Admissibility, and Evolution in Constrained Systems | 🟣 BRANCH | selection; admissibility; constrained search | preGQR6 | 10.5281/zenodo.19963103 |
+| preGQR9 | |Constraint Systems and Emergent Computation | 🟢 FORK | constraint systems; emergent computation | preGQR8 | 10.5281/zenodo.19953833 |
+| preGQR10 | |Parallel Field Intuitions Across Physical Domains | ⚪ INCIDENTAL | gravity intuition; dipoles; field analogies | preGQR6 | 10.5281/zenodo.19954484 |
+| preGQR11 | |Physical Constraints and Energy Dynamics in Cellular Systems | 🔴 CORE | mechanotransduction; transport; cellular biophysics | preGQR5 | 10.5281/zenodo.19959552 |
+| preGQR12 | |Exploratory Frameworks for Force Generation and Energy Propagation | 🔵 THEORY | vortex dynamics; force propagation | preGQR10 | 10.5281/zenodo.19959351 |
+| preGQR13 | |Conceptual Architectures of Energy, Information, and Constraint | 🔴 CORE | energy–information constraint; architecture | preGQR8 | 10.5281/zenodo.19959161 |
+| preGQR14 | |Origin of Life: Emergent Ordering, Proto-Catalysis, and Transport Selection | 🟣 BRANCH | origin of life; transport selection; proton wires | preGQR11 | 10.5281/zenodo.20133465 |
 
 > ⚠️ preGQR8 contains elements that i know post-date GQR1. Its precise internal chronology remains to be reconstructed.
 
