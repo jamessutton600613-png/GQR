@@ -188,9 +188,40 @@ A complementary application route is:
 
 **GQR8 → GQR9 → GQR23 → GQR24 → GQR29 → GQR42 → AFC1–AFC8 → SM1–SM5**
 
+
+
 These routes are guides rather than strict prerequisites; the programme contains several parallel branches that later reconverge around accessibility, ordering, persistence, geometry, recurrence, and selection.
 
-This completes the part that was missing: GQR47 through GQR88 plus the cleaned archive notes and compact reading spine.# Programme Index — Quantum Geometry Resonance Engines [QGRE] (incorporating GQR / QGE / GC-arc/ AFC projects)
+
+---
+
+
+
+# GC-arc — Germinal Centre / Immune Governance Programme
+
+The GC-arc is both an immunology programme in its own right and an important conceptual source stream for the later mathematical-physics programme.
+
+Two papers are **formal dual-numbered crossovers**:
+
+- **GC-arc4 = GQR32 / Math2**
+- **GC-arc9 = GQR35 / Math5**
+
+These are not retrospective analogies: they are the actual crossover records through which finite governance capacity, effective dimensionality, pruning and admissible-path regeneration entered the main GQR mathematical spine.
+
+| ID | Preferred archive file(s) | Title | Significance | Principal concepts / programme role | Direct precursor | DOI |
+|---|---|---|---|---|---|---|
+| **GC-arc1 / Gen2** | `1.GCmeetsGQR_sle GeneMangle.pdf` **[main]** | Civilisation as a Gene Mangler: A Questioned Dialogue with Earth Logic | ⚪ INCIDENTAL | exploratory governance/evolution dialogue | — | 10.5281/zenodo.18109519 |
+| **GC-arc2 / Immuno2** | `2.GCmeetsGQR_sle ManA.pdf` | Germinal Centres as Governed Systems: A Dilemma-Management Perspective on Diversity, Interference, and Immune Stability | 🔴 CORE | governed selection; diversity–interference trade-off; finite capacity | — | 10.5281/zenodo.18109550 |
+| **GC-arc3 / Immuno3** | `3.GCmeetsGQR_sle ManB.pdf` | A Migration-Driven Instability Ridge in Germinal-Centre Governance as a Systems Framework for Autoimmune Risk | 🔴 CORE | instability ridge; migration; recovery; hysteresis | GC-arc2 | 10.5281/zenodo.18109609 |
+| **GC-arc4 / Math2 / GQR32** ⚡ **MAJOR CROSSOVER** | `4.GCmeetsGQR_sle Math.pdf` | Capacity-Limited Governance and Instability in Adaptive Dynamical Systems | 🔴 CORE | **effective dimensionality; capacity limits; accessibility constraints; path dependence** | GC-arc3 | 10.5281/zenodo.18109666 |
+| **GC-arc5** | `GCmeetsGQR_sle (14).pdf` **[main]**; `governgqrAPPENDIX.pdf` **[appendix]** | Governance, Temperature, and Recovery: Why Diversity Requires Structure Across Biology and Society | 🟢 FORK | recovery; diversity; structural governance | GC-arc4 | 10.5281/zenodo.18109723 |
+| **GC-arc6** ⚡ | `traps (2).pdf` **[main]** | Constraint-Driven Collapse as a Unifying Principle of Molecular and Immune Function | 🔴 CORE / CROSSOVER | constraint-driven collapse; molecular ↔ immune systems | GC-arc4 | 10.5281/zenodo.18110022 |
+| **GC-arc7** | `venezuela (1).pdf` **[main; Zenodo filename]** | Oligoclonal Capture as a Failure Mode of Governance in Adaptive Systems | 🔴 CORE | oligoclonal capture; finite regulation; governance failure | GC-arc6 | 10.5281/zenodo.18163640 |
+| **GC-arc8** ⚡ | `ImmunoComplex (3).pdf` **[expanded/current main]** | Immune-Complex Architecture Resolves the Antigen-Persistence Paradox in B-Cell Memory | 🔴 CORE / CROSSOVER | immune-complex architecture; antigen accessibility; mechanical constraint; persistence; B-cell memory | GC-arc7 | 10.5281/zenodo.18176309 |
+| **GC-arc9 / Math5 / GQR35** ⚡ **MAJOR CROSSOVER** | `math5pruneswampland (1).pdf` **[programme preferred copy]**; code/simulation assets | Pruning Dynamics and the Regeneration of Admissible Paths | 🔴 CORE | **pruning; admissible-path regeneration; constraint removal; dynamic accessibility** | GC-arc8 / GQR32 | 10.5281/zenodo.18215528 |
+| **GC-arc10** | **[filename to pin]** | Thresholded Immune State Transitions and Lag Dynamics in Therapeutic Peptide Vaccination for Chronic Hepatitis B | 🔴 CORE | thresholded transitions; lag; heterogeneous response | GC-arc9 | 10.5281/zenodo.18299344 |
+| **GC-arc11** ⚡ | `davos (6).pdf` **[main]**; `davos (7).pdf` **[SI]** | Invariant-Governed Accessibility Constrains Somatic Hypermutation and Immune Fate | 🔴 CORE / CROSSOVER | accessibility ordering; GICT; coupled invariants; structural reachability; immune fate | GC-arc10 / GQR35–36 | 10.5281/zenodo.18329952 |
+| **GC-arc12** ⚡ | `molecularDavos.pdf` | Governed Diversification in Germinal Centres: From Somatic Hypermutation to Adaptive Computation | 🔴 CORE / CROSSOVER | governed diversification; biased exploration; pruning; adaptive computation | GC-arc11 | 10.5281/zenodo.18506485 |
 
 
 
@@ -199,19 +230,50 @@ This completes the part that was missing: GQR47 through GQR88 plus the cleaned a
 
 
 
-## GC-arc — Germinal Centre / Immune & Governance Programme
 
-| ID | Title | Significance | Core Term(s) | Direct Precursor | DOI |
-|---:|---|---|---|---|---|
-| GC-arc1 | Civilisation as a Gene Mangler: A Questioned Dialogue with Earth Logic | INCIDENTAL | — | — | https://doi.org/10.5281/zenodo.18109519 |
-| GC-arc2 | Germinal Centres as Governed Systems: A Dilemma-Management Perspective on Diversity, Interference, and Immune Stability | CORE | Governed Selection; Diversity–Interference Trade-off | — | https://doi.org/10.5281/zenodo.18109550|
-| GC-arc3 | A Migration-Driven Instability Ridge in Germinal-Centre Governance as a Systems Framework for Autoimmune Risk | CORE | Accessibility Constraints; Instability Ridge | GC-arc2 | https://doi.org/10.5281/zenodo.18109609 |
-| GC-arc4 / GQR-32 | Capacity-Limited Governance and Instability in Adaptive Dynamical Systems | CORE | Accessibility Constraints; Capacity Limits | GC-arc3 | https://doi.org/10.5281/zenodo.18109666 |
-| GC-arc5 | Governance, Temperature, and Recovery: Why Diversity Requires Structure Across Biology and Society | FORK | Capacity-Limited Governance | GC-arc4 | https://doi.org/10.5281/zenodo.18109723|
-| GC-arc6 | Constraint-Driven Collapse as a Unifying Principle of Molecular and Immune Function | CORE | Constraint-Driven Collapse | GC-arc4 | https://doi.org/10.5281/zenodo.18110022 |
-| GC-arc7 | Oligoclonal Capture as a Failure Mode of Governance in Adaptive Systems: Implications for Immune Stability, Chronic Disease, and Global Health | CORE | Oligoclonal Capture; Governance Failure | GC-arc6 | https://doi.org/10.5281/zenodo.18163640|
-| GC-arc8 | Immune-Complex Architecture Resolves the Antigen-Persistence Paradox in B-Cell Memory | CORE | Immune-Complex Architecture; Persistence | GC-arc7 | https://doi.org/10.5281/zenodo.18176309 |
-| GC-arc9 / GQR-35 | Pruning Dynamics and the Regeneration of Admissible Paths | CORE | Pruning; Admissible Paths | GC-arc8 | https://doi.org/10.5281/zenodo.18215528|
-| GC-arc10 | Thresholded Immune State Transitions and Lag Dynamics in Therapeutic Peptide Vaccination for Chronic Hepatitis B | CORE | Thresholded State Transitions; Lag Dynamics | GC-arc9 | https://doi.org/10.5281/zenodo.18299344 |
-| GC-arc11 | Invariant-Governed Accessibility Constrains Somatic Hypermutation and Immune Fate | CORE | Accessibility Ordering; Immune Fate | GC-arc10 | https://doi.org/10.5281/zenodo.18329952 |
-| GC-arc12 | Governed diversification in germinal centres: from somatic hypermutation to adaptive computation | CORE | Germinal Centre Dynamics; Governed Diversification; Adaptive Computation | GC-arc11 | https://doi.org/10.5281/zenodo.18506485 |
+
+## Biology → Mathematics → Physics crossover spine
+
+The principal crossover lineage is:
+
+**GC-arc2**
+Governed diversity and interference
+↓
+**GC-arc3**
+Instability ridge under finite governance
+↓
+**GC-arc4 / GQR32 / Math2** ⚡
+Capacity-limited governance and effective dimensionality
+↓
+**GC-arc9 / GQR35 / Math5** ⚡
+Pruning and regeneration of admissible paths
+↓
+**GQR36**
+Time-Ordered Accessibility / AOI
+↓
+**GQR37–41**
+Invariant-governed QGE and ordered transport
+↓
+**GQR42**
+Biological/prebiotic return bridge
+↓
+**GQR53–57**
+Recurrence → ladder geometry → hierarchical selection
+↓
+**GQR75–84**
+Recursive accessibility → survivor topology → Logic Vortex / persistence mechanics
+
+
+
+
+## Zenodo community note
+
+The **Germinal Center Praesidium** Zenodo community is intentionally broader than the numbered GC-arc alone.
+
+It contains:
+
+1. the GC-arc immunology/governance papers;
+2. the reconstructed preGQR precursor archive;
+3. selected downstream GQR/QGE papers whose lineage substantially passes through governance, selection, recurrence or survivor-topology concepts.
+
+Community membership therefore denotes **conceptual lineage and archival association**, not that every record is an immunology paper.
