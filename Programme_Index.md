@@ -1,7 +1,9 @@
-# Programme Index — Quantum Geometry Resonance Engines [QGRE]
-*(incorporating GQR / QGE / GC-arc / AFC / Survivor Motifs projects)*
+# Programme Index — Quantum Geometry Resonance Engines [QGRE]   10 Aug 2026 (JRFS)
+*(incorporating Computational Chemistry/Physics/Biophysics/Mathematics: 
+GQR / QGE / AOI / Graphene / AFC / Survivor Motifs programme compression. 
+GC-arc IMMUNOLOGY (at end))*
 
-This page is the canonical front page for the programme.   I just improved it today (10 Aug 2026)...JS
+This page is the canonical front page for the programme.
 
 Entries are ordered primarily by **conceptual dependency and programme development**, rather than by upload date. Programme identifiers and canonical titles should be treated as the stable identity of each work. PDF filenames are retained as an **archive/development layer** and may therefore include revision numbers, supplementary documents, code audits, or historical working names.
 
