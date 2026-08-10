@@ -24,8 +24,8 @@ For CORE / FOUNDATIONAL papers, a *Direct Precursor* is listed where a single pr
 
 # Pre-GQR — Conceptual Precursors
 
-| ID | Title | Significance | Core term(s) | Direct precursor | DOI |
-|---|---|---|---|---|---|
+| ID | Preferred archive file(s) | Title | Significance | Core term(s) | Direct precursor | DOI |
+|---|---|---|---|---|---|---|
 | preGQR1 | 6D Rotary Engines: Mechanistic Framework for Delocalised π-Electron Catalytic Mechanism... | ⚪ INCIDENTAL | rotary catalysis | — | 10.5281/zenodo.18300110 |
 | preGQR2 | The Quantum-Classical Tumbling Locomotion (QC-TCL) Hypothesis... | ⚪ INCIDENTAL | tumbling; locomotion | — | 10.5281/zenodo.18299933 |
 | preGQR3 | Interfacial Water and Constraint Media | 🟠 FOUNDATIONAL | interfacial water; constraint media; hydration control | — | 10.5281/zenodo.19950992 |
