@@ -1,5 +1,78 @@
 # QGE / AOI Programme — Annotated Notebook Pipeline Index 
 
+26 Aug notes 2026
+
+Yes. I’d add this block directly before your existing 211–220 section:
+
+196–210 — Precursor TDSE, Shield Calibration and Real-System Transition
+
+Overall purpose:
+This notebook interval documents the immediate precursor stage to the better-organised GQR7–GQR12 sequence beginning at notebook 211. It shows three initially distinct strands — TDSE dynamics, empirical distance/rate calibration, and real structural modelling — developing and beginning to converge.
+
+196–198 — 2-D GQR / TDSE Development
+
+Purpose: Development of the early split-operator TDSE implementation and the H/C/I/B/E gate framework.
+
+196: 2-D split-operator TDSE movie engine; H funnel, C field, B tilt and I/PCET-proxy potentials; B sweeps and controls. 
+
+197: GPU/CPU HCIBE implementation with dephasing, systematic condition sweeps and quantitative aperture/flux metrics. 
+
+198: Cleaned publication/movie implementation; synchronized nine-condition HCIBE comparison and composite figure production. 
+
+
+Status: Core TDSE precursor.
+
+205–207 — 3-D TDSE and Directional Gate Dynamics
+
+Purpose: Extension of the earlier 2-D machinery into three dimensions and explicit comparison of HC versus HCB directional dynamics.
+
+205: 3-D split-operator HC/HCB simulation with XY/XZ/YZ slices, maximum-intensity projections, movies and snapshots. 
+
+206: Refined 3-D implementation, including corrected half-step potential propagation and time-dependent C-field lens. 
+
+207: Cleaner production implementation of HC versus HCB dynamics and 4×3 comparative movie/figure assembly. 
+
+
+Status: Core 3-D dynamics precursor.
+
+208–209 — Distance Laws, Isotopes and Shield Calibration
+
+Purpose: Empirical/theoretical calibration of electron and nuclear tunnelling against donor–acceptor distance.
+
+208: Electron/H/D/T distance-rate curves, uncertainty envelopes, Gray–Winkler and MADH/Masgrau comparisons, and explicit Shield-guideline development. 
+
+209: Extensive refinement of the empirical comparison, including electron Gray–Winkler data and H/D/T MADH/Masgrau datasets and alternative Shield representations. 
+
+
+Status: Empirical calibration / Shield-development branch.
+
+210 — Transition to Real Physical Systems
+
+Two distinct notebook-210 variants survive.
+
+210 Porphyrin: Applies the 3-D TDSE framework to porphyrin-SAM/REE, graphene-control and Fe²⁺/Fe³⁺ porphyrin model systems. 
+
+210 PSII: Introduces real 3WU2 structural processing: robust Mn₄/Ca selection, μ-oxo identification and nearby-water assignment for the OEC. 
+
+Status: Real-system transition / immediate precursor to the PSII programme.
+
+Historical progression
+
+196–198 — 2-D TDSE and gate architecture
+↓
+205–207 — 3-D TDSE and directional HC/HCB dynamics
+↓
+208–209 — empirical distance laws, isotopes and Shield calibration
+↓
+210 — first application to real materials and real PSII geometry
+↓
+211–220 — mature transport-law → hydration → TDSE → structural → production PSII sequence
+
+Interpretive note: The newly recovered notebooks substantially strengthen the existing 211–220 index. Notebook 211 should no longer be regarded as the beginning of the underlying computational programme: it is better treated as the beginning of a more mature phase whose TDSE, Shield/distance-law and real-structure components can already be traced through 196–210. The currently inspected material does not identify the earlier RLC/SPICE/admittance origin; that ancestry therefore remains provisionally upstream of notebook 196, with the 180–195 region the principal interval for further audit.
+
+
+
+
 
 14 Jul 2026
  noting:  Based on reading through notebooks 211–220, I'd organise the table of contents like this. This is necessarily approximate because many notebooks contain successive revisions rather than a single clean project, but the progression is clear.
