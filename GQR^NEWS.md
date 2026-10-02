@@ -2,7 +2,9 @@
 
 
 🔔 
-2 October 2026 — Programme reorganisation, post-July reconstruction, and new master entry point
+2 October 2026 
+
+— Programme reorganisation, post-July reconstruction, and new master entry point
 
 A substantial reorganisation of the GQR / QGE / AOI programme has now been completed across the repository, programme index, and Zenodo records.
 
@@ -292,6 +294,18 @@ separation between historical and current formulations,
 and readiness for later consolidation into stronger field-specific manuscripts.
 
 
+
+🔬 August 2026 — Nanoscience@Surfaces at the new Cavendish Laboratory
+
+One of the highlights of the summer was the Nanoscience@Surfaces Summer School 2026, held at the University of Cambridge’s Cavendish Laboratory in the striking new Ray Dolby Centre.
+
+The week brought together an unusually broad range of surface-science and nanoscience approaches, with lectures and practical sessions covering areas including scanning probe microscopy, spectroscopy, diffraction, computational modelling, nanoscale materials, interfaces and surface chemistry. The programme also included student research posters, which made the breadth of current work particularly visible. 
+
+For me, the event was memorable not simply for the science but for the quality of the whole setting: an exceptional new laboratory building, excellent lecturers, a strong student poster programme, and a genuinely stimulating atmosphere around modern surface and nanoscale science.
+
+Particular thanks are due to the Institute of Physics Thin Films and Surfaces Group, the Cavendish Laboratory, and especially Jack Kelsall, together with Viv Thomas at the IOP, for what was an exceptionally well organised week. Contemporary accounts from other participants similarly singled out the organisation and the opportunity for hands-on work at the new Cavendish facilities. 
+
+The summer school also helped provide useful scientific context for the later programme reassessment: the contrast between sophisticated modern experimental surface science and some of the programme’s earlier broad theoretical claims reinforced the need for the more disciplined audit and reconstruction undertaken later in the year.
 
 ---
 
