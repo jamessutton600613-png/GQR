@@ -1,6 +1,305 @@
 # News / Updates
 
 
+🔔 
+2 October 2026 — Programme reorganisation, post-July reconstruction, and new master entry point
+
+A substantial reorganisation of the GQR / QGE / AOI programme has now been completed across the repository, programme index, and Zenodo records.
+
+The key practical change is that GQR90 should now be treated as the main scientific entry point to the historic GQR programme, rather than the older GQR1 record.
+
+🔗 Core links
+
+GQR90 / JPA1 — master entry point
+The Gated Quantum Resonator: a reduced-representation Hamiltonian–network framework for gated driven–dissipative quantum systems
+Zenodo record: https://zenodo.org/records/22666598
+Latest DOI: 10.5281/zenodo.22406016
+
+GQR89 / JCP1
+Exact mean-residence optimum for dephasing-assisted transport through a lossy quantum bridge
+DOI: 10.5281/zenodo.22304666
+
+GQR91 / PRA1
+Invariant dark subspaces protect the sign of decoherence response under competing loss
+DOI: 10.5281/zenodo.22666875
+
+GQR86 
+Bridge-Observability Kernels Define the Exact Neutral Set of Competing-Loss Quantum Transport
+DOI: 10.5281/zenodo.22707693
+
+
+
+---
+
+🧭 What changed scientifically?
+
+The September 2026 exact/control reconstruction separated four distinct scientific roles:
+
+GQR89 / JCP1 — exact mean-residence solution for an irreversible lossy bridge and exact dephasing optimum.
+
+GQR91 — exact competing-loss trace balance and invariant-dark sign structure.
+
+GQR90 / JPA1 / ChemRxiv GQR1 v8 — controlled reduced-representation Hamiltonian–network framework, with explicit separation between preserved structure and phenomenological closure.
+
+GQR86 — bridge-observability kernel and exact neutral-set theorem for competing-loss transport.
+
+
+This sequence marked a substantial methodological change in the programme.
+
+The underlying gate-dependent Hamiltonian/network and open-system architecture was retained, while stronger phenomenological claims developed around the earlier GQR4–5 period — particularly the proposal of a universal coupling–loss–dephasing “Quantum Shield” boundary and Shield-law closures such as g² = κγφ (later ζγφ) — were narrowed, qualified, or removed from the core definition where later exact results did not support universality.
+
+The present framework is therefore better viewed as:
+
+a controlled reduced-representation formalism,
+
+grounded in explicit open-system structure,
+
+supported by exact solvable bridge/control results,
+
+and more careful about the distinction between preserved mechanism and stronger phenomenological closure.
+
+
+Accordingly:
+
+> GQR1 remains important historically, but GQR90 / JPA1 should now be treated as the preferred scientific master record where the two differ.
+
+
+
+
+---
+
+🗂 Historical note on GQR1 and GQR90
+
+This succession is historically unusual.
+
+The original GQR90 draft had become so extensively rewritten during reconstruction that it was initially almost unrecognisable as an upversion of GQR1, sharing very little formal continuity in visible citation structure. It was therefore issued under a new GQR number.
+
+That continuity issue was later corrected by:
+
+restoring the lineage more explicitly,
+
+updating the ChemRxiv side as GQR1 v8,
+
+and bringing the present GQR90 / JPA1 v3 into a more historically legible relationship with the original GQR1 framework.
+
+
+So the situation is now:
+
+GQR1 = historical origin record,
+
+GQR90 / JPA1 = current preferred rigorous formulation,
+
+ChemRxiv GQR1 v8 = restored continuity bridge.
+
+
+
+---
+
+📘 GQR93 / Q3 report now live
+
+The Q3 report (GQR93) is now part of the live programme update layer.
+
+This report documents:
+
+the state of the wider programme as of Q3,
+
+the significance of the Act II upgrades,
+
+the post-2026 restructuring of key branches,
+
+and the broad transition from the older framework into the newer exact/control sequence.
+
+
+At present, the Act II upgrades should be read with an important caveat:
+
+> They appear to contain significant improvements, but some later AI-assisted reformulations moved rapidly into open-system physics language in ways that still require fuller author-side review and endorsement.
+
+
+
+So for now, they are best regarded as:
+
+scientifically important,
+
+clearly nontrivial,
+
+but still awaiting fuller final author reconciliation at the level of framing and interpretation.
+
+
+
+---
+
+⚙️ GQR92 status — Fe–S chemistry audit/update
+
+Work is also being organised around GQR92, which functions as a technical audit/update of the Fe–S chemistry branch.
+
+The most useful way to understand GQR92 is:
+
+it is not a retraction of GQR24 or SM2,
+
+it is not yet the final destination for the Fe–S branch,
+
+but it does address a key methodological issue that later became unavoidable.
+
+
+In particular, GQR92 revisits the Fe–S catalytic work using BS-DFT, rather than relying only on the earlier simplified DFT treatment.
+
+That matters because:
+
+the original GQR24 result was already provocative,
+
+many Fe–S specialists would expect broken-symmetry DFT to be the more appropriate standard for complex cubane-like catalytic systems,
+
+and GQR92 therefore acts as a reviewer-relevant audit / reinforcement layer rather than simply a cosmetic update.
+
+
+So the present reading is:
+
+GQR24 — original catalytic result,
+
+SM2 / GQR83 — compressed/application-layer continuation,
+
+GQR92 — methodological audit/update bringing BS-DFT competence more explicitly into the Fe–S branch.
+
+
+
+---
+
+🧪 Benchmarking, computational difficulties, and GQR94 status
+
+Benchmarking efforts through late 2026 proved substantially more difficult than originally hoped.
+
+Two early lines did not mature into public benchmark outputs:
+
+the Sharon Hammes-Schiffer CPET / PCET subcase failed under unstable AI-assisted workflow development,
+
+and a later zirconium modelling line stalled pending a Burgers-related fix.
+
+
+Later computational work was much stronger, but that material is not yet public as a DOI record.
+
+A further report, currently referred to as GQR94, remains delayed / non-public pending export-control clarification. This later benchmark/programme layer is expected to cover stronger post-failure computational results, including work downstream of the newer BS-DFT experience.
+
+⚠️ Current access status
+
+UK export-control status: ECJU Control List Classification advice pending for relevant software and technical documentation.
+
+Because of that, some later benchmark-related material has been:
+
+circulated selectively by email,
+
+discussed in proposal form,
+
+or retained as non-public technical-report material,
+
+rather than immediately released as a public DOI package.
+
+
+
+---
+
+🧾 Grant and development routes
+
+Alongside the scientific restructuring, several practical development routes have also been explored.
+
+These include:
+
+proposed chemistry-facing routes involving Mulholland / Bristol chemistry,
+
+related Harwell-facing possibilities,
+
+and broader attempts to convert parts of the programme into fundable or collaborative forms.
+
+
+This sits beside the newer benchmark/computational branch and the continuing effort to decide how best to package:
+
+theory,
+
+chemistry audit/update work,
+
+benchmark evidence,
+
+and later technical-report outputs.
+
+
+
+---
+
+📌 Summary of present status
+
+The simplest current summary is:
+
+GQR90 / JPA1 is now the main scientific entry point for the historic GQR framework.
+
+GQR89, GQR91, and GQR86 together define a major exact/control reconstruction phase.
+
+GQR93 / Q3 is live and documents the broader programme transition.
+
+GQR92 is the key Fe–S chemistry audit/update, especially regarding BS-DFT.
+
+GQR94 remains delayed / non-public pending CLC-related advice.
+
+The programme index and repository have now been updated accordingly.
+
+
+
+---
+
+🕰 Earlier July 2026 position — now superseded
+
+The previous July news layer, centred on:
+
+SM1 release,
+
+the GQR1 Director’s Cut framing,
+
+SynSci 2026 / PSII presentation activity,
+
+and the Survivor Motifs expansion,
+
+
+remains historically important, but has now been superseded by the later exact/control reconstruction and programme reorganisation described above.
+
+The July material should therefore be read as an earlier phase in the 2026 development arc, rather than as the current best guide to the state of the programme.
+
+
+---
+
+🔭 Ongoing direction
+
+The programme now divides more clearly into several interacting layers:
+
+historical GQR framework and lineage records,
+
+exact bridge / control reconstruction,
+
+chemistry audit and Fe–S methodological refinement,
+
+Survivor Motifs / persistence branch,
+
+benchmark and computational assessment,
+
+and future grant / collaboration routes.
+
+
+The immediate practical aim is not to multiply disconnected uploads, but to improve:
+
+clarity of lineage,
+
+correctness of the master entry points,
+
+separation between historical and current formulations,
+
+and readiness for later consolidation into stronger field-specific manuscripts.
+
+
+
+---
+
+
+
+
+
+
 21 July
 
 News Update
