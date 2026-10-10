@@ -1,4 +1,23 @@
-# 🌐 QGRE (fomerly GQR/QGE/AOI) Convergence Report 
+# 🌐 QGRE (fomerly GQR/QGE/AOI) Convergence Reports
+
+🧬 Geometry and orbital symmetry organise multicentred catalysis
+
+📚 Primary research: Woojin Lee et al., “Harnessing through-space orbital interactions for multicentred organosulfur catalysis,” *Nature Catalysis*, published 2 September 2026. [DOI: 10.1038/s41929-026-01602-y](https://doi.org/10.1038/s41929-026-01602-y).
+
+🖼️ Accompanying commentary: Marc E. Lennon & Javier Mateos, “Breaking symmetry for better catalysis,” *Nature Catalysis*, News & Views, published 9 October 2026. [DOI: 10.1038/s41929-026-01621-9](https://doi.org/10.1038/s41929-026-01621-9).
+
+🔬 Reported finding. A spirocyclic scaffold positions four sulfur atoms around a central carbon, enabling through-space interactions between their p orbitals. These interactions produce a collective, four-centred highest-occupied molecular orbital (HOMO) of elevated energy and enable enhanced electrophilic arene halogenation. Multi-atom cooperation supports nucleophilicity in the sulfide state and halogen-transfer capability in the corresponding sulfonium state. 
+
+🧩 Geometry is functionally operative. The supplementary comparisons distinguish the effects of orbital arrangement from sulfur count alone. Related scaffolds containing four sulfur atoms exhibit different orbital interactions because their geometry and orbital phases differ. Structural, spectroscopic and computational evidence therefore connects molecular organisation to electronic structure and catalytic behaviour.
+
+🔗 Relevance to the GQR programme. The original enzyme-as-GQR framing treated molecular architecture as an organiser of coupled electronic and vibrational coordinates, shaping the interactions and pathways available to catalysis. This independent study provides a chemical example of that broader principle:
+Constrained geometry → orbital symmetry and coupling → electronic-state organisation → catalytic function.
+The correspondence is strongest at the level of geometry-controlled electronic interactions. The study does not directly examine dynamical gating, resonant motion or the enzyme-specific GQR model.
+
+🖼️ Connection with the NV resonator article below. This result couples nicely with the nitrogen-vacancy experiment discussed in the following entry. The organosulfur study demonstrates how molecular geometry organises cooperative orbital interactions into catalytic function; the NV study demonstrates how timed optical control of quantum spin populations generates a force that drives resonant mechanical motion. 
+
+🧭 Combined programme relevance. Read together, the two papers provide complementary experimental convergence: one connects spatial organisation to electronic cooperation and chemical reactivity, while the other connects temporal gating to quantum-state-dependent force and resonant response. Their relationship to GQR is a programme-level interpretation of independent results, with each experiment establishing its own specific mechanism.
+
 
 🔬 2026-10-07 — Spin-gated mechanical resonance at macroscopic scale
 
