@@ -1,6 +1,6 @@
 # 🌐 QGRE (fomerly GQR/QGE/AOI) Convergence Reports
 
-🧬 Geometry and orbital symmetry organise multicentred catalysis
+##🧬 Geometry and orbital symmetry organise multicentred catalysis
 
 📚 Primary research: Woojin Lee et al., “Harnessing through-space orbital interactions for multicentred organosulfur catalysis,” *Nature Catalysis*, published 2 September 2026. [DOI: 10.1038/s41929-026-01602-y](https://doi.org/10.1038/s41929-026-01602-y).
 
@@ -19,7 +19,7 @@ The correspondence is strongest at the level of geometry-controlled electronic i
 🧭 Combined programme relevance. Read together, the two papers provide complementary experimental convergence: one connects spatial organisation to electronic cooperation and chemical reactivity, while the other connects temporal gating to quantum-state-dependent force and resonant response. Their relationship to GQR is a programme-level interpretation of independent results, with each experiment establishing its own specific mechanism.
 
 
-🔬 2026-10-07 — Spin-gated mechanical resonance at macroscopic scale
+## 🔬 2026-10-07 — Spin-gated mechanical resonance at macroscopic scale
 
 🖼️ Visual: OIST photograph and experimental setup
 
