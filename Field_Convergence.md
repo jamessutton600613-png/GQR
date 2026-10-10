@@ -1,6 +1,24 @@
 # 🌐 QGRE (fomerly GQR/QGE/AOI) Convergence Report 
 
-Yes. For the **Convergence GitHub page**, I’d frame it explicitly as an **independent convergence note**, not as “this paper proves Survivor Motifs.”
+🔬 2026-10-07 — Spin-gated mechanical resonance at macroscopic scale
+
+🖼️ Visual: OIST photograph and experimental setup
+
+Reference: Anshuman Nayak, Daehee Kim, Shilu Tian & Jason Twamley, “Spin-force from a Nitrogen-Vacancy ensemble drives a 100 mg levitated resonator,” Science Advances (7 October 2026). DOI: 10.1126/sciadv.aeh0566.
+
+Reported result. The team periodically pulsed a green laser to initialise nitrogen-vacancy (NV) electron spins in a diamond suspended from a levitated graphite plate. In a magnetic-field gradient, changes in the spins’ magnetic moment generated a force on the assembly. Pulsing at its 17.6 Hz mechanical resonance drove phase-coherent motion in the 128 mg resonator: about 100 nm in air and up to approximately 1.5 μm in vacuum. Removing the magnetic gradient or using a non-polarising infrared laser suppressed the strong response. 
+
+Relevance to GQR. This is a direct experimental convergence with the GQR programme’s central gated-resonator motif: a controlled quantum subsystem changes an interaction, and timed gating channels that interaction into a resonant response:
+
+$$\text{gate} \;\longrightarrow\; \text{quantum-state-dependent interaction} \;\longrightarrow\; \text{resonant response}$$
+
+In the original GQR application, the enzyme itself was described as a gated quantum resonator: coupled vibronic–electronic coordinates, with structural and environmental constraints shaping accessible pathways. The OIST experiment gives that abstract motif a visible hardware counterpart. 
+
+Convergence status. This is the first direct experimental realisation I can identify within the programme of a GQR-like gated-resonator motif—not a test of the enzyme-specific model. The OIST group demonstrates spin-gated mechanical driving; the connection to GQR is a programme-level synthesis, not a claim of influence or shared authorship.
+
+Scope and significance. The experiment establishes a spin-dependent force driving a classical mechanical mode. “Phase-coherent” describes the oscillator’s synchronised motion; it does not establish a non-classical superposition of the 128 mg resonator. Nor does the study test enzyme catalysis or proton-coupled electron transfer. Its significance for GQR is that quantum-state preparation, timed gating, interaction and resonant output are separately identifiable and measurable in a physical system.
+
+
 
 # Quantum Birthmarks and Survivor Motifs: independent convergence on recurrence, restricted exploration and persistent memory
 
