@@ -10,7 +10,7 @@ Reported result. The team periodically pulsed a green laser to initialise nitrog
 
 Relevance to GQR. This is a direct experimental convergence with the GQR programme’s central gated-resonator motif: a controlled quantum subsystem changes an interaction, and timed gating channels that interaction into a resonant response:
 
-$$\text{gate} \;\longrightarrow\; \text{quantum-state-dependent interaction} \;\longrightarrow\; \text{resonant response}$$
+$$\text{gate} \\longrightarrow\ \text{quantum-state-dependent interaction} \;\longrightarrow\; \text{resonant response}$$
 
 In the original GQR application, the enzyme itself was described as a gated quantum resonator: coupled vibronic–electronic coordinates, with structural and environmental constraints shaping accessible pathways. The OIST experiment gives that abstract motif a visible hardware counterpart. 
 
