@@ -1,6 +1,6 @@
 # 🌐 QGRE (fomerly GQR/QGE/AOI) Convergence Reports
 
-##🧬 Geometry and orbital symmetry organise multicentred catalysis
+## 🧬 Geometry and orbital symmetry organise multicentred catalysis
 
 📚 Primary research: Woojin Lee et al., “Harnessing through-space orbital interactions for multicentred organosulfur catalysis,” *Nature Catalysis*, published 2 September 2026. [DOI: 10.1038/s41929-026-01602-y](https://doi.org/10.1038/s41929-026-01602-y).
 
