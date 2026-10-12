@@ -1,6 +1,40 @@
 # News / Updates
 
+## 🔬 GQR88 update: what survived the numerical audit?
 
+QGRE programme update · 12 October 2026
+
+A new GQR88 revision has been prepared following an extensive computational audit of its three-dimensional “survivor ecology” model. The audit changes the interpretation of the simulated structures and provides a reproducible account of which claims the tested baseline supports.
+
+The earlier article associated persistent, largely loop-free structures with memory-dependent suppression. The controls now show that the original memory term is unnecessary for the final extracted masks. Stable simulations still produce structured fields, but the proposed memory-driven explanation is unsupported.
+
+🧪 What the controls revealed
+
+- The original solver needed correction. Forward Euler produced substantial amplification before normalisation. Normalising the field concealed that numerical problem. A stable propagator nevertheless also produced structures, so instability alone does not explain their existence.
+- Memory had a small measurable effect. At the original coefficient and 1,500 intervals, it reduced retained norm by approximately 71.6 parts per million. Removing it changed no final mask voxels across 12 seeds and three extraction thresholds.
+- The measured skeletons did not show a branching hierarchy. Loop-free skeletons were also common among spectrum-conditioned surrogate fields. Differences in skeleton size remain a limitation of that comparison.
+- Preparation and domain conditions mattered. Free periodic propagation, using the tested initial state, already produced the principal central and opposite-region concentrations. Moving the sources and adding an absorbing layer changed the observed distribution.
+- Concentration was not the same as survival. A normalised field could become strongly concentrated near the centre while almost all its absolute norm disappeared.
+
+📐 The scientific lesson
+
+A percentile mask always selects the highest-ranked part of a nonuniform field. Its continued appearance therefore does not, by itself, demonstrate that a substantial amount of the original wave survives.
+
+The revision separates four measurements: instantaneous conditional occupancy, instantaneous absolute occupancy, accumulated conditional occupancy and the topology of the extracted mask.
+
+That distinction is useful beyond this particular calculation. It helps identify when an apparent persistent structure reflects propagation, normalisation, accumulation or extraction—and what additional evidence is needed to assign a mechanism.
+
+The audit does not establish a complete replacement explanation, and its conclusions concern the specified baseline rather than every historical GQR77/88 variant or the wider programme.
+
+📦 A correction that can be inspected
+
+The accompanying 15-page article and source bundle contain equations, figures, saved numerical results, analysis scripts, provenance records and an explicit correction ledger. One short baseline was independently reimplemented and rerun; the long scans were assessed from archived outputs.
+
+AI-assisted reviews helped identify errors, including errors in the reviews themselves. Their agreement is not a substitute for independent expert scrutiny.
+
+The revision is prepared for deposition as a Zenodo upversion and research draft. It may interest computational physicists, numerical analysts, researchers extracting topology from images, and those teaching or evaluating reproducible AI-assisted science.
+
+The outcome is a narrower claim with stronger evidence—and a documented route by which the original interpretation was corrected.
 🔔 
 2 October 2026 
 
