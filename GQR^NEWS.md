@@ -1,5 +1,55 @@
 # News / Updates
 
+---
+title: "GQR14–19: what went wrong, what has changed, and what it means for the programme"
+date: 2026-10-13
+---
+
+# GQR14–19: what went wrong, what has changed, and what it means for the programme
+
+*13 October 2026 · James R. F. Sutton*
+
+## First, what this programme is
+
+The GQR programme is a framework built in physics by a non-physicist. I trained in biochemistry and molecular immunology, and I have been trying to retrain in physics through AI assistance. Instead of textbooks, I have worked hands-on from current research papers, using AI systems and Python notebooks for the mathematics, the code and much of the writing.
+
+The papers were written in a research-article format to make them easier to read, and in the hope of getting second opinions from reviewers. **None of them has been peer reviewed.** Zenodo is an archive of developments with DOIs, not a peer-reviewed journal. The papers are best read as a record of learning and of a framework under construction. They are not established frontier results.
+
+## What happened
+
+An eleven-month re-appraisal of GQR14–19 by two AI systems has found serious problems.
+
+- **GQR14 ("Dynamic proof of the 8F4I quantum-critical state").** The code behind its central result did not do what the paper said.
+  - The reported "tunnelling-flux peak" at PSII structure 8F4I was a Gaussian placed at that structure's position by a fixed parameter.
+  - The "O–O distance" was in fact the N–Cα bond of an alanine residue.
+  - Temperature entered only as random noise, so the "flat Arrhenius" result was built in.
+
+  There was no quantum simulation. The code and manuscript were drafted with AI assistance, and earlier AI responses later endorsed the result. The problem was first found by a source audit with Claude, then independently reproduced with ChatGPT.
+- **GQR15–19** relied on that result, and on a "Shield Law" (g² = κγφ) that does not hold as the general law it was presented as.
+- **The September 2026 "v3.x" versions of GQR15–19 were not genuine revisions.** They were short new notes on different topics, issued under the old numbers. Their "historical" sections described errors the originals never contained.
+
+## What has changed
+
+- **GQR14: computational results withdrawn.** A v2 critical edition is posted. It contains the full source audit and the original paper, preserved unchanged.
+- **GQR15: critical edition (v2) prepared.** It sets out claim by claim what holds and what does not. Some standard mathematics survives, including the Madelung–Fisher identity, two-state dynamics and transfer-versus-loss rate comparisons. The derivation claims and the 8F4I "bridge" do not.
+- **GQR16–19: under the same audit.** The September notes will be removed from the GQR16–19 records or clearly relabelled. The original papers stay on the record, with critical editions to follow.
+- **Notation.** κ in early papers is renamed ζ in later work, where κ denotes the trap rate. A single notation note will be added to the Programme Index.
+
+## What this means for the rest of the programme
+
+- **GQR15–19** will be judged as what they were: attempts to extend the GQR Hamiltonian towards a more geometric description. Parts may survive as teaching material, or as pieces of mathematics that later work needed. Claims that do not survive will be marked as such, with the reasons.
+- **GQR1–12 and later papers.** Later work that builds on the GQR Hamiltonian, including GQR86, 89, 90 and 91, is not directly affected by the GQR14 error, because it does not use that code. In my view the Hamiltonian framework has held up better than these papers. That is my assessment, not a reviewed finding, and those papers will be audited in the same way.
+- **The geometry engine** uses valid mathematics, the same mathematics used in general relativity. It does not make any claim about gravity itself.
+- **SM1 and SM3** are historical developments. They have since been largely superseded by the more exact studies they helped inform.
+- **New rule for every paper.** Read the code and check the inputs before believing the outputs. Predictions are stated before calculations are run.
+
+## A note for others learning with AI
+
+AI made this programme possible, and it also misled it. It can produce convincing code, scientific-looking papers and confident endorsements without any real verification behind them. It can also catch those same errors, when it is asked to check the method rather than the prose. For a self-taught learner without a supervisor, AI audit of this kind has become a useful form of review, though not yet a recognised one. I would still welcome review from a physicist.
+
+Full explanations are in the critical editions, and further updates will follow here.
+
+
 ## 🔬 GQR88 update: what survived the numerical audit?
 
 QGRE programme update · 12 October 2026
