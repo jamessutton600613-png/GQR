@@ -1,11 +1,100 @@
 # News / Updates
 
+## 6 November 2026 — From audit to reconstruction: new GQR16 and GQR17 releases, corrected programme status
+
+*James R. F. Sutton · Public-record status checked 6 November 2026*
+
+The 13 October update reported the withdrawal of GQR14's computational results and the audit of GQR15–19. That correction remains in force. Since then, the original questions behind GQR16 and GQR17 have been reconstructed into more limited, explicit models, and both are now publicly available. GQR16 also has a worked example. GQR19's amendment has only just begun and remains unfinished; it is not a completed or released revision.
+
+This update separates what has been published, what the calculations actually support, and what remains unresolved. The programme remains unreviewed work in progress. A Zenodo DOI records a deposit; it does not confer peer review or scientific validation. AI-assisted checks can help uncover mistakes, but do not replace independent expert scrutiny.
+
+### Current records and access
+
+| Work | Status as of 6 November 2026 | Record to consult |
+| --- | --- | --- |
+| **GQR14** | Computational results withdrawn. The critical-edition PDF is public. Its promised source ZIP is not present in the latest public file list. | [Critical edition, 13 October](https://doi.org/10.5281/zenodo.23341646) |
+| **GQR15** | Critical edition v2 is public, with its source ZIP. The earlier news description “prepared” is out of date. | [Critical edition, 13 October](https://doi.org/10.5281/zenodo.23342872) |
+| **GQR16** | Restored geometric perspective is public; the latest 5 November record includes the worked-example PDF and reproducibility packages. | [Latest checked record](https://doi.org/10.5281/zenodo.23984591) · [4 November article record](https://doi.org/10.5281/zenodo.23954944) |
+| **GQR17** | Restored article, manuscript v1.2 / Zenodo v3, is public with its supporting audit, version-history note and reproducibility ZIP. | [5 November release](https://doi.org/10.5281/zenodo.23984062) |
+| **GQR18** | Audit/reconciliation remains open. No new critical edition is announced here; the latest public record found is the September replacement work. | [September record — historical numbering caveat applies](https://doi.org/10.5281/zenodo.22707022) |
+| **GQR19** | Amendment of the original biological perspective has begun but is unfinished. The September kernel paper is a different work, not this amendment. | [September kernel paper — distinct work](https://doi.org/10.5281/zenodo.22707115) |
+| **GQR88** | The numerical-audit article and source bundle are public. The 12 October news item's “prepared for deposition” wording is superseded. | [Apparent persistence in a dissipative wave model](https://doi.org/10.5281/zenodo.23306261) |
+| **GQR90 / JPA1** | Remains the preferred entry point to the Hamiltonian–network framework. A newer 15 October record contains the main article and SI. | [15 October release](https://doi.org/10.5281/zenodo.23392868) |
+| **GQR92** | The prospective Fe–S study is public. Its outcome weakens the historical ordering claim; it is not a simple confirmation. | [Public study, 2 October](https://doi.org/10.5281/zenodo.23102000) |
+| **GQR93 / Q3** | Public metadata and DOI exist, but report files are restricted according to the record's access notice. “Live” should not be read as freely downloadable. | [Public record and access notice](https://doi.org/10.5281/zenodo.23101134) |
+| **GQR94** | A public FMO preprint and supporting ZIP are available. The record's publication date is 13 October. | [Buffered by speed, unmasked by stress](https://doi.org/10.5281/zenodo.23327303) |
+
+Dates in this table are the public records' stated publication dates, not reconstructed upload times. Exact record links identify the versions checked for this update. Repository version numbers and manuscript version numbers are not interchangeable.
+
+### GQR16: geometry, quantum flow and a worked control
+
+The restored article, **Geometry, quantum flow and molecular feedback**, returns to the relationship between a molecular configuration, quantum probability flow and a responding nuclear framework. It distinguishes established mathematical representations: Madelung density and phase, a Bargmann lift of a specified Hamiltonian, and exact factorization of coupled electronic and nuclear dynamics.
+
+These constructions concern the geometry of a model or its configuration space. They do not establish physical spacetime gravity, a new gravitational theory or a catalytic mechanism. The September strain-network note is a different work and should not be used as a substitute for this reconstruction of the original GQR16 question.
+
+The worked example couples two harmonic coordinates. A prescribed drive replaying the flexible coordinate's complete mean history reproduces the light coordinate's mean motion exactly. It does not reproduce the light coordinate's variance or reduced-state purity. This gives a concrete distinction between matching a mean trajectory and matching a complete reduced state.
+
+That distinction has limits. The replay removes both fluctuations and reciprocal response, so the residual cannot uniquely be attributed to a benefit from back-action. The example uses established quadratic/Gaussian mechanics; its first and second moments also admit a classical positive-Wigner ensemble description. It is neither a demonstration of quantum advantage nor a validated molecular or enzymatic model. The value is an explicit, inspectable calculation with a matched control and a clearly stated null result for the mean.
+
+The [latest public record](https://doi.org/10.5281/zenodo.23984591) includes both worked-example ZIP versions. Version 1.1 clarifies document licensing and packaging; its scientific calculation is unchanged from version 1.0.
+
+### GQR17: coordinated modulation, with the observables kept distinct
+
+**Coordinated modulation and spectral response in open two-state systems** reconstructs the original modulation question in a specified open-system model. It separates loss, dephasing and population reset, and distinguishes sidebands in a prepared coherence signal from the maintained population response of a driven doublet.
+
+The model shows a phase-dependent response when Hamiltonian and dephasing-rate controls are modulated together. Its response remains smooth through the previously proposed universal dephasing cutoff. Reversing the orientation of the two-control cycle changes the calculated population response under the stated conditions.
+
+This is an orientation effect in control space. It does not establish spatial molecular chirality, magnetochirality, endogenous feedback, biological coherence, quantum advantage or a gravitational mechanism. Those claims would need their own physical model, observables and controls.
+
+The [5 November release](https://doi.org/10.5281/zenodo.23984062) includes the article, supporting audit, version note and source package. It is **manuscript v1.2 / Zenodo v3**. The [original November 2025 manuscript](https://doi.org/10.5281/zenodo.17563555) remains the public historical reference. The [September paper, Synthetic Gauge Fields and Reciprocal-Port Nonreciprocity in Open Networks](https://doi.org/10.5281/zenodo.22706975), addresses a different question and is intended for separate numbering. Its former GQR17 designation is superseded by the version-history clarification; a separately numbered public replacement is not announced here. The historical September record still carries its old title.
+
+### What remains open in GQR14–19
+
+GQR14's result is withdrawn, not restored by the later reconstructions. GQR15 retains limited standard mathematics while withdrawing the claimed derivational and evidential bridge. Neither GQR16 nor GQR17 repairs the original 8F4I calculation or reinstates a universal Shield Law.
+
+GQR18 still requires reconciliation. Work has begun on an amendment to the original GQR19 biological perspective, including its reliance on GQR14 and its claims about phase-sensitive coupling across thylakoids. That work is unfinished. No new experiment, validated transmission mechanism or completed GQR19 release is being claimed. The September general-kernel paper must be handled as a distinct work rather than presented as an amendment of the original biological manuscript.
+
+### GQR88: retain the correction, change the release status
+
+The [public numerical audit](https://doi.org/10.5281/zenodo.23306261) supports the substantive correction described on 12 October. Stable propagation can produce structured fields, but the tested baseline does not establish memory-driven loop suppression, hierarchical branching or absolute persistence. At the original memory coefficient, removing memory changed no final mask voxels in the tested seed/threshold comparison.
+
+A normalised or accumulated image can retain a striking shape while almost all absolute norm has been lost. Conditional occupancy, absolute survival and extracted-mask topology therefore remain separate measurements. These findings concern the audited finite-grid baseline, not every historical variant or a calibrated physical system. Earlier celebratory descriptions of the GQR88 mechanism are superseded by this audit.
+
+### The current framework and chemistry records
+
+The [15 October GQR90 / JPA1 release](https://doi.org/10.5281/zenodo.23392868) remains the recommended framework entry point. Its abstract explicitly separates exact preservation within specified representations from phenomenological closures that need independent validation. The retained coordinates come from an upstream modelling choice; the paper does not supply a general projection or truncation algorithm. Matched input–output equality is a consistency property by construction, and a coupling–loss–dephasing coordinate does not select a universal microscopic transport optimum.
+
+[GQR89](https://doi.org/10.5281/zenodo.22304666), [GQR91](https://doi.org/10.5281/zenodo.22666875) and [GQR86](https://doi.org/10.5281/zenodo.22707693) remain the associated exact/control sequence. Results within their stated models do not, by themselves, validate wider biological, chemical or gravitational interpretations.
+
+The older description of **GQR92** as an audit “reinforcement” needs correction. The [public prospective study](https://doi.org/10.5281/zenodo.23102000) reports a substantial, state-dependent response, but does **not** reproduce the historical catalytic-state accessibility ordering. Its stated preregistered outcome is **weaken**. A comparable response magnitude with reorganised state structure is different from confirmation of the earlier sequence.
+
+**GQR93** has a [public DOI record](https://doi.org/10.5281/zenodo.23101134), but its files remain restricted under the access notice displayed there. This corrects both the index's “not yet DOI-deposited” wording and any implication in the earlier news that the complete report is openly available. No new regulatory determination is asserted here.
+
+**GQR94** now identifies a [public FMO modelling study](https://doi.org/10.5281/zenodo.23327303), with a preprint PDF and supporting ZIP. It investigates how rapid transfer can buffer differences among mutants and how increased loss can expose them. The study reports that a geometrically dark state does not remain protected against the modelled protein bath. It also leaves the sign of a prominent mutant effect unresolved across alternative exit models. Effects on natural-population variation and fitness remain untested.
+
+This is a candidate physical explanation explored in a model anchored to published inputs, not experimental validation of the whole programme. The earlier blanket statement that GQR94 is non-public is superseded for this identified record. Its public availability does not establish that other benchmark materials have been released or that any regulatory question has been resolved.
+
+### Corrections, review and historical records
+
+The immediate priority is to keep the original scientific questions, later model calculations and unsupported interpretations distinguishable. A reproducible calculation establishes what the specified calculation does; it does not establish that its assumptions describe a molecule, organism or other physical system. Similar-looking geometry across domains is not independent experimental confirmation.
+
+Comments and corrections are welcome through [GitHub Issues](https://github.com/jamessutton600613-png/GQR/issues). Please identify the paper, DOI/version and equation, code path or result being discussed, and include a reproducible counterexample or relevant source where possible. Views and downloads measure access, not scientific endorsement.
+
+---
+
+## Historical news archive — entries through 13 October 2026
+
+**Archive notice added 6 November 2026.** The dated posts below are retained as a record of what was said at the time. They include claims, access descriptions and publication plans that later changed. The current status table and corrections above take precedence; the 13 October GQR14–19 withdrawal notice and the GQR88 numerical audit also supersede incompatible earlier claims. Historical uses of “validated”, “proof”, “confirmed”, “unified” or similar language should not be read as present-day endorsement or evidence of peer review. Literature analogies and engagement counts do not independently validate this programme.
+
 ---
 title: "GQR14–19: what went wrong, what has changed, and what it means for the programme"
 date: 2026-10-13
 ---
 
 # GQR14–19: what went wrong, what has changed, and what it means for the programme
+
+> **Status update — 6 November 2026:** The GQR14 withdrawal remains in force. GQR15 is published, and reconstructed GQR16/GQR17 records are now public. GQR18 remains unresolved; GQR19’s amendment is unfinished. See the current status table above.
+
 
 *13 October 2026 · James R. F. Sutton*
 
@@ -52,6 +141,9 @@ Full explanations are in the critical editions, and further updates will follow 
 
 ## 🔬 GQR88 update: what survived the numerical audit?
 
+> **Release-status correction — 6 November 2026:** The audit article and source bundle are public at [10.5281/zenodo.23306261](https://doi.org/10.5281/zenodo.23306261). The scientific cautions below remain applicable; “prepared for deposition” is historical wording.
+
+
 QGRE programme update · 12 October 2026
 
 A new GQR88 revision has been prepared following an extensive computational audit of its three-dimensional “survivor ecology” model. The audit changes the interpretation of the simulated structures and provides a reproducible account of which claims the tested baseline supports.
@@ -89,6 +181,9 @@ The outcome is a narrower claim with stronger evidence—and a documented route 
 2 October 2026 
 
 — Programme reorganisation, post-July reconstruction, and new master entry point
+
+> **Corrections — 6 November 2026:** GQR90 has a newer 15 October record. GQR92 reports a “weaken” outcome for the historical ordering, not straightforward reinforcement. GQR93 has a DOI but restricted files. The identified GQR94 FMO record is public. These corrections supersede incompatible status or interpretation statements in this entry.
+
 
 A substantial reorganisation of the GQR / QGE / AOI programme has now been completed across the repository, programme index, and Zenodo records.
 
@@ -399,6 +494,9 @@ The summer school also helped provide useful scientific context for the later pr
 
 
 21 July
+
+> **Scientific supersession notice — 6 November 2026:** The July and earlier entries below retain their original contemporary wording. In particular, later GQR14/GQR15 corrections and the GQR88 audit supersede incompatible claims about demonstrated PSII quantum dynamics, universal Shield-law mechanisms, memory-driven survivor topology or programme-wide validation. No blanket validation of the wider archive is implied.
+
 
 News Update
 
