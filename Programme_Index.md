@@ -1,24 +1,27 @@
-# Programme Index — Quantum Geometry Resonance Engines [QGRE]   10 Aug 2026 (JRFS)
-*(incorporating Computational Chemistry/Physics/Biophysics/Mathematics: 
-GQR / QGE / AOI / Graphene / AFC / Survivor Motifs programme compression. 
-GC-arc IMMUNOLOGY (at end))*
+# Programme Index — Quantum Geometry Resonance Engines [QGRE]
 
-This page is the canonical front page for the programme.
+*Updated 6 November 2026 · James R. F. Sutton*
 
-Entries are ordered primarily by **conceptual dependency and programme development**, rather than by upload date. Programme identifiers and canonical titles should be treated as the stable identity of each work. PDF filenames are retained as an **archive/development layer** and may therefore include revision numbers, supplementary documents, code audits, or historical working names.
+Computational chemistry, physics, biophysics and mathematics: GQR / QGE / AOI / Graphene / AFC / Survivor Motifs, with the pre-GQR precursor archive and GC-arc immunology programme retained below.
+
+This page is the programme's navigation index. **Start with [GQR90 / JPA1](https://doi.org/10.5281/zenodo.23392868)** for the current Hamiltonian–network framework, then read GQR89, GQR91 and GQR86 for the associated exact/control results. GQR1 remains the historical origin record.
+
+Entries follow programme development rather than upload date. Numbers, titles and filenames must be read together with the version notes: several September 2026 works were placed under earlier numbers despite addressing different questions. Current corrected records are identified below; older titles and files remain historical references, not alternative statements of current findings.
+
+**Evidence and status:** the programme remains unreviewed work in progress. Significance codes describe a work's intended or historical role, not confidence, validation or peer-review status. GQR14's computational results are withdrawn. The general Shield-law claim is not established; historical formulations in GQR4, GQR5, GQR9, GQR12, GQR22, GQR48, GQR82 and related works must be read with the GQR14/GQR15 corrections and GQR90's restrictions. Reproducible model behaviour does not by itself validate a molecular, biological or gravitational interpretation. Geometry of a model or configuration space is not evidence of physical spacetime gravity.
 
 ## Significance codes
 
-- 🔴 **CORE** — load-bearing papers defining invariants or formal structure
-- 🟠 **FOUNDATIONAL** — early load-bearing scaffolds, programme-start axioms, or essential bridge texts
-- 🔵 **THEORY** — formal theoretical developments refining the framework
-- 🟢 **FORK** — domain extensions or applications of the core framework
-- 🟣 **BRANCH** — sustained sub-programme arcs with internal continuity
-- ⚪ **INCIDENTAL** — contextual, exploratory, reflective, or precursor works
-- 🟡 **APPLICATION** — focused application of established programme machinery
-- 🟤 **SYNTHESIS** — cross-field synthesis or programme-level contextual integration
+- 🔴 **CORE** — intended or historical central role in the programme's formal structure
+- 🟠 **FOUNDATIONAL** — early scaffolding, starting assumptions or bridge texts
+- 🔵 **THEORY** — formal theoretical developments
+- 🟢 **FORK** — domain extensions or applications
+- 🟣 **BRANCH** — sustained sub-programme arcs
+- ⚪ **INCIDENTAL** — contextual, exploratory, reflective or precursor works
+- 🟡 **APPLICATION** — focused applications or prospective tests
+- 🟤 **SYNTHESIS** — cross-field synthesis or programme-level appraisal
 
-For CORE / FOUNDATIONAL papers, a *Direct Precursor* is listed where a single prior read is especially useful.
+Explicit labels such as **WITHDRAWN**, **RECONSTRUCTED**, **UNFINISHED** and **RESTRICTED FILES** take precedence over a historical significance code. A *Direct Precursor* indicates a useful earlier read, not independent evidential support.
 
 ---
 
@@ -27,7 +30,7 @@ For CORE / FOUNDATIONAL papers, a *Direct Precursor* is listed where a single pr
 | ID | Preferred archive file(s) | Title | Significance | Core term(s) | Direct precursor | DOI |
 |---|---|---|---|---|---|---|
 | preGQR1 | |6D Rotary Engines: Mechanistic Framework for Delocalised π-Electron Catalytic Mechanism... | ⚪ INCIDENTAL | rotary catalysis | — | 10.5281/zenodo.18300110 |
-| preGQR2 | |The Quantum-Classical Tumbling Locomotion (QC-TCL) Hypothesis... | ⚪ INCIDENTAL || tumbling; locomotion | — | 10.5281/zenodo.18299933 |
+| preGQR2 | |The Quantum-Classical Tumbling Locomotion (QC-TCL) Hypothesis... | ⚪ INCIDENTAL | tumbling; locomotion | — | 10.5281/zenodo.18299933 |
 | preGQR3 || Interfacial Water and Constraint Media | 🟠 FOUNDATIONAL | interfacial water; constraint media; hydration control | — | 10.5281/zenodo.19950992 |
 | preGQR4 | |Enzyme Mechanics & Active Matter | 🟠 FOUNDATIONAL | enzyme mechanics; active matter; force transmission | preGQR3 | 10.5281/zenodo.19951698 |
 | preGQR5 | |Energy Storage, Redox Cycling, and Time-Resolved Electrostatic Catalysis | 🔴 CORE | redox cycling; electrostatic catalysis; energy storage | preGQR4 | 10.5281/zenodo.19955700 |
@@ -47,9 +50,9 @@ For CORE / FOUNDATIONAL papers, a *Direct Precursor* is listed where a single pr
 
 # GQR — Core Programme
 
-| ID | Preferred archive file(s) | Title | Significance | Principal concepts | DOI |
+| ID | Current or historical file(s) | Current or archival title | Programme role / status | Principal concepts | DOI / record |
 |---|---|---|---|---|---|
-| **GQR1** | `dir_cut.pdf` **[preferred reading copy]**; historical main manuscript + `GQRI(andII)SI.pdf` retained | A Bayesian Circuit–Hamiltonian Framework for Catalysis, Enzymology, Materials Science and UPE | 🔴 CORE | Bayesian circuit-Hamiltonian; geometry-gated transport; resonator grammar | 10.26434/chemrxiv-2025-m7wxn-v7 |
+| **GQR1** | `dir_cut.pdf` **[historical reading copy]**; historical main manuscript + `GQRI(andII)SI.pdf` retained | A Bayesian Circuit–Hamiltonian Framework for Catalysis, Enzymology, Materials Science and UPE | 🔴 CORE / HISTORICAL ORIGIN; GQR90 preferred | Bayesian circuit-Hamiltonian; geometry-gated transport; resonator grammar | 10.26434/chemrxiv-2025-m7wxn-v7 **[historical citation]** |
 | **GQR2** | `GQRII (1).pdf`; `GQRI(andII)SI.pdf` | Funnel–Field Synergy Drives Quantum Tunneling Catalysis toward Proof-of-Resonance | 🔴 CORE | funnel-field; resonance; tunnelling | 10.26434/chemrxiv-2025-6ng5j |
 | **GQR3** | `GQRIII (1).pdf`; `GQRIIISI.pdf` | Aperture–Lens Grammar, Tilt (B) Variants, and Catalytic Quantum Microscopy | 🔴 CORE | aperture-lens grammar; geometric steering | 10.26434/chemrxiv-2025-ctb1v |
 | **GQR4** | `GQRIV_1 (1).pdf`; `GQRIVSI (1).pdf` | A Quantum Shield Law for Coherence and Tunnelling | 🔴 CORE | Quantum Shield; coherence threshold | 10.26434/chemrxiv-2025-q91pt |
@@ -62,12 +65,12 @@ For CORE / FOUNDATIONAL papers, a *Direct Precursor* is listed where a single pr
 | **GQR11** | `gqrXI_tex (3).pdf` | Gated Quantum Resonator Framework for Self-Organizing Catalytic Reaction Networks | ⚪ INCIDENTAL | catalytic networks; self-organisation | 10.26434/chemrxiv-2025-dccdw-v2 |
 | **GQR12** | `gqr12.1MAIN.pdf` | Curvature–Information Catalysis: From Quantum Biology to Material Design | 🔴 CORE | curvature–information | 10.5281/zenodo.18130281 |
 | **GQR13** | `gqr13.pdf` | Curvature–Information Resonators in Weather and Climate | 🟢 FORK | curvature-information; climate | 10.5281/zenodo.18130389 |
-| **GQR14** | `GQR14Berry (1).pdf` | Dynamic Proof of the 8F4I Quantum-Critical State as a Curvature–Coherence Stationary Channel | 🔴 CORE | stationary channel; Berry structure | 10.5281/zenodo.19134299 |
-| **GQR15** | `GQR15.pdf` | The Gated Channel as a Curvature–Information Bridge | 🔴 CORE | curvature-information bridge | 10.5281/zenodo.18131247 |
-| **GQR16** | `xvi (8).pdf` | Gravity as a Coherence Ensemble: From the Shield Law to the Einstein–Cartan Tensor | 🔴 CORE | coherence; curvature; gravity | 10.5281/zenodo.18130662 |
-| **GQR17** | `xviiUPDATE8nov.pdf` | Synchronicity and Gravito-like Potentials from Coherence Vortices | 🟠 FOUNDATIONAL | coherence vortices; curvature-information | 10.5281/zenodo.17563554 |
-| **GQR18** | `xviii.pdf` | The Field-Agnostic Principle — A Unified Framework for Coherence Across Disciplines | 🟠 FOUNDATIONAL / RECOVERED | field-agnostic coherence; geometry | current GQR18 record |
-| **GQR19** | `xix (9).pdf` | GQR Shield Law as a Unified Principle for Biological and Nanoscale Machines | 🔴 CORE | Shield Law; biological machines | 10.5281/zenodo.18130875 |
+| **GQR14** | `GQR14_Critical_Edition_v2.pdf` **[critical edition; public PDF only]** | GQR-XIV Critical Edition — Dynamic Proof of the 8F4I Quantum-Critical State as a Curvature–Coherence Stationary Channel: claims withdrawn, source audit, and what remains | **COMPUTATIONAL RESULTS WITHDRAWN** | source audit; imposed peak; incorrect coordinate; methodological correction | [10.5281/zenodo.23341646](https://doi.org/10.5281/zenodo.23341646) |
+| **GQR15** | `GQR15_Critical_Edition_v2.pdf`; `GQR15_Critical_Edition_v2_Sources.zip` | Critical Edition — The Gated Channel as a Curvature–Information Bridge: claim ledger, mathematical corrections, and a source audit of the GQR14 evidence | 🔴 CORE (historical role) / CRITICAL EDITION v2 | retained standard mathematics; withdrawn derivational and 8F4I bridge claims | [10.5281/zenodo.23342872](https://doi.org/10.5281/zenodo.23342872) |
+| **GQR16** | `GQR16_Geometry_Quantum_Flow_and_Molecular_Feedback.pdf`; `GQR16_Worked_Example.pdf`; reconstruction report and source/example ZIPs | **Geometry, quantum flow and molecular feedback** | 🔴 CORE (historical role) / RECONSTRUCTED; latest checked record 5 November | Madelung flow; Bargmann lift; exact factorization; coupled-oscillator control; no gravitational or molecular validation | [10.5281/zenodo.23984591](https://doi.org/10.5281/zenodo.23984591) |
+| **GQR17** | `GQR17_Manuscript_v1_2_Zenodo_v3.pdf`; supporting audit; version note; `GQR17_v1_2_Zenodo_v3.zip` | **Coordinated modulation and spectral response in open two-state systems** | 🟠 FOUNDATIONAL (historical role) / RECONSTRUCTED; manuscript v1.2 / Zenodo v3 | coordinated controls; loss versus dephasing; phase-dependent response; control-cycle orientation | [10.5281/zenodo.23984062](https://doi.org/10.5281/zenodo.23984062) |
+| **GQR18** | `xviii.pdf` **[recovered original; provenance unresolved]** | The Field-Agnostic Principle — A Unified Framework for Coherence Across Disciplines **[original title]** | 🟠 FOUNDATIONAL / AUDIT AND RECONCILIATION OPEN | field-agnostic coherence; geometry; historical numbering collision | Original record identification unresolved; September [22707022](https://doi.org/10.5281/zenodo.22707022) is a distinct work; see note 5 |
+| **GQR19** | `xix (9).pdf` **[original archive]**; amendment unfinished | GQR Shield Law as a Unified Principle for Biological and Nanoscale Machines **[original title]** | 🔴 CORE (historical role) / AMENDMENT UNFINISHED | historical PSII/thylakoid claims; GQR14 dependency; no completed amended release | [Historical version series: 10.5281/zenodo.18130875](https://doi.org/10.5281/zenodo.18130875); currently resolves to distinct September work; see note 4 |
 | **GQR20** | `XXfusion (6).pdf` | GQR-Fusion Salvation: An Einstein–Cartan–Penrose–Rosen Waveguide Model for Plasma Stability | 🟢 FORK | fusion; plasma stability | 10.5281/zenodo.18130899 |
 | **GQR21** | `XXI (5).pdf` | Bayesian Thermodynamic Smart Walls for Fusion | 🟢 FORK | Bayesian control; fusion | 10.5281/zenodo.18130919 |
 | **GQR22** | `prx1 (27).pdf`; SI/figure package | The Shield Law: Curvature–Coherence Invariance in a Vibronically-Gated Five-Centre Quantum System | 🔴 CORE | Shield; QGE; curvature-coherence | 10.5281/zenodo.18131028 |
@@ -137,108 +140,76 @@ For CORE / FOUNDATIONAL papers, a *Direct Precursor* is listed where a single pr
 | **GQR85 / SM4** | `natOEC (3).pdf` **[main]**; `gqrIX_code_audit (3).pdf` **[code/audit companion]** | Survivor Motifs IV: Quantum-Critical Transport Organisation in the Photosystem II Oxygen-Evolving Complex | 🟡 APPLICATION | PSII; OEC; quantum-critical transport; isotopic bifurcation; recurrence | 10.5281/zenodo.20541546 |
 | **GQR86** | `GQR86_bridge_observability_v0_3.pdf`; `gqr86_v03.py`; `GQR86_v03_reproducibility.ipynb`; `GQR86_v03_scan.csv`; `GQR86_v03_summary.json` | **Bridge-Observability Kernels Define the Exact Neutral Set of Competing-Loss Quantum Transport** | 🔴 CORE | bridge observability; exact neutral set; dark subspaces; competing loss; bridge occupancy; residence response | **10.5281/zenodo.22707693** |
 | **GQR87** | `Clusters26 (14).pdf` **[main]**; `Clusters26 (15).pdf` **[Author’s Perspective companion]** | **Combinatorial Explosions in Nuclear Cluster Physics: A Synthesis of Many Bodies, Some Foreign, and How They Are Managed** | 🟤 SYNTHESIS | many-body reduction; configuration landscapes; persistence; survivor selection | **10.5281/zenodo.20574900** |
-| **GQR88** | `3dTopO.pdf` | **Preliminary Investigation of Three-Dimensional Survivor Ecologies: Geometry, Branching and Topological Suppression in Non-Hermitian Memory Fields** | 🔵 THEORY | 3D survivor ecologies; topology suppression; branching; non-Hermitian memory | **10.5281/zenodo.20583433** |
+| **GQR88** | `GQR88_Audit_Article.pdf`; `GQR88_Audit_Article_Source.zip`; `3dTopO.pdf` and original code **[historical]** | **Apparent persistence in a dissipative wave model** | 🔵 THEORY / NUMERICAL AUDIT AND CORRECTION | stable propagation; conditional occupancy versus absolute survival; extracted-mask topology; unsupported memory-driven interpretation | [10.5281/zenodo.23306261](https://doi.org/10.5281/zenodo.23306261) |
 | **GQR89 / JCP1** | `dir_cut (22).pdf`; `ExactLossySi.pdf`; associated code | **Exact mean-residence optimum for dephasing-assisted transport through a lossy quantum bridge** | 🔴 CORE | exact mean-residence law; dephasing-assisted transport; dark-state unlocking; lossy bridge | **10.5281/zenodo.22304666** |
-| **GQR90 / JPA1 / GQR1 v8** | `dir_cut (28).pdf`; `dir_cut (32).pdf` | **The Gated Quantum Resonator: a reduced-representation Hamiltonian–network framework for gated driven–dissipative quantum systems** | 🔴 CORE / SUCCESSOR | reduced representation; Hamiltonian-network framework; representation discipline; GQR1 successor | **10.5281/zenodo.22666598** |
+| **GQR90 / JPA1** | `dir_cut_45.pdf` **[main]**; `dir_cut_45_SI.pdf` **[SI]** | **The Gated Quantum Resonator: a reduced-representation Hamiltonian–network framework for gated driven–dissipative quantum systems** | 🔴 CORE / CURRENT PREFERRED ENTRY POINT; 15 October record | reduced representation; exact preservation versus closure; GQR1 successor; non-universal transport optimum | [10.5281/zenodo.23392868](https://doi.org/10.5281/zenodo.23392868) |
 | **GQR91** | `PRA1.pdf`; `PRA1si.pdf` | **Invariant dark subspaces protect the sign of decoherence response under competing loss** | 🔴 CORE | invariant dark subspaces; competing loss; decoherence response; exact sign protection | **10.5281/zenodo.22666875** |
-| **GQR92** | `GQR92 (2).pdf` | **Prospective Broken-Symmetry Validation of Geometry-Conditioned Response in an Fe4S4 Catalytic Series** | 🟡 APPLICATION / PROSPECTIVE VALIDATION | Fe–S; broken-symmetry DFT; geometry-conditioned response; prospective falsification; state topology | **not yet deposited** |
-| **GQR93 / Q3V2** | `Q3 (2).pdf` / current final report | **QGRE Q3 2026 Programme Appraisal Report — From Expansion to Finite Utility** | 🟤 SYNTHESIS / PROGRAMME AUDIT | exact/control spine; audit-driven compression; Sutton Index; finite utility; DFT-derived resource control | **not yet deposited** |
+| **GQR92** | `GQR92 (2).pdf` **[public]** | **Prospective Broken-Symmetry Validation of Geometry-Conditioned Response in an Fe4S4 Catalytic Series** | 🟡 APPLICATION / PROSPECTIVE AUDIT — **WEAKEN / REFORMULATE** | Fe–S; BS-DFT; state-dependent response; historical catalytic ordering not reproduced | [10.5281/zenodo.23102000](https://doi.org/10.5281/zenodo.23102000) |
+| **GQR93 / Q3V2** | `Q3 (2).pdf` **[archive filename; public report files restricted]** | **QGRE Q3 2026 Programme Appraisal Report — Version 2 / From Expansion to Finite Utility** | 🟤 SYNTHESIS / PROGRAMME AUDIT — **RESTRICTED FILES** | programme appraisal; exact/control sequence; audit and prioritisation | [10.5281/zenodo.23101134](https://doi.org/10.5281/zenodo.23101134) **[public metadata and access notice]** |
+| **GQR94** | `FMO_buffered_preprint_draft_v2.pdf`; `FMO_preprint_SI.zip` **[public]** | **Buffered by speed, unmasked by stress: how a photosynthetic antenna hides mutational variation** | 🟡 APPLICATION / PUBLIC MODELLING STUDY | FMO; timescale buffering; stress-dependent mutant variation; exit-model uncertainty; fitness untested | [10.5281/zenodo.23327303](https://doi.org/10.5281/zenodo.23327303) |
 ---
 
-## Archive notes
+## Version, access and archive notes
 
-1. **GQR numbers and canonical titles are the stable programme identifiers.**  
-   Local PDF filenames record the development history and should not be treated as the scientific identity of the work.
+1. **Identify the work as well as the number.** Titles and numbering have changed, and some records contain distinct works under one version series. Cite the exact title and version-specific DOI where possible. An all-versions/concept DOI can resolve to a later record with a different title. Historical filenames identify archive copies, not current scientific status. The records explicitly updated here were checked on 6 November 2026; this is not a fresh verification of every older citation.
 
-2. Where several files are retained, their roles are labelled explicitly as **main**, **SI**, **extended mathematical record**, **code/audit companion**, **appendix**, or **historical/exploratory material**.
+2. **File roles and availability.** Main, SI, audit, source and historical files have different purposes. An archive filename in this index does not guarantee a current public download. A DOI indicates a deposit, not peer review. AI-assisted checks are not a substitute for independent expert review.
 
-3. **GQR1 / GQR90 identity:**  
-   Earlier GQR1 manuscript versions remain part of the historical archive exist at 3 sites now:  Zenodo GQR1 (v3) / ChemrXiv GQR1 v8 and earlier. (NB a Cambridge University Press link, outside of my control, from ChemRxiv is outdated cites only v6 (and earlier) https://www.cambridge.org/engage/chemrxiv/article-details/695bcb19083c11e4a1ea31aa/ ).  
-   The rigorous scientific successor is now **GQR90 / JPA1**:
+3. **GQR1 / GQR90 lineage.** GQR1 remains the historical origin. The preferred current formulation is GQR90 / JPA1, [15 October record 23392868](https://doi.org/10.5281/zenodo.23392868), with main article and SI. Its [all-versions DOI 22406016](https://doi.org/10.5281/zenodo.22406016) is a navigation link, not the version-specific citation. Earlier GQR1 filenames and the ChemRxiv citation above are retained as historical references; no latest ChemRxiv version is asserted here.
 
-   **The Gated Quantum Resonator: a reduced-representation Hamiltonian–network framework for gated driven–dissipative quantum systems**  
-   DOI: **10.5281/zenodo.22666598**
+4. **GQR14–19: corrections and distinct works.**
+   - **GQR14:** central computational results remain withdrawn. The [critical edition](https://doi.org/10.5281/zenodo.23341646) is public as a PDF; the promised source ZIP is absent from its checked file list. Historical file: `GQR14Berry (1).pdf`.
+   - **GQR15:** [critical edition v2](https://doi.org/10.5281/zenodo.23342872) and sources are public. Some standard mathematics survives; the derivational claims and GQR14/8F4I bridge do not. Historical file: `GQR15.pdf`.
+   - **GQR16:** the original title was *Gravity as a Coherence Ensemble: From the Shield Law to the Einstein–Cartan Tensor* (`xvi (8).pdf`). The restored geometric perspective is [23954944, 4 November](https://doi.org/10.5281/zenodo.23954944); the [latest checked record, 23984591, 5 November](https://doi.org/10.5281/zenodo.23984591), adds the worked example. The [concept DOI 18130661](https://doi.org/10.5281/zenodo.18130661) spans the series. The September [strain-network paper 22706950](https://doi.org/10.5281/zenodo.22706950) is a different work. The latest record should not be called “v4”: the series contains two 5 November records. The harmonic example matches the light-coordinate mean under mean-history replay but not its variance/purity; it does not establish quantum advantage or a molecular mechanism.
+   - **GQR17:** the original *Synchronicity and Gravito-like Potentials from Coherence Vortices* (`xviiUPDATE8nov.pdf`) is [v1, 17563555](https://doi.org/10.5281/zenodo.17563555). The restored article is [23984062](https://doi.org/10.5281/zenodo.23984062), manuscript v1.2 / Zenodo v3; [17563554](https://doi.org/10.5281/zenodo.17563554) is the concept DOI. Its model distinguishes loss, dephasing and population reset, with a phase-dependent response and no universal cutoff at the modulation frequency. Control-cycle orientation is not spatial chirality or a gravitational mechanism. The September [flux-ring paper 22706975](https://doi.org/10.5281/zenodo.22706975), *Synthetic Gauge Fields and Reciprocal-Port Nonreciprocity in Open Networks*, is a distinct work intended for separate numbering; that separate number is not yet identified here.
+   - **GQR18:** reconciliation remains open; see note 5.
+   - **GQR19:** the original biological perspective remains under amendment, and the amendment is unfinished. No completed revision or new validation is announced. September [22707115](https://doi.org/10.5281/zenodo.22707115), *General Kernel Protection, Subspace Invariance, and Algebraic Open-System Hierarchy*, is a different work and is not the biological amendment. The concept DOI in the table currently resolves to that September work.
 
-4. **GQR14–GQR19 temporary provenance note:**  
-   The current upversioned forms of GQR14–GQR19 were produced through substantial AI-assisted reconstruction, formalisation and reframing of earlier programme material. Some later mathematical and physical formulations extend beyond the author’s original wording and are presently undergoing retrospective provenance and endorsement audit.
+5. **GQR18 provenance.** `xviii.pdf` is retained as the recovered original *The Field-Agnostic Principle*. The archive records an earlier numbering collision involving fusion work. The September [22707022](https://doi.org/10.5281/zenodo.22707022), *Discrete Symmetries, Symmetry-Protected Subsectors, and Dark-State Kernel Dynamics in Open Networks*, addresses a different question. No newly completed critical edition or definitive original DOI mapping is asserted here.
 
-   These versions should therefore be treated as **provisional reconstructed successors**, not as a claim that every reformulation, derivation, interpretation or strengthened conclusion is presently independently endorsed by the human author in full detail.
+6. **GQR32 / GC-arc4** is a programme bridge from biological/immunological governance concepts into dynamical-systems and mathematical-physics formulations.
 
-   Earlier versions remain part of the scientific record and should not be regarded as conceptually superseded merely because later versions are more formally developed.
+7. **GQR51–57** form the operational-admissibility → decoherence/interleaving → recurrence → ladder → hierarchical-selection sequence.
 
-   A later dedicated audit will distinguish:
-   - original pre-upversion claims;
-   - AI-assisted translation into standard mathematical/physical language;
-   - genuinely new AI-generated derivations or interpretations;
-   - subsequently verified conclusions;
-   - and claims requiring revision, qualification or withdrawal.
-
-5. **GQR18:** the current `xviii.pdf` corresponds to the recovered original GQR-XVIII manuscript. A historical numbering collision occurred because an earlier v1 slot had been used for fusion-related work.
-
-6. **GQR32 / GC-arc4** is an important programme bridge from biological/immunological governance concepts into general dynamical-systems and mathematical-physics formulations.
-
-7. **GQR51–57** form an important operational-admissibility → decoherence/interleaving → recurrence → ladder → hierarchical-selection sequence.
-
-8. **GQR59 and GQR67 filename correction:**  
-   - GQR59 / AFC6 = `Zen_Combs (40).pdf`  
-   - GQR67 / AFC7 = `afc7 (5).pdf`
+8. **GQR59 / AFC6 and GQR67 / AFC7:** preferred archive filenames are `Zen_Combs (40).pdf` and `afc7 (5).pdf`, respectively.
 
 9. **GQR66** consists of one main manuscript plus five technical appendices, including the loop-dynamics/admissibility Appendix E.
 
-10. **GQR71:** `RHpaper2 (16).pdf` is substantial Supplementary Information and should be retained alongside the main `(18)` manuscript.
+10. **GQR71:** `RHpaper2 (16).pdf` is substantial SI accompanying the main `(18)` manuscript.
 
-11. **GQR73:** `(13)` is the current main manuscript, while `(12)` is the large expanded transport-framework SI.
+11. **GQR73:** `(13)` is the main archive manuscript; `(12)` is the expanded SI/framework and `(3)` earlier exploratory material. GQR17's control-space orientation test is distinct from the spatial chirality claims here and does not validate them.
 
-12. **GQR77:** `(19)` is the main paper, `(29)` the Supplementary Topology Ecology Atlas, and `(3)` earlier exploratory supplementary material.
+12. **GQR77:** `(19)` is the main archive paper, `(29)` the Supplementary Topology Ecology Atlas and `(3)` earlier exploratory material. The GQR88 audit concerns its specified baseline, not every GQR77/88 variant.
 
-13. **GQR82 / SM1:** `QSPsiAll1.pdf` contains the four-part supplementary architecture covering Shield provenance, mathematical development, PSII dynamical verification, and the open-system-origin audit. `SIforSIrads.pdf` is the dimensional-conventions appendix.
+13. **GQR82 / SM1:** `QSPsiAll1.pdf` preserves the four-part supplementary development, including the historical PSII dynamical claims; `SIforSIrads.pdf` is the dimensional-conventions appendix. These are archival roles, not renewed endorsement of the Shield or PSII claims. Read with the corrections above.
 
-14. **GQR85 / SM4:** `gqrIX_code_audit (3).pdf` is retained as a computational audit companion rather than treated as an obsolete working file.
+14. **GQR85 / SM4:** `gqrIX_code_audit (3).pdf` is retained as a computational audit companion.
 
-15. **GQR86 is no longer unassigned.**  
-   It is the post-GQR89–91 observability-kernel paper:
+15. **GQR86:** [22707693](https://doi.org/10.5281/zenodo.22707693) contains the bridge-observability article, Python implementation, reproducibility notebook, scan CSV and summary JSON.
 
-   **Bridge-Observability Kernels Define the Exact Neutral Set of Competing-Loss Quantum Transport**  
-   DOI: **10.5281/zenodo.22707693**
+16. **GQR87:** `Clusters26 (15).pdf` is an Author's Perspective companion, separate from the scientific argument of the main manuscript.
 
-   The Zenodo record includes:
-   - the manuscript;
-   - Python implementation;
-   - reproducibility notebook;
-   - scan CSV;
-   - and summary JSON.
+17. **GQR89 / JCP1:** [22304666](https://doi.org/10.5281/zenodo.22304666) contains the exact lossy-bridge mean-residence result, SI and code.
 
-16. **GQR87:** `Clusters26 (15).pdf` is an Author's Perspective companion. The scientific manuscript itself explicitly states that this contextual note does not form part of its scientific argument.
+18. **GQR90 / JPA1:** [23392868](https://doi.org/10.5281/zenodo.23392868) supersedes the older 22666598 link as the latest checked version-specific record. Exact preservation within specified representations is distinct from physical validation of phenomenological closures. Retained coordinates come from upstream modelling; the paper does not supply a general reduction algorithm or a universal Shield-law optimum.
 
-17. **GQR89 / JCP1:**  
-   **Exact mean-residence optimum for dephasing-assisted transport through a lossy quantum bridge**  
-   DOI: **10.5281/zenodo.22304666**
+19. **GQR91:** [22666875](https://doi.org/10.5281/zenodo.22666875) contains the competing-loss/invariant-dark-subspace manuscript and SI.
 
-18. **GQR90 / JPA1 / GQR1 v8:**  
-   **The Gated Quantum Resonator: a reduced-representation Hamiltonian–network framework for gated driven–dissipative quantum systems**  
-   DOI: **10.5281/zenodo.22666598**
+20. **GQR92 and GQR93 have public DOI records.** The former “not yet deposited” labels are superseded. GQR92's PDF is public; GQR93's report files are restricted. Publication metadata and file access are different statuses.
 
-19. **GQR91:**  
-   **Invariant dark subspaces protect the sign of decoherence response under competing loss**  
-   DOI: **10.5281/zenodo.22666875**
+21. **GQR92 scientific status:** [23102000](https://doi.org/10.5281/zenodo.23102000) reports a prospective **weaken / reformulate** outcome. The historical catalytic-state accessibility ordering is not reproduced. A substantial state-dependent response of comparable magnitude survives with reorganised state structure; this is not confirmation of the original linear catalytic sequence. Read the earlier GQR24 / SM2 claims with this qualification.
 
-20. **GQR92 and GQR93 are current programme records but are not yet DOI-deposited.**
-   - **GQR92** is the prospective Fe–S broken-symmetry validation study.
-   - **GQR93** is the Q3V2 programme appraisal and audit-compression report.
+22. **GQR93 / Q3V2:** [23101134](https://doi.org/10.5281/zenodo.23101134) is a programme appraisal and prioritisation report, not a primary mechanistic result. Public metadata exist, but its access notice restricts the files pending classification advice. This index does not assert a new regulatory determination.
 
-21. **GQR92 scientific status:**  
-   The prospective Fe–S experiment does not reproduce the historical catalytic-state accessibility ordering, but it does recover a strong, state-dependent geometry-conditioned response of comparable magnitude with reorganised topology.
+23. **GQR88:** the [public audit 23306261](https://doi.org/10.5281/zenodo.23306261) replaces the earlier *Preliminary Investigation of Three-Dimensional Survivor Ecologies* as the current reading copy. Stable propagation can produce structured masks, but the tested baseline does not establish memory-driven loop suppression, hierarchical branching or absolute persistence. Conditional occupancy, absolute survival and mask topology are separate measurements. Historical files remain available for provenance.
 
-   The result should therefore be treated as a prospective **weaken / reformulate** outcome rather than confirmation of the original linear catalytic sequence.
-
-22. **GQR93 / Q3V2:**  
-   Q3V2 is a programme-level appraisal, prioritisation and workload document rather than a primary mechanistic paper. It identifies the post-Q1 exact/control spine, records the GQR15–19 reconstruction, separates speculative mechanism from finite-resource computational control, and introduces the finite-utility / Sutton Index prioritisation framework.
+24. **GQR94:** [23327303](https://doi.org/10.5281/zenodo.23327303), dated 13 October, is the public FMO preprint and SI ZIP. It investigates timescale buffering and stress-dependent mutant variation. An important effect's sign depends on the exit model; natural-population and fitness implications remain untested. This public record does not imply release of other benchmark material or resolution of regulatory questions.
 
 ---
 
 # Post-Q1 exact/control spine
 
-The principal post-Q1 reconstruction is:
+The development sequence of the post-Q1 reconstruction is:
 
 **GQR89 → GQR91 → GQR90 → GQR86**
 
@@ -246,7 +217,7 @@ where the four works perform different evidential roles:
 
 - **GQR89 / JCP1** establishes the exact lossy-bridge mean-residence result.
 - **GQR91** develops the competing-loss and invariant-dark response structure.
-- **GQR90 / JPA1 / GQR1 v8** reconstructs the wider framework under stricter representation discipline.
+- **GQR90 / JPA1** reconstructs the wider framework under stricter representation discipline.
 - **GQR86** supplies the geometry-resolved bridge-observability kernel and exact neutral-set construction.
 
 These works should not be treated as interchangeable validations of one another.
@@ -257,13 +228,13 @@ Their significance lies in the way exact transport, competing-loss structure, re
 
 # Programme spine — compact reading route
 
-For readers seeking the shortest route through the formal development:
+**Current framework:** GQR90 → GQR89 → GQR91 → GQR86. Begin with the framework overview, then the lossy-bridge result, competing-loss structure and bridge-observability construction. These are results within stated models, not interchangeable validations of the wider programme.
 
-**GQR1 → GQR4 → GQR5 → GQR12 → GQR
+**Historical development:** GQR1 → GQR4 → GQR5 → GQR12 → GQR14/GQR15 critical editions → GQR16/GQR17 reconstructions. Read this as a history of proposals, corrections and narrowed questions; the early Shield and 8F4I claims are not restored by the later papers. GQR18 reconciliation and the GQR19 amendment remain unfinished.
+
+**Applications and audit:** GQR24 / GQR83 → GQR92 for the Fe–S reassessment; GQR77 / GQR88 for the survivor-model correction; GQR94 for the public FMO modelling study. GQR93 provides programme-level context, with restricted report files.
 
 ---
-
-
 
 # GC-arc — Germinal Centre / Immune Governance Programme
 
@@ -345,3 +316,4 @@ It contains:
 3. selected downstream GQR/QGE papers whose lineage substantially passes through governance, selection, recurrence or survivor-topology concepts.
 
 Community membership therefore denotes **conceptual lineage and archival association**, not that every record is an immunology paper.
+
