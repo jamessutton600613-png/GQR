@@ -1,5 +1,41 @@
 # News / Updates
 
+## 10 November 2026 — GQR19 v3: from reactions to biological machinery
+
+**GQR19 is now available as Zenodo v3, containing manuscript revision 1.14:**
+
+**From reactions to biological machinery: co-ordinated dependency, throughput and clearance**
+
+The revised article returns to the original biological question: **how does local chemistry sustain a working machine?** A reaction can perform well in isolation yet deliver little useful output when products accumulate, electron acceptors become unavailable, transport is restricted or downstream demand changes.
+
+Its organising argument is reciprocal: **chemistry enables machinery, while the machinery changes the conditions that allow the chemistry to continue.**
+
+### What the article brings together
+
+Using photosynthetic machinery as its main example, the article connects light capture and water oxidation with electron and proton transport, electrochemical gradients, rotary ATP synthesis, carbon assimilation and recycling. Two integrated figures explain these relationships and distinguish photosynthesis, organic synthesis and plant respiration.
+
+The term **co-ordinated dependency** describes the compatibility required between these operations. Different stages require different measurements; a single observable need not describe the entire machine.
+
+The evolutionary discussion asks a related question: **once a machine works, how can it change without disabling the interactions that sustain it?**
+
+- **Permissive mutations** can make a later functional change tolerable or accessible.
+- **Epistatic ratchets** can make a previously accessible evolutionary route difficult to reverse.
+- **Coadaptation, coevolution and overlapping functions** help explain how compatibility can be maintained while new combinations become possible.
+
+These established concepts provide a useful connection between molecular mechanisms, evolutionary history and engineering. Where a particular quantum contribution matters to function, its response to downstream conditions remains a specific mechanistic question—not an assumption that the whole system shares one coherence.
+
+### What has been corrected
+
+This is a substantial November 2026 reconstruction of the machinery question posed in December 2025. The earlier universal Shield-Law explanation, claimed 8F4I proof and whole-thylakoid phase-locking claims are not retained.
+
+A separate **correction and version note** documents what survived, what was removed and what was added. It also explains why the September 2026 abstract-network manuscript was unsuitable as a replacement for the biological article. That distinct work is intended for a separate later GQR identifier; reassignment remains pending.
+
+GQR19 now stands as a **biophysical and biomechanical perspective with a teaching emphasis**. Its contribution is the connected explanation and focused questions, rather than a new universal law or new experimental biological result. It has not been peer reviewed.
+
+[Read GQR19 on Zenodo — latest version and version history](https://doi.org/10.5281/zenodo.18130875)
+
+---
+
 ## 6 November 2026 — From audit to reconstruction: new GQR16 and GQR17 releases, corrected programme status
 
 *James R. F. Sutton · Public-record status checked 6 November 2026*
