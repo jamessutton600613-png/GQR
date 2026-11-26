@@ -1,5 +1,7 @@
 # News / Updates
 
+## https://qge-transport-studio.refreshingchord16.chatgpt.site/gqr91 ##
+
 ## 10 November 2026 — GQR19 v3: from reactions to biological machinery
 
 **GQR19 is now available as Zenodo v3, containing manuscript revision 1.14:**
